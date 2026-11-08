@@ -1,0 +1,1569 @@
+{
+  "municipalityId": "NC087",
+  "name": "Dawid Kruiper Local Municipality",
+  "updatedAt": "2026-11-06T03:51:52.527Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 57,
+  "vdsTotal": 57,
+  "wardsTotal": 17,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 33,
+  "seatsMajority": 17,
+  "parties": [
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 32648,
+      "percent": 41.74,
+      "wardsLeading": 8,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 32240,
+      "percent": 41.22,
+      "wardsLeading": 9,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 8263,
+      "percent": 10.56,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 1869,
+      "percent": 2.39,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 1023,
+      "percent": 1.31,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+      "votes": 653,
+      "percent": 0.83,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "RESTORATION SA",
+      "votes": 522,
+      "percent": 0.67,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "KHOISAN REVOLUTION",
+      "votes": 361,
+      "percent": 0.46,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 265,
+      "percent": 0.34,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "CONGRESS OF THE PEOPLE",
+      "votes": 109,
+      "percent": 0.14,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UMKHONTO WESIZWE PARTY",
+      "votes": 104,
+      "percent": 0.13,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN TRANSFORMATION MOVEMENT",
+      "votes": 94,
+      "percent": 0.12,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 68,
+      "percent": 0.09,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INDEPENDENT",
+      "votes": 2,
+      "percent": 0,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 14
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 14
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 4
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 57,
+    "seatsFilled": 33,
+    "parties": [
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 30,
+        "wardSeats": 8,
+        "seats": 14
+      },
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 23,
+        "wardSeats": 9,
+        "seats": 14
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 3,
+        "wardSeats": 0,
+        "seats": 4
+      },
+      {
+        "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "30807001": {
+      "wardId": "30807001",
+      "wardNo": 1,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2203,
+      "registered": 3839,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Ebrain Jacques Visagie",
+          "votes": 945,
+          "percent": 42.9
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Solly Abel",
+          "votes": 784,
+          "percent": 35.59
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Elizabeth Lizel Douw",
+          "votes": 418,
+          "percent": 18.97
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Magrieta Mouers",
+          "votes": 25,
+          "percent": 1.13
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Tshepiso Chaddy Rakanang",
+          "votes": 9,
+          "percent": 0.41
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Hendrik Paulus Roux",
+          "votes": 9,
+          "percent": 0.41
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 4,
+          "percent": 0.18
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Berley-Ann Benisha Beukes",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "Larné Johannes",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Eugene Nompondwana",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807002": {
+      "wardId": "30807002",
+      "wardNo": 2,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2233,
+      "registered": 3765,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Trudy Beatrice Ruiters",
+          "votes": 1041,
+          "percent": 46.62
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Hendrina Visagie",
+          "votes": 722,
+          "percent": 32.33
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Usiël Misial Joseph van Rooyen",
+          "votes": 362,
+          "percent": 16.21
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Erick Andries",
+          "votes": 73,
+          "percent": 3.27
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Alette-Ansonette Bouwer",
+          "votes": 11,
+          "percent": 0.49
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Luchricia Banercentiales Lindokuhle Skei",
+          "votes": 7,
+          "percent": 0.31
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "Ancoline Annaska Cloete",
+          "votes": 5,
+          "percent": 0.22
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 4,
+          "percent": 0.18
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Cornelius Johannes Oor",
+          "votes": 4,
+          "percent": 0.18
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Nadia Lavenia Ola Rampagane",
+          "votes": 3,
+          "percent": 0.13
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Anastastia Vanessa Christell Diergaardt",
+          "votes": 1,
+          "percent": 0.04
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807003": {
+      "wardId": "30807003",
+      "wardNo": 3,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1914,
+      "registered": 3068,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Albie Albertus van Zyl",
+          "votes": 860,
+          "percent": 44.93
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Yugeshaan Shaheen Devious Alwyn",
+          "votes": 783,
+          "percent": 40.91
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Monica Johanna Kordom",
+          "votes": 210,
+          "percent": 10.97
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Samuel Andrew Alexander",
+          "votes": 15,
+          "percent": 0.78
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Pieter Johannes Lessingh",
+          "votes": 12,
+          "percent": 0.63
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Willem Collin Louw",
+          "votes": 11,
+          "percent": 0.57
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "William Rodrick Stanley Peterson",
+          "votes": 8,
+          "percent": 0.42
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Zusakhe Naphakade",
+          "votes": 6,
+          "percent": 0.31
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Mercia Arancha Arends",
+          "votes": 4,
+          "percent": 0.21
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Priscilla Shariefa Pampoen",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 2,
+          "percent": 0.1
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Jubené Celesté Malgas",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807004": {
+      "wardId": "30807004",
+      "wardNo": 4,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1993,
+      "registered": 3146,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Festus Frank Stevens",
+          "votes": 934,
+          "percent": 46.86
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Heinrich Martin Havenga",
+          "votes": 767,
+          "percent": 38.48
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Will Marco Squaer",
+          "votes": 208,
+          "percent": 10.44
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Ruben Pieters",
+          "votes": 33,
+          "percent": 1.66
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Maria Elizabeth van Rooy",
+          "votes": 14,
+          "percent": 0.7
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Shamice Elrene Coetzee",
+          "votes": 10,
+          "percent": 0.5
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "Micheal Duiker",
+          "votes": 9,
+          "percent": 0.45
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Hendrik Paulus Roux",
+          "votes": 9,
+          "percent": 0.45
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Theodore-Joshua-Henry Medican",
+          "votes": 6,
+          "percent": 0.3
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 2,
+          "percent": 0.1
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Rocxane Bosman",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807005": {
+      "wardId": "30807005",
+      "wardNo": 5,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2320,
+      "registered": 4021,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Verginia Cathrin de Koker",
+          "votes": 909,
+          "percent": 39.18
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Jacques Wesley Cloete",
+          "votes": 742,
+          "percent": 31.98
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Abraham Maasdorp",
+          "votes": 582,
+          "percent": 25.09
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Stephanus Jantjies",
+          "votes": 30,
+          "percent": 1.29
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Christopher Theophilus Mienies",
+          "votes": 26,
+          "percent": 1.12
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Pieter Johannes Lessingh",
+          "votes": 16,
+          "percent": 0.69
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 4,
+          "percent": 0.17
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Edwill Thihoff September",
+          "votes": 4,
+          "percent": 0.17
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Weronica Sanna Lecholo",
+          "votes": 3,
+          "percent": 0.13
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Matheus Snyman",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Sameul Hermanus Lukas van Wyk",
+          "votes": 1,
+          "percent": 0.04
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "William Rodrick Stanley Peterson",
+          "votes": 1,
+          "percent": 0.04
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807006": {
+      "wardId": "30807006",
+      "wardNo": 6,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1748,
+      "registered": 3542,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Salim Mpiliso Links",
+          "votes": 1195,
+          "percent": 68.36
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Mary Mamojanku Vember",
+          "votes": 247,
+          "percent": 14.13
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Wendy Charity Busisiwe Sibanyoni",
+          "votes": 123,
+          "percent": 7.04
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Miriam Ntombenkosi Tsekoa",
+          "votes": 103,
+          "percent": 5.89
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Nosipho Shirley Gule",
+          "votes": 15,
+          "percent": 0.86
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Oscar Nceba Bongela",
+          "votes": 15,
+          "percent": 0.86
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "John Pita",
+          "votes": 13,
+          "percent": 0.74
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Petrus Johannes Jacobus Goeieman",
+          "votes": 12,
+          "percent": 0.69
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Alette-Ansonette Bouwer",
+          "votes": 9,
+          "percent": 0.51
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Dominic Envidence Bontes",
+          "votes": 8,
+          "percent": 0.46
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Everline Nthofela Ramakhena",
+          "votes": 5,
+          "percent": 0.29
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "William Rodrick Stanley Peterson",
+          "votes": 2,
+          "percent": 0.11
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 1,
+          "percent": 0.06
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807007": {
+      "wardId": "30807007",
+      "wardNo": 7,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1989,
+      "registered": 3575,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Justice Zanele Zambo",
+          "votes": 1134,
+          "percent": 57.01
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Meredith Lizanne Tyers",
+          "votes": 569,
+          "percent": 28.61
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Francis Tuelo Mapulane",
+          "votes": 126,
+          "percent": 6.33
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Loveness Ncumisa Tshona",
+          "votes": 67,
+          "percent": 3.37
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Hendrik Paulus Roux",
+          "votes": 20,
+          "percent": 1.01
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Petrus Johannes Jacobus Goeieman",
+          "votes": 18,
+          "percent": 0.9
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Oscar Nceba Bongela",
+          "votes": 16,
+          "percent": 0.8
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Zandile Porcia Khatshwa",
+          "votes": 14,
+          "percent": 0.7
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Given Simphiwe Nowalaza",
+          "votes": 10,
+          "percent": 0.5
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Castro Temba Sono",
+          "votes": 8,
+          "percent": 0.4
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 3,
+          "percent": 0.15
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Diketso Agnes Kename",
+          "votes": 2,
+          "percent": 0.1
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "William Rodrick Stanley Peterson",
+          "votes": 2,
+          "percent": 0.1
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807008": {
+      "wardId": "30807008",
+      "wardNo": 8,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2574,
+      "registered": 4407,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Adrian Jacques Beukes",
+          "votes": 1669,
+          "percent": 64.84
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Anna Mooi",
+          "votes": 524,
+          "percent": 20.36
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Hendrik Paulus Roux",
+          "votes": 197,
+          "percent": 7.65
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Leon Benjamin Bosman",
+          "votes": 85,
+          "percent": 3.3
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Refilwe Ikutlweng",
+          "votes": 57,
+          "percent": 2.21
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Angelinah van Staden",
+          "votes": 23,
+          "percent": 0.89
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Sara Bezuidenhout",
+          "votes": 10,
+          "percent": 0.39
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nthabiseng Ntseane",
+          "votes": 5,
+          "percent": 0.19
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Siyabonga Edward Louw",
+          "votes": 2,
+          "percent": 0.08
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 1,
+          "percent": 0.04
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Eugene Nompondwana",
+          "votes": 1,
+          "percent": 0.04
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "William Rodrick Stanley Peterson",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807009": {
+      "wardId": "30807009",
+      "wardNo": 9,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2522,
+      "registered": 3277,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Erica Cheré-Ann Strauss",
+          "votes": 2009,
+          "percent": 79.66
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Alette-Ansonette Bouwer",
+          "votes": 282,
+          "percent": 11.18
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mitch Steven Klaaste",
+          "votes": 202,
+          "percent": 8.01
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Elizebeth Michell Araikum",
+          "votes": 18,
+          "percent": 0.71
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Monwabisi Michael Mpande",
+          "votes": 6,
+          "percent": 0.24
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Angelinah van Staden",
+          "votes": 2,
+          "percent": 0.08
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Theodore-Joshua-Henry Medican",
+          "votes": 2,
+          "percent": 0.08
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 1,
+          "percent": 0.04
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Linda Ndude",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "William Rodrick Stanley Peterson",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807010": {
+      "wardId": "30807010",
+      "wardNo": 10,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1946,
+      "registered": 3473,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Maggie Barends",
+          "votes": 879,
+          "percent": 45.17
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Zaida Maasdorp",
+          "votes": 744,
+          "percent": 38.23
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Reginald Ricardo Afrikaner",
+          "votes": 244,
+          "percent": 12.54
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "William Rodrick Stanley Peterson",
+          "votes": 42,
+          "percent": 2.16
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Thembinkosi Ivan Ntemeza",
+          "votes": 13,
+          "percent": 0.67
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Deidre Cecilia Basson",
+          "votes": 9,
+          "percent": 0.46
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 6,
+          "percent": 0.31
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Alette-Ansonette Bouwer",
+          "votes": 6,
+          "percent": 0.31
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Elizabeth Phirinyana Bosman",
+          "votes": 3,
+          "percent": 0.15
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Kenneth Terence van Schalkwyk",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Theodore-Joshua-Henry Medican",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807011": {
+      "wardId": "30807011",
+      "wardNo": 11,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 3032,
+      "registered": 4306,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Ragel Maria Matthys",
+          "votes": 1524,
+          "percent": 50.26
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mellisa Lucille September",
+          "votes": 1114,
+          "percent": 36.74
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Pieter Johannes Lessingh",
+          "votes": 113,
+          "percent": 3.73
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Frans Titus",
+          "votes": 104,
+          "percent": 3.43
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Johannes Jansen",
+          "votes": 67,
+          "percent": 2.21
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Mapheelo Agnes Basson",
+          "votes": 54,
+          "percent": 1.78
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Dawid de Klerk",
+          "votes": 40,
+          "percent": 1.32
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Cornelius Johannes Oor",
+          "votes": 8,
+          "percent": 0.26
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "William Rodrick Stanley Peterson",
+          "votes": 5,
+          "percent": 0.16
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 3,
+          "percent": 0.1
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807012": {
+      "wardId": "30807012",
+      "wardNo": 12,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 2871,
+      "registered": 4642,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Adam Visser",
+          "votes": 1284,
+          "percent": 44.72
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Jack Groenewald",
+          "votes": 1200,
+          "percent": 41.8
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Raymond Colin Coetzee",
+          "votes": 229,
+          "percent": 7.98
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Pieter Johannes Lessingh",
+          "votes": 74,
+          "percent": 2.58
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "Henriëtta Vanessa Kok",
+          "votes": 38,
+          "percent": 1.32
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Eugene Nompondwana",
+          "votes": 17,
+          "percent": 0.59
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Vuyokazi Matroos",
+          "votes": 14,
+          "percent": 0.49
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Mapheelo Agnes Basson",
+          "votes": 11,
+          "percent": 0.38
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 3,
+          "percent": 0.1
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Hendrina Mattheüs",
+          "votes": 1,
+          "percent": 0.03
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807013": {
+      "wardId": "30807013",
+      "wardNo": 13,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1965,
+      "registered": 3911,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Alexandria Gregory Tshepo Bidi",
+          "votes": 1363,
+          "percent": 69.36
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Samuel Sandlana",
+          "votes": 252,
+          "percent": 12.82
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Yvonne Nikiwe Mjila",
+          "votes": 112,
+          "percent": 5.7
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nondayithini Maria Vonkie Skei",
+          "votes": 88,
+          "percent": 4.48
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Petrus Johannes Jacobus Goeieman",
+          "votes": 71,
+          "percent": 3.61
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Denice Britz",
+          "votes": 20,
+          "percent": 1.02
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Marie Mchizwa",
+          "votes": 19,
+          "percent": 0.97
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Christopher Theophilus Mienies",
+          "votes": 12,
+          "percent": 0.61
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Hendrik Paulus Roux",
+          "votes": 9,
+          "percent": 0.46
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Xolile Nocuze",
+          "votes": 7,
+          "percent": 0.36
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Simon Sabata Letsoela",
+          "votes": 7,
+          "percent": 0.36
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 3,
+          "percent": 0.15
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "William Rodrick Stanley Peterson",
+          "votes": 2,
+          "percent": 0.1
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807014": {
+      "wardId": "30807014",
+      "wardNo": 14,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 2609,
+      "registered": 4131,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Franklin Basson",
+          "votes": 1482,
+          "percent": 56.8
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Gerhardus Pieterse",
+          "votes": 817,
+          "percent": 31.31
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "John Jonathan Fick",
+          "votes": 159,
+          "percent": 6.09
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Tina-Marié Lessingh",
+          "votes": 52,
+          "percent": 1.99
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Deniel Refuoe Lebitsa",
+          "votes": 39,
+          "percent": 1.49
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Marisha Shahida Jaar",
+          "votes": 27,
+          "percent": 1.03
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Christopher Theophilus Mienies",
+          "votes": 23,
+          "percent": 0.88
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "William Rodrick Stanley Peterson",
+          "votes": 4,
+          "percent": 0.15
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Cedric Donovan Springbok",
+          "votes": 3,
+          "percent": 0.11
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 3,
+          "percent": 0.11
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Edwill Thihoff September",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807015": {
+      "wardId": "30807015",
+      "wardNo": 15,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 3018,
+      "registered": 5158,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Jan Johannes Kooper",
+          "votes": 1145,
+          "percent": 37.94
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Christi-Ann Ntlanganiso",
+          "votes": 971,
+          "percent": 32.17
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Linda Jobson",
+          "votes": 769,
+          "percent": 25.48
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "Ruwaan Realton Booysen",
+          "votes": 58,
+          "percent": 1.92
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Deidre Cecilia Basson",
+          "votes": 23,
+          "percent": 0.76
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Jackson Williams",
+          "votes": 17,
+          "percent": 0.56
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Tina-Marié Lessingh",
+          "votes": 12,
+          "percent": 0.4
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Ayanda Mei",
+          "votes": 8,
+          "percent": 0.27
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Everel Elrich September",
+          "votes": 5,
+          "percent": 0.17
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 4,
+          "percent": 0.13
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Hester Karliena Rooi",
+          "votes": 3,
+          "percent": 0.1
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Oscar Nceba Bongela",
+          "votes": 2,
+          "percent": 0.07
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Zeldoline Beunice Mmabathu Pholoane",
+          "votes": 1,
+          "percent": 0.03
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807016": {
+      "wardId": "30807016",
+      "wardNo": 16,
+      "vdsCounted": 14,
+      "vdsTotal": 14,
+      "votesCast": 2117,
+      "registered": 3580,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Nasley-Ann van Heerden",
+          "votes": 1231,
+          "percent": 58.15
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Rachel Christina Hidee Maasdorp",
+          "votes": 761,
+          "percent": 35.95
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Tina-Marié Lessingh",
+          "votes": 69,
+          "percent": 3.26
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Willem Eiman",
+          "votes": 24,
+          "percent": 1.13
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Boikie James Bosman",
+          "votes": 12,
+          "percent": 0.57
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Elizebeth Michell Araikum",
+          "votes": 10,
+          "percent": 0.47
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 6,
+          "percent": 0.28
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "William Rodrick Stanley Peterson",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Johanna Anna Marie Koper",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Priscilla Shariefa Pampoen",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30807017": {
+      "wardId": "30807017",
+      "wardNo": 17,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 2132,
+      "registered": 3308,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Dorian Mcgrath Julius",
+          "votes": 1048,
+          "percent": 49.16
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Gert Eiman",
+          "votes": 1034,
+          "percent": 48.5
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Eldrich Renton Rudolf Ferris",
+          "votes": 29,
+          "percent": 1.36
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Remano Recado Moorcroft",
+          "votes": 7,
+          "percent": 0.33
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Tina-Marié Lessingh",
+          "votes": 5,
+          "percent": 0.23
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "William Rodrick Stanley Peterson",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Sandra Elisabeth Palmer",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Willem Eiman",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Johanna Anna Marie Koper",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Magrieta Marlene Izaks",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Priscilla Shariefa Pampoen",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

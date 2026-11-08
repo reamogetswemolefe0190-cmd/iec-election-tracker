@@ -1,0 +1,554 @@
+{
+  "municipalityId": "EC102",
+  "name": "Blue Crane Route Local Municipality",
+  "updatedAt": "2026-11-06T03:46:55.562Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 29,
+  "vdsTotal": 29,
+  "wardsTotal": 6,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 11,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 9211,
+      "percent": 45.25,
+      "wardsLeading": 2,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 7642,
+      "percent": 37.54,
+      "wardsLeading": 4,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 2405,
+      "percent": 11.81,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 579,
+      "percent": 2.84,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 221,
+      "percent": 1.09,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 119,
+      "percent": 0.58,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INDEPENDENT",
+      "votes": 63,
+      "percent": 0.31,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UMKHONTO WESIZWE PARTY",
+      "votes": 45,
+      "percent": 0.22,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN TRANSFORMATION MOVEMENT",
+      "votes": 42,
+      "percent": 0.21,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 30,
+      "percent": 0.15,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 5
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 4
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 1
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 29,
+    "seatsFilled": 11,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 11,
+        "wardSeats": 2,
+        "seats": 5
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 18,
+        "wardSeats": 4,
+        "seats": 4
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "21002001": {
+      "wardId": "21002001",
+      "wardNo": 1,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 1238,
+      "registered": 2796,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Busisiwe Zelda Kwatsha",
+          "votes": 752,
+          "percent": 60.74
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Requel Wanita Lourens",
+          "votes": 257,
+          "percent": 20.76
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Luyanda Jacobs",
+          "votes": 106,
+          "percent": 8.56
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Godfrey Mentoor",
+          "votes": 103,
+          "percent": 8.32
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lizan Burger",
+          "votes": 12,
+          "percent": 0.97
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Toto Zimasile Dyantyi",
+          "votes": 3,
+          "percent": 0.24
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Mandisile Rodney Rafa",
+          "votes": 3,
+          "percent": 0.24
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Noxolo Blouw",
+          "votes": 2,
+          "percent": 0.16
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21002002": {
+      "wardId": "21002002",
+      "wardNo": 2,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1497,
+      "registered": 2840,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Jonathan Malvin Martin",
+          "votes": 650,
+          "percent": 43.42
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Vuyiseka Mbunge",
+          "votes": 643,
+          "percent": 42.95
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Anele Ngqolo",
+          "votes": 119,
+          "percent": 7.95
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Witness Mpumelelo Booi",
+          "votes": 54,
+          "percent": 3.61
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Khanyisa Mzomba",
+          "votes": 8,
+          "percent": 0.53
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lizan Burger",
+          "votes": 7,
+          "percent": 0.47
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Steven Malgas",
+          "votes": 5,
+          "percent": 0.33
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Vuyiseka Mbengo",
+          "votes": 4,
+          "percent": 0.27
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Mary-Ann Sibaca",
+          "votes": 4,
+          "percent": 0.27
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Noxolo Blouw",
+          "votes": 3,
+          "percent": 0.2
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21002003": {
+      "wardId": "21002003",
+      "wardNo": 3,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1757,
+      "registered": 3461,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Ayanda Dyantyi",
+          "votes": 1062,
+          "percent": 60.44
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Mzwamadoda Ntsukumbini",
+          "votes": 529,
+          "percent": 30.11
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "May Adams",
+          "votes": 109,
+          "percent": 6.2
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Sibusisiwe Sylvia Platyi",
+          "votes": 30,
+          "percent": 1.71
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Witness Mpumelelo Booi",
+          "votes": 9,
+          "percent": 0.51
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Monwabisi Theo Nqayi",
+          "votes": 4,
+          "percent": 0.23
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Sebenzile Nelson Feni",
+          "votes": 4,
+          "percent": 0.23
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Noxolo Blouw",
+          "votes": 4,
+          "percent": 0.23
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Thembinkosi Wilberforce Peta",
+          "votes": 4,
+          "percent": 0.23
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lizan Burger",
+          "votes": 2,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21002004": {
+      "wardId": "21002004",
+      "wardNo": 4,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 1953,
+      "registered": 3132,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Herbert Chowles Davenport",
+          "votes": 1040,
+          "percent": 53.25
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Loraine Claasen",
+          "votes": 827,
+          "percent": 42.35
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Noxolo Blouw",
+          "votes": 39,
+          "percent": 2
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Aubrey Vernon Floors",
+          "votes": 19,
+          "percent": 0.97
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Xolile Lynon Doro",
+          "votes": 16,
+          "percent": 0.82
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lizan Burger",
+          "votes": 8,
+          "percent": 0.41
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "George Kay Tooi",
+          "votes": 3,
+          "percent": 0.15
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Nomalanga Eunice Ndzuzo",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Kamva Lisakhanya Jack",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21002005": {
+      "wardId": "21002005",
+      "wardNo": 5,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1828,
+      "registered": 3547,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Lorraine Elizabeth Smith Johnson",
+          "votes": 799,
+          "percent": 43.71
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Thembisa Elsie Memese",
+          "votes": 557,
+          "percent": 30.47
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Johannes Martin Witbooi",
+          "votes": 376,
+          "percent": 20.57
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Juline Gladys Seck",
+          "votes": 69,
+          "percent": 3.77
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lizan Burger",
+          "votes": 16,
+          "percent": 0.88
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Mvuzo Wellington Mahala",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Noxolo Blouw",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Sonwabo Richard Mbatsha",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Kamva Lisakhanya Jack",
+          "votes": 2,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21002006": {
+      "wardId": "21002006",
+      "wardNo": 6,
+      "vdsCounted": 13,
+      "vdsTotal": 13,
+      "votesCast": 1908,
+      "registered": 3557,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Hans Hendricks",
+          "votes": 975,
+          "percent": 51.1
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Simphiwo Innocent Khakana",
+          "votes": 735,
+          "percent": 38.52
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Melville Winnaar",
+          "votes": 66,
+          "percent": 3.46
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Abongile Mbinqose",
+          "votes": 61,
+          "percent": 3.2
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lizan Burger",
+          "votes": 56,
+          "percent": 2.94
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Noxolo Blouw",
+          "votes": 11,
+          "percent": 0.58
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Anda Nkumanda",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Toto Zimasile Dyantyi",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Ayanda Leeroy Xaluva",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

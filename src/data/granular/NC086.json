@@ -1,0 +1,648 @@
+{
+  "municipalityId": "NC086",
+  "name": "Kgatelopele Local Municipality",
+  "updatedAt": "2026-11-06T03:51:49.548Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 11,
+  "vdsTotal": 11,
+  "wardsTotal": 6,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 11,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 3929,
+      "percent": 35.4,
+      "wardsLeading": 4,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "RISE TSANTSABANE COMMUNITIES",
+      "votes": 2090,
+      "percent": 18.83,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 2068,
+      "percent": 18.63,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 1322,
+      "percent": 11.91,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 729,
+      "percent": 6.57,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 535,
+      "percent": 4.82,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 151,
+      "percent": 1.36,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "LABOUR PARTY OF SOUTH AFRICA",
+      "votes": 122,
+      "percent": 1.1,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "KHOISAN REVOLUTION",
+      "votes": 89,
+      "percent": 0.8,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AZANIAN PEOPLE'S ORGANISATION",
+      "votes": 35,
+      "percent": 0.32,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 29,
+      "percent": 0.26,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 4
+    },
+    {
+      "party": "RISE TSANTSABANE COMMUNITIES",
+      "seats": 2
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 2
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 1
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "seats": 1
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 11,
+    "seatsFilled": 11,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 5,
+        "wardSeats": 4,
+        "seats": 4
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 2,
+        "wardSeats": 1,
+        "seats": 2
+      },
+      {
+        "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+        "vdsWon": 2,
+        "wardSeats": 1,
+        "seats": 1
+      },
+      {
+        "party": "RISE TSANTSABANE COMMUNITIES",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 2
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "30806001": {
+      "wardId": "30806001",
+      "wardNo": 1,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1137,
+      "registered": 1851,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Valentine Serati",
+          "votes": 565,
+          "percent": 49.69
+        },
+        {
+          "party": "RISE TSANTSABANE COMMUNITIES",
+          "candidate": "Hillary Moruti",
+          "votes": 271,
+          "percent": 23.83
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Stanley Sebelego",
+          "votes": 125,
+          "percent": 10.99
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Tebogo Michael Rooibaatjie",
+          "votes": 102,
+          "percent": 8.97
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nozici Eunice Maibiri",
+          "votes": 22,
+          "percent": 1.93
+        },
+        {
+          "party": "LABOUR PARTY OF SOUTH AFRICA",
+          "candidate": "Phillip Thamsanqa Mgodeli",
+          "votes": 15,
+          "percent": 1.32
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Jacqueline Abbott",
+          "votes": 14,
+          "percent": 1.23
+        },
+        {
+          "party": "AZANIAN PEOPLE'S ORGANISATION",
+          "candidate": "Kgopolelo Jones Vis",
+          "votes": 9,
+          "percent": 0.79
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Monnapula Eric Sekang",
+          "votes": 7,
+          "percent": 0.62
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Susanna Elizabeth Swanepoel",
+          "votes": 4,
+          "percent": 0.35
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "Susanna Gesina Adams",
+          "votes": 3,
+          "percent": 0.26
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30806002": {
+      "wardId": "30806002",
+      "wardNo": 2,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 846,
+      "registered": 1392,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Ronel Victoria Haai",
+          "votes": 274,
+          "percent": 32.39
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Johann Marius Bezuidenhout",
+          "votes": 214,
+          "percent": 25.3
+        },
+        {
+          "party": "RISE TSANTSABANE COMMUNITIES",
+          "candidate": "Ohaletse Losiamang Adam George",
+          "votes": 193,
+          "percent": 22.81
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Donwill William Athur Neels",
+          "votes": 95,
+          "percent": 11.23
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Bridgalia Emmareece Joseph",
+          "votes": 45,
+          "percent": 5.32
+        },
+        {
+          "party": "LABOUR PARTY OF SOUTH AFRICA",
+          "candidate": "Pule Saul Kopper",
+          "votes": 12,
+          "percent": 1.42
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nellie Januarie",
+          "votes": 7,
+          "percent": 0.83
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "Ragel Melani Cloete",
+          "votes": 3,
+          "percent": 0.35
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Shane Visagie",
+          "votes": 2,
+          "percent": 0.24
+        },
+        {
+          "party": "AZANIAN PEOPLE'S ORGANISATION",
+          "candidate": "Christopher Godfrey Brand",
+          "votes": 1,
+          "percent": 0.12
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Monnapula Eric Sekang",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30806003": {
+      "wardId": "30806003",
+      "wardNo": 3,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 589,
+      "registered": 1164,
+      "rows": [
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Johan Nicolaas Wilhelm Barkhuizen",
+          "votes": 206,
+          "percent": 34.97
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Anna Christina van Zyl",
+          "votes": 178,
+          "percent": 30.22
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Darian Kyhl Bongani Moeng",
+          "votes": 95,
+          "percent": 16.13
+        },
+        {
+          "party": "RISE TSANTSABANE COMMUNITIES",
+          "candidate": "Laurent Snyders",
+          "votes": 50,
+          "percent": 8.49
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Wacillah Prins",
+          "votes": 41,
+          "percent": 6.96
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Masego Precious Leburu",
+          "votes": 8,
+          "percent": 1.36
+        },
+        {
+          "party": "LABOUR PARTY OF SOUTH AFRICA",
+          "candidate": "Phillip Thamsanqa Mgodeli",
+          "votes": 4,
+          "percent": 0.68
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Tumelo Reginald Mokang",
+          "votes": 2,
+          "percent": 0.34
+        },
+        {
+          "party": "AZANIAN PEOPLE'S ORGANISATION",
+          "candidate": "Christopher Godfrey Brand",
+          "votes": 2,
+          "percent": 0.34
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Monnapula Eric Sekang",
+          "votes": 2,
+          "percent": 0.34
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "Beverly Smith",
+          "votes": 1,
+          "percent": 0.17
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30806004": {
+      "wardId": "30806004",
+      "wardNo": 4,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1382,
+      "registered": 2259,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Keamogetse Jeanette Mqomo",
+          "votes": 489,
+          "percent": 35.38
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Gabanthate Dorcas Burger",
+          "votes": 332,
+          "percent": 24.02
+        },
+        {
+          "party": "RISE TSANTSABANE COMMUNITIES",
+          "candidate": "David Davids",
+          "votes": 292,
+          "percent": 21.13
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Elias Boom",
+          "votes": 164,
+          "percent": 11.87
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "Susanna Gesina Adams",
+          "votes": 35,
+          "percent": 2.53
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Susanna Elizabeth Swanepoel",
+          "votes": 29,
+          "percent": 2.1
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Thato Rieck Tsatsi",
+          "votes": 18,
+          "percent": 1.3
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Kebogisitswe Mary Maruping",
+          "votes": 10,
+          "percent": 0.72
+        },
+        {
+          "party": "LABOUR PARTY OF SOUTH AFRICA",
+          "candidate": "Pule Saul Kopper",
+          "votes": 8,
+          "percent": 0.58
+        },
+        {
+          "party": "AZANIAN PEOPLE'S ORGANISATION",
+          "candidate": "Itumeleng Caiphas Momphi",
+          "votes": 4,
+          "percent": 0.29
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Monnapula Eric Sekang",
+          "votes": 1,
+          "percent": 0.07
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30806005": {
+      "wardId": "30806005",
+      "wardNo": 5,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 536,
+      "registered": 1437,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Werner Hugo Mouers",
+          "votes": 204,
+          "percent": 38.06
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Tumelo Alfred Panuel Thipe",
+          "votes": 110,
+          "percent": 20.52
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Johannes Vermeulen",
+          "votes": 78,
+          "percent": 14.55
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Janine Lianza Meldram",
+          "votes": 58,
+          "percent": 10.82
+        },
+        {
+          "party": "RISE TSANTSABANE COMMUNITIES",
+          "candidate": "Kabelo Gordon Moreki",
+          "votes": 43,
+          "percent": 8.02
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Lebogang Macdonald Franse",
+          "votes": 19,
+          "percent": 3.54
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Joele Marumo",
+          "votes": 14,
+          "percent": 2.61
+        },
+        {
+          "party": "LABOUR PARTY OF SOUTH AFRICA",
+          "candidate": "Phillip Thamsanqa Mgodeli",
+          "votes": 8,
+          "percent": 1.49
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Monnapula Eric Sekang",
+          "votes": 2,
+          "percent": 0.37
+        },
+        {
+          "party": "AZANIAN PEOPLE'S ORGANISATION",
+          "candidate": "Akanyang Reginaldohr Brains Lekhula",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "Nkatlholang Francis Karels",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30806006": {
+      "wardId": "30806006",
+      "wardNo": 6,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 1046,
+      "registered": 1654,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Emelda Rooibaadjie",
+          "votes": 406,
+          "percent": 38.81
+        },
+        {
+          "party": "RISE TSANTSABANE COMMUNITIES",
+          "candidate": "Charmaine Melani Nouse",
+          "votes": 208,
+          "percent": 19.89
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Advice Serati",
+          "votes": 207,
+          "percent": 19.79
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Maphuthego Katiy Seele",
+          "votes": 97,
+          "percent": 9.27
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Abraham Lottering",
+          "votes": 83,
+          "percent": 7.93
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ezekiel Seitebaleng",
+          "votes": 20,
+          "percent": 1.91
+        },
+        {
+          "party": "LABOUR PARTY OF SOUTH AFRICA",
+          "candidate": "Pule Saul Kopper",
+          "votes": 12,
+          "percent": 1.15
+        },
+        {
+          "party": "KHOISAN REVOLUTION",
+          "candidate": "Hendrik Pieterse",
+          "votes": 6,
+          "percent": 0.57
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Johannes Vermeulen",
+          "votes": 4,
+          "percent": 0.38
+        },
+        {
+          "party": "AZANIAN PEOPLE'S ORGANISATION",
+          "candidate": "Kgopolelo Jones Vis",
+          "votes": 2,
+          "percent": 0.19
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Monnapula Eric Sekang",
+          "votes": 1,
+          "percent": 0.1
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "municipalityId": "WC052",
+  "name": "Prince Albert Local Municipality",
+  "updatedAt": "2026-11-06T03:46:59.614Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 9,
+  "vdsTotal": 9,
+  "wardsTotal": 5,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 10,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 5991,
+      "percent": 48.98,
+      "wardsLeading": 4,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 4516,
+      "percent": 36.92,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 816,
+      "percent": 6.67,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ACTIONSA",
+      "votes": 304,
+      "percent": 2.49,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "KAROO DEMOCRATIC FORCE",
+      "votes": 265,
+      "percent": 2.17,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 222,
+      "percent": 1.81,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+      "votes": 57,
+      "percent": 0.47,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "COMMUNITY FIRST PARTY",
+      "votes": 26,
+      "percent": 0.21,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 23,
+      "percent": 0.19,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 12,
+      "percent": 0.1,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 5
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 4
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 9,
+    "seatsFilled": 10,
+    "parties": [
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 5,
+        "wardSeats": 4,
+        "seats": 5
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 4,
+        "wardSeats": 1,
+        "seats": 4
+      },
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "10502001": {
+      "wardId": "10502001",
+      "wardNo": 1,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1240,
+      "registered": 1955,
+      "rows": [
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Granwill Jermaine Apies",
+          "votes": 468,
+          "percent": 37.74
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Ruwayn Sarels",
+          "votes": 359,
+          "percent": 28.95
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Muriel Sybil Mowers",
+          "votes": 147,
+          "percent": 11.85
+        },
+        {
+          "party": "KAROO DEMOCRATIC FORCE",
+          "candidate": "Willem Klink",
+          "votes": 117,
+          "percent": 9.44
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Kiewiet Hermanus Corneluis Baadjies",
+          "votes": 116,
+          "percent": 9.35
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Suzaan Marais",
+          "votes": 13,
+          "percent": 1.05
+        },
+        {
+          "party": "COMMUNITY FIRST PARTY",
+          "candidate": "Lilian Prescilla Judy Jonkers",
+          "votes": 9,
+          "percent": 0.73
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Sam Sekhali Mponzo",
+          "votes": 6,
+          "percent": 0.48
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Andrei Markowitj Petoors",
+          "votes": 3,
+          "percent": 0.24
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ashrick Shaun Briesies",
+          "votes": 2,
+          "percent": 0.16
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10502002": {
+      "wardId": "10502002",
+      "wardNo": 2,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1327,
+      "registered": 1779,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Elsabé Koen",
+          "votes": 874,
+          "percent": 65.86
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Julandy Snyders",
+          "votes": 313,
+          "percent": 23.59
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Deon Barend Greyling",
+          "votes": 85,
+          "percent": 6.41
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Madelein Ackerman",
+          "votes": 30,
+          "percent": 2.26
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Christiaan Jacobus Carolissen",
+          "votes": 11,
+          "percent": 0.83
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Ben Stols",
+          "votes": 7,
+          "percent": 0.53
+        },
+        {
+          "party": "KAROO DEMOCRATIC FORCE",
+          "candidate": "Heinrich Maxwell Jacques Esterhuizen",
+          "votes": 4,
+          "percent": 0.3
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ashrick Shaun Briesies",
+          "votes": 1,
+          "percent": 0.08
+        },
+        {
+          "party": "COMMUNITY FIRST PARTY",
+          "candidate": "Arthur Jerome Wildskut",
+          "votes": 1,
+          "percent": 0.08
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nosiphiwo Sifika",
+          "votes": 1,
+          "percent": 0.08
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10502003": {
+      "wardId": "10502003",
+      "wardNo": 3,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1308,
+      "registered": 1868,
+      "rows": [
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Arnold Jonathan Mackay",
+          "votes": 794,
+          "percent": 60.7
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Sidney Deon Koonthea",
+          "votes": 422,
+          "percent": 32.26
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Xavier Wilton Saterdaght",
+          "votes": 64,
+          "percent": 4.89
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Andre Wilson Hinkman",
+          "votes": 12,
+          "percent": 0.92
+        },
+        {
+          "party": "KAROO DEMOCRATIC FORCE",
+          "candidate": "Ben Jacobus Herder",
+          "votes": 10,
+          "percent": 0.76
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Samuel Goliath",
+          "votes": 2,
+          "percent": 0.15
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ashrick Shaun Briesies",
+          "votes": 1,
+          "percent": 0.08
+        },
+        {
+          "party": "COMMUNITY FIRST PARTY",
+          "candidate": "Arthur Jerome Wildskut",
+          "votes": 1,
+          "percent": 0.08
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Leanne Jolene de Vries",
+          "votes": 1,
+          "percent": 0.08
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Juliana Gunter",
+          "votes": 1,
+          "percent": 0.08
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10502004": {
+      "wardId": "10502004",
+      "wardNo": 4,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1227,
+      "registered": 1767,
+      "rows": [
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Goliat Lottering",
+          "votes": 846,
+          "percent": 68.95
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Neville Aubrey Claassen",
+          "votes": 227,
+          "percent": 18.5
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Jan Loff",
+          "votes": 107,
+          "percent": 8.72
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "O'Neacha Rossouw",
+          "votes": 18,
+          "percent": 1.47
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Juliana Gunter",
+          "votes": 17,
+          "percent": 1.39
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Natilie Nathasha Christilene Pekeur",
+          "votes": 6,
+          "percent": 0.49
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Zandile Mngweba",
+          "votes": 2,
+          "percent": 0.16
+        },
+        {
+          "party": "KAROO DEMOCRATIC FORCE",
+          "candidate": "Ben Jacobus Herder",
+          "votes": 2,
+          "percent": 0.16
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ashrick Shaun Briesies",
+          "votes": 1,
+          "percent": 0.08
+        },
+        {
+          "party": "COMMUNITY FIRST PARTY",
+          "candidate": "Arthur Jerome Wildskut",
+          "votes": 1,
+          "percent": 0.08
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10502005": {
+      "wardId": "10502005",
+      "wardNo": 5,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1013,
+      "registered": 1365,
+      "rows": [
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Sarie Hendricks",
+          "votes": 575,
+          "percent": 56.76
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Magrietha Dorothea Jaftha",
+          "votes": 359,
+          "percent": 35.44
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Fanie Johan Goliath",
+          "votes": 59,
+          "percent": 5.82
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Quinton Macpherson",
+          "votes": 9,
+          "percent": 0.89
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Danelle Macailen Fortuin",
+          "votes": 3,
+          "percent": 0.3
+        },
+        {
+          "party": "KAROO DEMOCRATIC FORCE",
+          "candidate": "Heinrich Maxwell Jacques Esterhuizen",
+          "votes": 3,
+          "percent": 0.3
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Juliana Gunter",
+          "votes": 3,
+          "percent": 0.3
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ashrick Shaun Briesies",
+          "votes": 1,
+          "percent": 0.1
+        },
+        {
+          "party": "COMMUNITY FIRST PARTY",
+          "candidate": "Arthur Jerome Wildskut",
+          "votes": 1,
+          "percent": 0.1
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Marlize Joshlene Prins",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

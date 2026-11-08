@@ -1,0 +1,472 @@
+{
+  "municipalityId": "NC071",
+  "name": "Ubuntu Local Municipality",
+  "updatedAt": "2026-11-06T03:51:43.993Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 22,
+  "vdsTotal": 22,
+  "wardsTotal": 6,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 11,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 6346,
+      "percent": 48.67,
+      "wardsLeading": 5,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 3469,
+      "percent": 26.6,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 2277,
+      "percent": 17.46,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INDEPENDENT",
+      "votes": 460,
+      "percent": 3.53,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 327,
+      "percent": 2.51,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INKATHA FREEDOM PARTY",
+      "votes": 71,
+      "percent": 0.54,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 49,
+      "percent": 0.38,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 40,
+      "percent": 0.31,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 5
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 3
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 2
+    },
+    {
+      "party": "INDEPENDENT",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 22,
+    "seatsFilled": 11,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 9,
+        "wardSeats": 5,
+        "seats": 5
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 12,
+        "wardSeats": 0,
+        "seats": 3
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 2
+      },
+      {
+        "party": "INDEPENDENT",
+        "vdsWon": 0,
+        "wardSeats": 1,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "30701001": {
+      "wardId": "30701001",
+      "wardNo": 1,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 892,
+      "registered": 1540,
+      "rows": [
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Maksie Liebenberg",
+          "votes": 345,
+          "percent": 38.68
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Abraham Atthene Oosthuizen",
+          "votes": 304,
+          "percent": 34.08
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Angelique Fidelia Saaiman",
+          "votes": 121,
+          "percent": 13.57
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Lu-Chantel Wilnice Dollies",
+          "votes": 97,
+          "percent": 10.87
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Jacobus Johannes Tolken",
+          "votes": 19,
+          "percent": 2.13
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Lezanne Sanchez de Bruyn",
+          "votes": 2,
+          "percent": 0.22
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Cerise Sinéad le Fleur",
+          "votes": 2,
+          "percent": 0.22
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Abenathi Eloff",
+          "votes": 2,
+          "percent": 0.22
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30701002": {
+      "wardId": "30701002",
+      "wardNo": 2,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 1029,
+      "registered": 1883,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Given Luvuyo Yekani",
+          "votes": 520,
+          "percent": 50.53
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Pieter Jozua Theron",
+          "votes": 355,
+          "percent": 34.5
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Sibabalo Jeremia Olifant",
+          "votes": 121,
+          "percent": 11.76
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Jacobus Johannes Tolken",
+          "votes": 27,
+          "percent": 2.62
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Cerise Sinéad le Fleur",
+          "votes": 3,
+          "percent": 0.29
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Andrew Xolani Adoons",
+          "votes": 2,
+          "percent": 0.19
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Abenathi Eloff",
+          "votes": 1,
+          "percent": 0.1
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30701003": {
+      "wardId": "30701003",
+      "wardNo": 3,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1293,
+      "registered": 1837,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Vuyo Martin Yoyo",
+          "votes": 586,
+          "percent": 45.32
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Frederick Martin Antonie",
+          "votes": 417,
+          "percent": 32.25
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Maria Magtelena Baadjies",
+          "votes": 219,
+          "percent": 16.94
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Annaline Steenkamp",
+          "votes": 37,
+          "percent": 2.86
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Cerise Sinéad le Fleur",
+          "votes": 17,
+          "percent": 1.31
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Jacobus Johannes Tolken",
+          "votes": 12,
+          "percent": 0.93
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Heinrich Jacques Ricardo Fiellies",
+          "votes": 4,
+          "percent": 0.31
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Abenathi Eloff",
+          "votes": 1,
+          "percent": 0.08
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30701004": {
+      "wardId": "30701004",
+      "wardNo": 4,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1210,
+      "registered": 2088,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Clarence Mario Pietersen",
+          "votes": 597,
+          "percent": 49.34
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Ursula Vass",
+          "votes": 276,
+          "percent": 22.81
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Maudine Dorothy Beukman",
+          "votes": 237,
+          "percent": 19.59
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Vanita Efraine Vyver",
+          "votes": 78,
+          "percent": 6.45
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Jacobus Johannes Tolken",
+          "votes": 12,
+          "percent": 0.99
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Cerise Sinéad le Fleur",
+          "votes": 5,
+          "percent": 0.41
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Abenathi Eloff",
+          "votes": 3,
+          "percent": 0.25
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Thapelo Makhakhe",
+          "votes": 2,
+          "percent": 0.17
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30701005": {
+      "wardId": "30701005",
+      "wardNo": 5,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 1161,
+      "registered": 1804,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Zolani Faas",
+          "votes": 666,
+          "percent": 57.36
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Vandi Winlock",
+          "votes": 269,
+          "percent": 23.17
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Iruwan Abrahams",
+          "votes": 193,
+          "percent": 16.62
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Jacobus Johannes Tolken",
+          "votes": 21,
+          "percent": 1.81
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Abenathi Eloff",
+          "votes": 9,
+          "percent": 0.78
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Jubelyn Williams",
+          "votes": 3,
+          "percent": 0.26
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Cerise Sinéad le Fleur",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30701006": {
+      "wardId": "30701006",
+      "wardNo": 6,
+      "vdsCounted": 8,
+      "vdsTotal": 8,
+      "votesCast": 932,
+      "registered": 1448,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Martin Zeekoei",
+          "votes": 462,
+          "percent": 49.57
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Griet Magdalena Jooste",
+          "votes": 416,
+          "percent": 44.64
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Jacobus Johannes Tolken",
+          "votes": 44,
+          "percent": 4.72
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Ivan Adams",
+          "votes": 7,
+          "percent": 0.75
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Abenathi Eloff",
+          "votes": 2,
+          "percent": 0.21
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Cerise Sinéad le Fleur",
+          "votes": 1,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

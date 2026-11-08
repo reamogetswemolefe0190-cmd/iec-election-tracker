@@ -1,0 +1,406 @@
+{
+  "municipalityId": "NC074",
+  "name": "Kareeberg Local Municipality",
+  "updatedAt": "2026-11-06T03:46:49.080Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 15,
+  "vdsTotal": 15,
+  "wardsTotal": 6,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 11,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 4493,
+      "percent": 43.6,
+      "wardsLeading": 4,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 2594,
+      "percent": 25.17,
+      "wardsLeading": 2,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 1482,
+      "percent": 14.38,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 919,
+      "percent": 8.92,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "KAREEBERG CIVIC MOVEMENT",
+      "votes": 659,
+      "percent": 6.39,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 158,
+      "percent": 1.53,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 5
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 3
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "seats": 1
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 1
+    },
+    {
+      "party": "KAREEBERG CIVIC MOVEMENT",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 15,
+    "seatsFilled": 11,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 5,
+        "wardSeats": 4,
+        "seats": 5
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 9,
+        "wardSeats": 2,
+        "seats": 3
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "KAREEBERG CIVIC MOVEMENT",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "30704001": {
+      "wardId": "30704001",
+      "wardNo": 1,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 821,
+      "registered": 1489,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Sarah Isaacs",
+          "votes": 418,
+          "percent": 50.91
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Ricardo Jonathan Beest",
+          "votes": 205,
+          "percent": 24.97
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Willem Frederik Links",
+          "votes": 114,
+          "percent": 13.89
+        },
+        {
+          "party": "KAREEBERG CIVIC MOVEMENT",
+          "candidate": "Jerrian Edwean Johannes Kock",
+          "votes": 40,
+          "percent": 4.87
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Bradley George Brooks",
+          "votes": 37,
+          "percent": 4.51
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Pieter Nicholaas Botha",
+          "votes": 7,
+          "percent": 0.85
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30704002": {
+      "wardId": "30704002",
+      "wardNo": 2,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 929,
+      "registered": 1309,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Joanett Jonathan Claasens",
+          "votes": 410,
+          "percent": 44.13
+        },
+        {
+          "party": "KAREEBERG CIVIC MOVEMENT",
+          "candidate": "Denzil Macpherson Earl Isaacs",
+          "votes": 175,
+          "percent": 18.84
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Yvette Mariaan Neels",
+          "votes": 148,
+          "percent": 15.93
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Esau Hoorn",
+          "votes": 144,
+          "percent": 15.5
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Armstrong Marshall Jacues Hugo",
+          "votes": 26,
+          "percent": 2.8
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Pieter Nicholaas Botha",
+          "votes": 26,
+          "percent": 2.8
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30704003": {
+      "wardId": "30704003",
+      "wardNo": 3,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 951,
+      "registered": 1670,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Johannes Solomon Newath",
+          "votes": 353,
+          "percent": 37.12
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Wilfret Daniël Horne",
+          "votes": 274,
+          "percent": 28.81
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Albertus Petrus Fakelyn van Schalkwyk",
+          "votes": 155,
+          "percent": 16.3
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Siwiza Jenera Shilubana",
+          "votes": 86,
+          "percent": 9.04
+        },
+        {
+          "party": "KAREEBERG CIVIC MOVEMENT",
+          "candidate": "Johannes Maritz",
+          "votes": 73,
+          "percent": 7.68
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Pieter Nicholaas Botha",
+          "votes": 10,
+          "percent": 1.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30704004": {
+      "wardId": "30704004",
+      "wardNo": 4,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 684,
+      "registered": 1006,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Johan Hendrik Vermeulen",
+          "votes": 311,
+          "percent": 45.47
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Jacobus Koopman",
+          "votes": 203,
+          "percent": 29.68
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Grecorius George Campbel Slaverse",
+          "votes": 108,
+          "percent": 15.79
+        },
+        {
+          "party": "KAREEBERG CIVIC MOVEMENT",
+          "candidate": "Gert Karolus Tieties",
+          "votes": 41,
+          "percent": 5.99
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Pieter Nicholaas Botha",
+          "votes": 11,
+          "percent": 1.61
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "André Isaacs",
+          "votes": 10,
+          "percent": 1.46
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30704005": {
+      "wardId": "30704005",
+      "wardNo": 5,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 836,
+      "registered": 1371,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Rodney Calton Gerald Jikella",
+          "votes": 528,
+          "percent": 63.16
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Jacoba Celia Titus",
+          "votes": 243,
+          "percent": 29.07
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Theonise Azradene Freddie",
+          "votes": 42,
+          "percent": 5.02
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Cristelle Smith",
+          "votes": 20,
+          "percent": 2.39
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Luwendra Matroos",
+          "votes": 3,
+          "percent": 0.36
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30704006": {
+      "wardId": "30704006",
+      "wardNo": 6,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 908,
+      "registered": 1287,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Gino Daxan Adolf",
+          "votes": 533,
+          "percent": 58.7
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Paul Charlies",
+          "votes": 344,
+          "percent": 37.89
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Sharifa Venessa Antoinette Williams",
+          "votes": 17,
+          "percent": 1.87
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Cristelle Smith",
+          "votes": 9,
+          "percent": 0.99
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Daleen Antoinette Steenkamp",
+          "votes": 5,
+          "percent": 0.55
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

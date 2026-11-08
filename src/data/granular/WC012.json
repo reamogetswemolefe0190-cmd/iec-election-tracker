@@ -1,0 +1,744 @@
+{
+  "municipalityId": "WC012",
+  "name": "Cederberg Local Municipality",
+  "updatedAt": "2026-11-06T03:51:41.065Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 24,
+  "vdsTotal": 24,
+  "wardsTotal": 6,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 11,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 9123,
+      "percent": 31.02,
+      "wardsLeading": 3,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 6588,
+      "percent": 22.4,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 4685,
+      "percent": 15.93,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "CEDERBERG FIRST RESIDENTS ASSOCIATION",
+      "votes": 4405,
+      "percent": 14.98,
+      "wardsLeading": 2,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 1164,
+      "percent": 3.96,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "NATIONAL COLOURED CONGRESS",
+      "votes": 1027,
+      "percent": 3.49,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ALLIANCE OF CITIZENS FOR CHANGE",
+      "votes": 893,
+      "percent": 3.04,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 756,
+      "percent": 2.57,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INDEPENDENT",
+      "votes": 292,
+      "percent": 0.99,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 216,
+      "percent": 0.73,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+      "votes": 79,
+      "percent": 0.27,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SPECTRUM NATIONAL PARTY",
+      "votes": 76,
+      "percent": 0.26,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+      "votes": 62,
+      "percent": 0.21,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN TRANSFORMATION MOVEMENT",
+      "votes": 27,
+      "percent": 0.09,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 14,
+      "percent": 0.05,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 4
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 3
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 2
+    },
+    {
+      "party": "CEDERBERG FIRST RESIDENTS ASSOCIATION",
+      "seats": 2
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 24,
+    "seatsFilled": 11,
+    "parties": [
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 12,
+        "wardSeats": 3,
+        "seats": 4
+      },
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 6,
+        "wardSeats": 1,
+        "seats": 3
+      },
+      {
+        "party": "CEDERBERG FIRST RESIDENTS ASSOCIATION",
+        "vdsWon": 6,
+        "wardSeats": 2,
+        "seats": 2
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 2
+      }
+    ]
+  },
+  "wards": {
+    "10102001": {
+      "wardId": "10102001",
+      "wardNo": 1,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 1821,
+      "registered": 4231,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Andries Titus",
+          "votes": 896,
+          "percent": 49.2
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Beryl Malgas",
+          "votes": 631,
+          "percent": 34.65
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Salmon Daniels",
+          "votes": 174,
+          "percent": 9.56
+        },
+        {
+          "party": "CEDERBERG FIRST RESIDENTS ASSOCIATION",
+          "candidate": "Basil Christofer Waterboer",
+          "votes": 50,
+          "percent": 2.75
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Mzukisi Mfundisi",
+          "votes": 33,
+          "percent": 1.81
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Jakobus Cupido",
+          "votes": 9,
+          "percent": 0.49
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Asiphiwe Tshakubi",
+          "votes": 8,
+          "percent": 0.44
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Ayanda Sonkqayi",
+          "votes": 8,
+          "percent": 0.44
+        },
+        {
+          "party": "ALLIANCE OF CITIZENS FOR CHANGE",
+          "candidate": "William Josef Farmer",
+          "votes": 6,
+          "percent": 0.33
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Tamlin Amy Simon",
+          "votes": 2,
+          "percent": 0.11
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Kristen Jane Johnson",
+          "votes": 2,
+          "percent": 0.11
+        },
+        {
+          "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+          "candidate": "Percival Stephan Burger",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "SPECTRUM NATIONAL PARTY",
+          "candidate": "Colin Erasmus",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10102002": {
+      "wardId": "10102002",
+      "wardNo": 2,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 3147,
+      "registered": 6332,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Yves de Antonio Blaauw",
+          "votes": 1030,
+          "percent": 32.73
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Frederick Johan Koopman",
+          "votes": 976,
+          "percent": 31.01
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Gertruida Smith",
+          "votes": 591,
+          "percent": 18.78
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Ayanda Sonkqayi",
+          "votes": 337,
+          "percent": 10.71
+        },
+        {
+          "party": "CEDERBERG FIRST RESIDENTS ASSOCIATION",
+          "candidate": "Emerine Denise Gail Marshall",
+          "votes": 82,
+          "percent": 2.61
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Mzukisi Mfundisi",
+          "votes": 56,
+          "percent": 1.78
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Melikaya Ndesi",
+          "votes": 37,
+          "percent": 1.18
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Raymond Vernie Pretorius",
+          "votes": 29,
+          "percent": 0.92
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Admen Darren Cloete",
+          "votes": 3,
+          "percent": 0.1
+        },
+        {
+          "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+          "candidate": "Percival Stephan Burger",
+          "votes": 3,
+          "percent": 0.1
+        },
+        {
+          "party": "SPECTRUM NATIONAL PARTY",
+          "candidate": "Colin Erasmus",
+          "votes": 2,
+          "percent": 0.06
+        },
+        {
+          "party": "ALLIANCE OF CITIZENS FOR CHANGE",
+          "candidate": "William Josef Farmer",
+          "votes": 1,
+          "percent": 0.03
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Kristen Jane Johnson",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10102003": {
+      "wardId": "10102003",
+      "wardNo": 3,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 3213,
+      "registered": 6275,
+      "rows": [
+        {
+          "party": "CEDERBERG FIRST RESIDENTS ASSOCIATION",
+          "candidate": "Maxwell Heins",
+          "votes": 1098,
+          "percent": 34.17
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Bakoena Kenneth Rantsane",
+          "votes": 578,
+          "percent": 17.99
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Janine Fredericks",
+          "votes": 568,
+          "percent": 17.68
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Katrina Cloete",
+          "votes": 351,
+          "percent": 10.92
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Anneke Elzuré Koopman",
+          "votes": 342,
+          "percent": 10.64
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Johan Hendrik van Heerden",
+          "votes": 131,
+          "percent": 4.08
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Siyanda Chumani Cukula",
+          "votes": 41,
+          "percent": 1.28
+        },
+        {
+          "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+          "candidate": "Percival Stephan Burger",
+          "votes": 39,
+          "percent": 1.21
+        },
+        {
+          "party": "SPECTRUM NATIONAL PARTY",
+          "candidate": "Colin Erasmus",
+          "votes": 30,
+          "percent": 0.93
+        },
+        {
+          "party": "ALLIANCE OF CITIZENS FOR CHANGE",
+          "candidate": "William Josef Farmer",
+          "votes": 15,
+          "percent": 0.47
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Banele Aaron Lebitsa",
+          "votes": 9,
+          "percent": 0.28
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Silumko Mhlangula",
+          "votes": 8,
+          "percent": 0.25
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Kristen Jane Johnson",
+          "votes": 2,
+          "percent": 0.06
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Luvo Mountain",
+          "votes": 1,
+          "percent": 0.03
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10102004": {
+      "wardId": "10102004",
+      "wardNo": 4,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2675,
+      "registered": 4687,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Jimmy Barnard",
+          "votes": 1023,
+          "percent": 38.24
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Gerald Dennis Klaase",
+          "votes": 653,
+          "percent": 24.41
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Barend Schippers",
+          "votes": 506,
+          "percent": 18.92
+        },
+        {
+          "party": "CEDERBERG FIRST RESIDENTS ASSOCIATION",
+          "candidate": "Arnold Sydney Boois",
+          "votes": 194,
+          "percent": 7.25
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Jacques van den Heever",
+          "votes": 128,
+          "percent": 4.79
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Jaco Francois Cloete",
+          "votes": 119,
+          "percent": 4.45
+        },
+        {
+          "party": "ALLIANCE OF CITIZENS FOR CHANGE",
+          "candidate": "William Josef Farmer",
+          "votes": 34,
+          "percent": 1.27
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Ayabonga Faltein",
+          "votes": 6,
+          "percent": 0.22
+        },
+        {
+          "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+          "candidate": "Percival Stephan Burger",
+          "votes": 5,
+          "percent": 0.19
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Cohen Gerswin van den Heever",
+          "votes": 4,
+          "percent": 0.15
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Ashley Lawrenzo Cloete",
+          "votes": 3,
+          "percent": 0.11
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Admen Darren Cloete",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "SPECTRUM NATIONAL PARTY",
+          "candidate": "Colin Erasmus",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10102005": {
+      "wardId": "10102005",
+      "wardNo": 5,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2444,
+      "registered": 4579,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "John Patrick Hayes",
+          "votes": 1021,
+          "percent": 41.78
+        },
+        {
+          "party": "ALLIANCE OF CITIZENS FOR CHANGE",
+          "candidate": "William Josef Farmer",
+          "votes": 382,
+          "percent": 15.63
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Elton Roy Schalk",
+          "votes": 292,
+          "percent": 11.95
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Sanna Hendricks",
+          "votes": 200,
+          "percent": 8.18
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Jan Johannes Blankenberg",
+          "votes": 193,
+          "percent": 7.9
+        },
+        {
+          "party": "CEDERBERG FIRST RESIDENTS ASSOCIATION",
+          "candidate": "Ferdienand Fransman",
+          "votes": 191,
+          "percent": 7.82
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Jacques van den Heever",
+          "votes": 100,
+          "percent": 4.09
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Ashley Lawrenzo Cloete",
+          "votes": 25,
+          "percent": 1.02
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Cohen Gerswin van den Heever",
+          "votes": 18,
+          "percent": 0.74
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Zuko Holose",
+          "votes": 9,
+          "percent": 0.37
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Joseph Jeffrey Cloete",
+          "votes": 6,
+          "percent": 0.25
+        },
+        {
+          "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+          "candidate": "Percival Stephan Burger",
+          "votes": 5,
+          "percent": 0.2
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Samuel Trevor Williams",
+          "votes": 1,
+          "percent": 0.04
+        },
+        {
+          "party": "SPECTRUM NATIONAL PARTY",
+          "candidate": "Colin Erasmus",
+          "votes": 1,
+          "percent": 0.04
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10102006": {
+      "wardId": "10102006",
+      "wardNo": 6,
+      "vdsCounted": 7,
+      "vdsTotal": 7,
+      "votesCast": 1501,
+      "registered": 3615,
+      "rows": [
+        {
+          "party": "CEDERBERG FIRST RESIDENTS ASSOCIATION",
+          "candidate": "André Grant Mouton",
+          "votes": 618,
+          "percent": 41.17
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Paul Jacques Wynand",
+          "votes": 489,
+          "percent": 32.58
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Sofia Johanna Zimri",
+          "votes": 133,
+          "percent": 8.86
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Petrus Johannes Ockhuis",
+          "votes": 113,
+          "percent": 7.53
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Johan Hendrik van Heerden",
+          "votes": 111,
+          "percent": 7.4
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Lionel Jeffrey Jantjies",
+          "votes": 15,
+          "percent": 1
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Emilè Barnies",
+          "votes": 6,
+          "percent": 0.4
+        },
+        {
+          "party": "SPECTRUM NATIONAL PARTY",
+          "candidate": "Colin Erasmus",
+          "votes": 6,
+          "percent": 0.4
+        },
+        {
+          "party": "ALLIANCE OF CITIZENS FOR CHANGE",
+          "candidate": "William Josef Farmer",
+          "votes": 4,
+          "percent": 0.27
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Tamlin Amy Simon",
+          "votes": 2,
+          "percent": 0.13
+        },
+        {
+          "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+          "candidate": "Percival Stephan Burger",
+          "votes": 2,
+          "percent": 0.13
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Chriscinda Minette Farao",
+          "votes": 1,
+          "percent": 0.07
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Ashley Lawrenzo Cloete",
+          "votes": 1,
+          "percent": 0.07
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

@@ -1,0 +1,696 @@
+{
+  "municipalityId": "WC033",
+  "name": "Cape Agulhas Local Municipality",
+  "updatedAt": "2026-11-06T03:51:44.979Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 18,
+  "vdsTotal": 18,
+  "wardsTotal": 6,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 11,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 12143,
+      "percent": 45.6,
+      "wardsLeading": 5,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 4776,
+      "percent": 17.93,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 3698,
+      "percent": 13.89,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 3037,
+      "percent": 11.4,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DIENSLEWERINGS PARTY",
+      "votes": 2258,
+      "percent": 8.48,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 193,
+      "percent": 0.72,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "NATIONAL COLOURED CONGRESS",
+      "votes": 185,
+      "percent": 0.69,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "GOOD",
+      "votes": 131,
+      "percent": 0.49,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICA FIRST",
+      "votes": 72,
+      "percent": 0.27,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SPECTRUM NATIONAL PARTY",
+      "votes": 46,
+      "percent": 0.17,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 33,
+      "percent": 0.12,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ORGANIC HUMANITY MOVEMENT",
+      "votes": 29,
+      "percent": 0.11,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UNITED AFRICANS TRANSFORMATION",
+      "votes": 29,
+      "percent": 0.11,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 5
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 2
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 2
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "seats": 1
+    },
+    {
+      "party": "DIENSLEWERINGS PARTY",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 18,
+    "seatsFilled": 11,
+    "parties": [
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 13,
+        "wardSeats": 5,
+        "seats": 5
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 3,
+        "wardSeats": 0,
+        "seats": 2
+      },
+      {
+        "party": "DIENSLEWERINGS PARTY",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 1,
+        "wardSeats": 1,
+        "seats": 2
+      },
+      {
+        "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "10303001": {
+      "wardId": "10303001",
+      "wardNo": 1,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 2479,
+      "registered": 4270,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Kevin Arthur Poulter",
+          "votes": 1162,
+          "percent": 46.87
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Adolf Johannes Titus",
+          "votes": 472,
+          "percent": 19.04
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Chesline Mckrege",
+          "votes": 375,
+          "percent": 15.13
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Alliston Benjamin Appel",
+          "votes": 213,
+          "percent": 8.59
+        },
+        {
+          "party": "DIENSLEWERINGS PARTY",
+          "candidate": "Trevor Clarence October",
+          "votes": 151,
+          "percent": 6.09
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Sonwabile Nelson Sokhetye",
+          "votes": 49,
+          "percent": 1.98
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Cecil Williams",
+          "votes": 25,
+          "percent": 1.01
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Louis Henry Smythe",
+          "votes": 13,
+          "percent": 0.52
+        },
+        {
+          "party": "SOUTH AFRICA FIRST",
+          "candidate": "Frederick Engel",
+          "votes": 10,
+          "percent": 0.4
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Corné Erasmus",
+          "votes": 4,
+          "percent": 0.16
+        },
+        {
+          "party": "SPECTRUM NATIONAL PARTY",
+          "candidate": "Frederline Newman",
+          "votes": 3,
+          "percent": 0.12
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "John Kapot",
+          "votes": 2,
+          "percent": 0.08
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10303002": {
+      "wardId": "10303002",
+      "wardNo": 2,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 2168,
+      "registered": 4085,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Mervin John de Weber",
+          "votes": 735,
+          "percent": 33.9
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Gavin Francois Mageni",
+          "votes": 524,
+          "percent": 24.17
+        },
+        {
+          "party": "DIENSLEWERINGS PARTY",
+          "candidate": "Marthelene Jolene Jessica Matthysen",
+          "votes": 485,
+          "percent": 22.37
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Elisna Joan Anta",
+          "votes": 311,
+          "percent": 14.35
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Alliston Benjamin Appel",
+          "votes": 39,
+          "percent": 1.8
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Christopher Grant Saunderson",
+          "votes": 36,
+          "percent": 1.66
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Cecil Williams",
+          "votes": 17,
+          "percent": 0.78
+        },
+        {
+          "party": "SPECTRUM NATIONAL PARTY",
+          "candidate": "Frederline Newman",
+          "votes": 8,
+          "percent": 0.37
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "John Kapot",
+          "votes": 4,
+          "percent": 0.18
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Songezo Mpame",
+          "votes": 4,
+          "percent": 0.18
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Corné Erasmus",
+          "votes": 4,
+          "percent": 0.18
+        },
+        {
+          "party": "SOUTH AFRICA FIRST",
+          "candidate": "John William Newman",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10303003": {
+      "wardId": "10303003",
+      "wardNo": 3,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1465,
+      "registered": 3629,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Thembinkosi Wiseman Mxhonywa",
+          "votes": 537,
+          "percent": 36.66
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Marilyn Arendse",
+          "votes": 427,
+          "percent": 29.15
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Sikhulule Ngxowa",
+          "votes": 271,
+          "percent": 18.5
+        },
+        {
+          "party": "DIENSLEWERINGS PARTY",
+          "candidate": "James Derick Mavusa",
+          "votes": 151,
+          "percent": 10.31
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Angelique Padiachy",
+          "votes": 21,
+          "percent": 1.43
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nontombi Dila",
+          "votes": 17,
+          "percent": 1.16
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Allen Hills",
+          "votes": 17,
+          "percent": 1.16
+        },
+        {
+          "party": "UNITED AFRICANS TRANSFORMATION",
+          "candidate": "Olebogeng Mathews Mere",
+          "votes": 11,
+          "percent": 0.75
+        },
+        {
+          "party": "SOUTH AFRICA FIRST",
+          "candidate": "Paultjie Roman",
+          "votes": 5,
+          "percent": 0.34
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Cecil Williams",
+          "votes": 4,
+          "percent": 0.27
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Christalene Joyce Hartnick",
+          "votes": 3,
+          "percent": 0.2
+        },
+        {
+          "party": "SPECTRUM NATIONAL PARTY",
+          "candidate": "Frederline Newman",
+          "votes": 1,
+          "percent": 0.07
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Corné Erasmus",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10303004": {
+      "wardId": "10303004",
+      "wardNo": 4,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2161,
+      "registered": 3254,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Waldo Strydom",
+          "votes": 1449,
+          "percent": 67.05
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Gert Diederik Burger",
+          "votes": 577,
+          "percent": 26.7
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Renier Stander Louw",
+          "votes": 49,
+          "percent": 2.27
+        },
+        {
+          "party": "DIENSLEWERINGS PARTY",
+          "candidate": "Lionel le Francois Japhta",
+          "votes": 45,
+          "percent": 2.08
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Wendy Nosipho Kweyama",
+          "votes": 26,
+          "percent": 1.2
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Christalene Joyce Hartnick",
+          "votes": 4,
+          "percent": 0.19
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Bhutise Theophilus Mankayi",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Cecil Williams",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Rozanne Oostendorp",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Corné Erasmus",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "SPECTRUM NATIONAL PARTY",
+          "candidate": "Frederline Newman",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "SOUTH AFRICA FIRST",
+          "candidate": "Rudolf Marthinus Driescher",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10303005": {
+      "wardId": "10303005",
+      "wardNo": 5,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 3032,
+      "registered": 4501,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Lorinda Nel",
+          "votes": 1768,
+          "percent": 58.31
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Thomas Bingle Ferreira",
+          "votes": 590,
+          "percent": 19.46
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Ishmaeel Thompson",
+          "votes": 313,
+          "percent": 10.32
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Jerome Johannes",
+          "votes": 263,
+          "percent": 8.67
+        },
+        {
+          "party": "DIENSLEWERINGS PARTY",
+          "candidate": "Elias William Jeftha",
+          "votes": 40,
+          "percent": 1.32
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Cecil Williams",
+          "votes": 23,
+          "percent": 0.76
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Winile Brenda Mosome",
+          "votes": 17,
+          "percent": 0.56
+        },
+        {
+          "party": "SPECTRUM NATIONAL PARTY",
+          "candidate": "Shameemah Ganief",
+          "votes": 9,
+          "percent": 0.3
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Corné Erasmus",
+          "votes": 5,
+          "percent": 0.16
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Jay-Din Delhano van der Watt",
+          "votes": 2,
+          "percent": 0.07
+        },
+        {
+          "party": "SOUTH AFRICA FIRST",
+          "candidate": "Jan van Rooy",
+          "votes": 2,
+          "percent": 0.07
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Christalene Joyce Hartnick",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10303006": {
+      "wardId": "10303006",
+      "wardNo": 6,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 2031,
+      "registered": 3456,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Helen Coetzee",
+          "votes": 694,
+          "percent": 34.17
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Janine August-Martinus",
+          "votes": 589,
+          "percent": 29
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Rovina Juline Europa",
+          "votes": 354,
+          "percent": 17.43
+        },
+        {
+          "party": "DIENSLEWERINGS PARTY",
+          "candidate": "Micheal Johnwill Olivier",
+          "votes": 286,
+          "percent": 14.08
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Eloise Krige",
+          "votes": 53,
+          "percent": 2.61
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Joshua Paulus Adonis",
+          "votes": 21,
+          "percent": 1.03
+        },
+        {
+          "party": "SOUTH AFRICA FIRST",
+          "candidate": "Pieter Edward Lourens",
+          "votes": 21,
+          "percent": 1.03
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nteboheng Mabusela",
+          "votes": 6,
+          "percent": 0.3
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Cecil Williams",
+          "votes": 3,
+          "percent": 0.15
+        },
+        {
+          "party": "SPECTRUM NATIONAL PARTY",
+          "candidate": "Frederline Newman",
+          "votes": 2,
+          "percent": 0.1
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Christalene Joyce Hartnick",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Corné Erasmus",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

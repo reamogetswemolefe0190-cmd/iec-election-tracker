@@ -1,0 +1,615 @@
+{
+  "municipalityId": "NC078",
+  "name": "Siyancuma Local Municipality",
+  "updatedAt": "2026-11-06T03:51:48.539Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 25,
+  "vdsTotal": 26,
+  "wardsTotal": 7,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 13,
+  "seatsMajority": 7,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 6885,
+      "percent": 34.19,
+      "wardsLeading": 4,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SIYANCUMA INDEPENDENT FORUM",
+      "votes": 4687,
+      "percent": 23.28,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 3495,
+      "percent": 17.36,
+      "wardsLeading": 2,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 2294,
+      "percent": 11.39,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 1249,
+      "percent": 6.2,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 881,
+      "percent": 4.38,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 391,
+      "percent": 1.94,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INKATHA FREEDOM PARTY",
+      "votes": 166,
+      "percent": 0.82,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 88,
+      "percent": 0.44,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "seatsSoFar": {
+    "filled": 6,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "seats": 4
+      },
+      {
+        "party": "SIYANCUMA INDEPENDENT FORUM",
+        "seats": 1
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "seats": 1
+      }
+    ]
+  },
+  "partyTally": {
+    "vdsReported": 25,
+    "seatsFilled": 6,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 7,
+        "wardSeats": 4,
+        "seats": 4
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 10,
+        "wardSeats": 1,
+        "seats": 1
+      },
+      {
+        "party": "SOUTH AFRICAN COMMUNIST PARTY",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 0
+      },
+      {
+        "party": "SIYANCUMA INDEPENDENT FORUM",
+        "vdsWon": 2,
+        "wardSeats": 1,
+        "seats": 1
+      },
+      {
+        "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+        "vdsWon": 3,
+        "wardSeats": 0,
+        "seats": 0
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 0
+      }
+    ]
+  },
+  "wards": {
+    "30708001": {
+      "wardId": "30708001",
+      "wardNo": 1,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1519,
+      "registered": 2572,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Martie Mgijima",
+          "votes": 586,
+          "percent": 38.58
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Donald Moses",
+          "votes": 420,
+          "percent": 27.65
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "James Desmond Gewers",
+          "votes": 191,
+          "percent": 12.57
+        },
+        {
+          "party": "SIYANCUMA INDEPENDENT FORUM",
+          "candidate": "Willie Williams",
+          "votes": 158,
+          "percent": 10.4
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Jacobus Marthinus Abraham Nel",
+          "votes": 125,
+          "percent": 8.23
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Susara Aletta Buitendag",
+          "votes": 26,
+          "percent": 1.71
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Lucas Agus Waterboer",
+          "votes": 7,
+          "percent": 0.46
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ashley Kok",
+          "votes": 5,
+          "percent": 0.33
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Dollie Pasieka Balie",
+          "votes": 1,
+          "percent": 0.07
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30708002": {
+      "wardId": "30708002",
+      "wardNo": 2,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1543,
+      "registered": 2733,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Maggie Joan-Anne Kolberg",
+          "votes": 637,
+          "percent": 41.28
+        },
+        {
+          "party": "SIYANCUMA INDEPENDENT FORUM",
+          "candidate": "Budru Flavia Kock",
+          "votes": 602,
+          "percent": 39.01
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Sarie Valerie Talies",
+          "votes": 133,
+          "percent": 8.62
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Allistair Ricardo Jansen",
+          "votes": 79,
+          "percent": 5.12
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Dollie Pasieka Balie",
+          "votes": 39,
+          "percent": 2.53
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Emma Maria Julius",
+          "votes": 24,
+          "percent": 1.56
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Susara Aletta Buitendag",
+          "votes": 11,
+          "percent": 0.71
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Carissa Esmerelda Roché Badenhorst",
+          "votes": 9,
+          "percent": 0.58
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Hanna Maarman",
+          "votes": 9,
+          "percent": 0.58
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30708003": {
+      "countedVds": [
+        65530043
+      ],
+      "wardId": "30708003",
+      "wardNo": 3,
+      "vdsCounted": 1,
+      "vdsTotal": 2,
+      "votesCast": 78,
+      "registered": 3329,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Charlotte Thole",
+          "votes": 48,
+          "percent": 61.54
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Johannes Mangaliso Bassie",
+          "votes": 20,
+          "percent": 25.64
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Susara Aletta Buitendag",
+          "votes": 6,
+          "percent": 7.69
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Simanga Laurence Rens",
+          "votes": 2,
+          "percent": 2.56
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Dollie Pasieka Balie",
+          "votes": 1,
+          "percent": 1.28
+        },
+        {
+          "party": "SIYANCUMA INDEPENDENT FORUM",
+          "candidate": "Abet Nico Pieter Lawrence",
+          "votes": 1,
+          "percent": 1.28
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Dorothy Seneo Haas",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Monray Malangbizi Montgomery Theifane",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Gwendoline Shareen Stenekamp",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30708004": {
+      "wardId": "30708004",
+      "wardNo": 4,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 1941,
+      "registered": 3383,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Lemfvia Christiana van Niekerk",
+          "votes": 1025,
+          "percent": 52.81
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Sam Nkosinathi Nkomombini",
+          "votes": 417,
+          "percent": 21.48
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Susara Aletta Buitendag",
+          "votes": 210,
+          "percent": 10.82
+        },
+        {
+          "party": "SIYANCUMA INDEPENDENT FORUM",
+          "candidate": "Frans Wessels",
+          "votes": 117,
+          "percent": 6.03
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Josiah Naude",
+          "votes": 52,
+          "percent": 2.68
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Joseph Darries",
+          "votes": 51,
+          "percent": 2.63
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Mariana Erna Kitsher",
+          "votes": 50,
+          "percent": 2.58
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Donald Griffiths Mfulo",
+          "votes": 12,
+          "percent": 0.62
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Dollie Pasieka Balie",
+          "votes": 7,
+          "percent": 0.36
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30708005": {
+      "wardId": "30708005",
+      "wardNo": 5,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2169,
+      "registered": 3851,
+      "rows": [
+        {
+          "party": "SIYANCUMA INDEPENDENT FORUM",
+          "candidate": "Danfrid Herald Morolong",
+          "votes": 1141,
+          "percent": 52.6
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Hilton Quinell Tallies",
+          "votes": 501,
+          "percent": 23.1
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Loretta Riana Malambo",
+          "votes": 240,
+          "percent": 11.07
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Elidia Katrina Louw",
+          "votes": 194,
+          "percent": 8.94
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Edlin Ashwin Elgin Vennel",
+          "votes": 31,
+          "percent": 1.43
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nadine Jacobs",
+          "votes": 28,
+          "percent": 1.29
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Leonie Zandria Speak",
+          "votes": 20,
+          "percent": 0.92
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Dawid Arnoldus Buitendag",
+          "votes": 14,
+          "percent": 0.65
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30708006": {
+      "wardId": "30708006",
+      "wardNo": 6,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 1113,
+      "registered": 2016,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Lesego Patrick Selebogo",
+          "votes": 473,
+          "percent": 42.5
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Rebaone Clementine Molema",
+          "votes": 362,
+          "percent": 32.52
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Johannes van der Spuy Botes",
+          "votes": 114,
+          "percent": 10.24
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Dawid Arnoldus Buitendag",
+          "votes": 76,
+          "percent": 6.83
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Johannes Kock",
+          "votes": 42,
+          "percent": 3.77
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Antoinette Riet",
+          "votes": 24,
+          "percent": 2.16
+        },
+        {
+          "party": "SIYANCUMA INDEPENDENT FORUM",
+          "candidate": "Jasmine Verginia Klein",
+          "votes": 18,
+          "percent": 1.62
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Piet Mosimanekgotla Seme",
+          "votes": 2,
+          "percent": 0.18
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Edlin Ashwin Elgin Vennel",
+          "votes": 2,
+          "percent": 0.18
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30708007": {
+      "wardId": "30708007",
+      "wardNo": 7,
+      "vdsCounted": 8,
+      "vdsTotal": 8,
+      "votesCast": 1645,
+      "registered": 2628,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Rachel Messelaar",
+          "votes": 743,
+          "percent": 45.17
+        },
+        {
+          "party": "SIYANCUMA INDEPENDENT FORUM",
+          "candidate": "Sam Moalahi",
+          "votes": 285,
+          "percent": 17.33
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Bezile Gaulaolwe Jabane",
+          "votes": 272,
+          "percent": 16.53
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Donovan Vincent Smous",
+          "votes": 117,
+          "percent": 7.11
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Abram Beauck Isaac Messelaar",
+          "votes": 83,
+          "percent": 5.05
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Dawid Arnoldus Buitendag",
+          "votes": 83,
+          "percent": 5.05
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Salmon Kammies",
+          "votes": 54,
+          "percent": 3.28
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Edlin Ashwin Elgin Vennel",
+          "votes": 8,
+          "percent": 0.49
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Quinton Steenkamp",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

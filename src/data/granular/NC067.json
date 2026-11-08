@@ -1,0 +1,522 @@
+{
+  "municipalityId": "NC067",
+  "name": "Khâi-Ma Local Municipality",
+  "updatedAt": "2026-11-06T03:46:51.542Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 13,
+  "vdsTotal": 13,
+  "wardsTotal": 6,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 11,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 5100,
+      "percent": 46.18,
+      "wardsLeading": 4,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 3903,
+      "percent": 35.34,
+      "wardsLeading": 2,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 739,
+      "percent": 6.69,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 392,
+      "percent": 3.55,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "NAMAKWA CIVIC MOVEMENT",
+      "votes": 375,
+      "percent": 3.4,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 234,
+      "percent": 2.12,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN TRANSFORMATION MOVEMENT",
+      "votes": 122,
+      "percent": 1.1,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 92,
+      "percent": 0.83,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "CONGRESS OF THE PEOPLE",
+      "votes": 86,
+      "percent": 0.78,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 5
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 4
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 1
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 13,
+    "seatsFilled": 11,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 9,
+        "wardSeats": 4,
+        "seats": 5
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 3,
+        "wardSeats": 2,
+        "seats": 4
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "SOUTH AFRICAN COMMUNIST PARTY",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "30607001": {
+      "wardId": "30607001",
+      "wardNo": 1,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1161,
+      "registered": 1532,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Ronald Alfred Strauss",
+          "votes": 638,
+          "percent": 54.95
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Sabina Maria Pasella",
+          "votes": 452,
+          "percent": 38.93
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Angelo Jandry Watt",
+          "votes": 57,
+          "percent": 4.91
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Olivia Emblina Adams",
+          "votes": 6,
+          "percent": 0.52
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Paula Francis Simboya",
+          "votes": 3,
+          "percent": 0.26
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Natasha Visagie",
+          "votes": 3,
+          "percent": 0.26
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Marlene Richardine Jaar",
+          "votes": 1,
+          "percent": 0.09
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Ramacheli Petrus Molete",
+          "votes": 1,
+          "percent": 0.09
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30607002": {
+      "wardId": "30607002",
+      "wardNo": 2,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1110,
+      "registered": 1899,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Agatha Teressa Kaffer",
+          "votes": 457,
+          "percent": 41.17
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Shivaan Alcapone Nel",
+          "votes": 371,
+          "percent": 33.42
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Basmah Nokufika Fanteni",
+          "votes": 135,
+          "percent": 12.16
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Dawid Marinus van Zyl",
+          "votes": 53,
+          "percent": 4.77
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Anna-Mari Engelbrecht",
+          "votes": 44,
+          "percent": 3.96
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Siena Martina Magerman",
+          "votes": 21,
+          "percent": 1.89
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Natasha Visagie",
+          "votes": 15,
+          "percent": 1.35
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Michealle Britney Litzie",
+          "votes": 8,
+          "percent": 0.72
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Zanie Magodi",
+          "votes": 6,
+          "percent": 0.54
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30607003": {
+      "wardId": "30607003",
+      "wardNo": 3,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 994,
+      "registered": 1501,
+      "rows": [
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Natalie Alison Nkolongwane",
+          "votes": 491,
+          "percent": 49.4
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Chantell Justine Waterboer",
+          "votes": 425,
+          "percent": 42.76
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Wilhelmina Diergaardt",
+          "votes": 45,
+          "percent": 4.53
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Romeo Recard Brandt",
+          "votes": 16,
+          "percent": 1.61
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Jean-Roy Jerram Magerman",
+          "votes": 7,
+          "percent": 0.7
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Zacharia Daniel Moatshe",
+          "votes": 6,
+          "percent": 0.6
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Justin Bezuidenhoudt",
+          "votes": 2,
+          "percent": 0.2
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Natasha Visagie",
+          "votes": 2,
+          "percent": 0.2
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30607004": {
+      "wardId": "30607004",
+      "wardNo": 4,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 585,
+      "registered": 1381,
+      "rows": [
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Amelia Vivian Cloete",
+          "votes": 188,
+          "percent": 32.14
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Nokwakha Cyntheria Masebeni",
+          "votes": 171,
+          "percent": 29.23
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Romeo Recard Brandt",
+          "votes": 97,
+          "percent": 16.58
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Lilitha Ngqamakwe",
+          "votes": 45,
+          "percent": 7.69
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Gaynor Bugan",
+          "votes": 39,
+          "percent": 6.67
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Natasha Visagie",
+          "votes": 21,
+          "percent": 3.59
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Neo Moses Setlholoeng",
+          "votes": 12,
+          "percent": 2.05
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Ramacheli Petrus Molete",
+          "votes": 8,
+          "percent": 1.37
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Olivia Emblina Adams",
+          "votes": 4,
+          "percent": 0.68
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30607005": {
+      "wardId": "30607005",
+      "wardNo": 5,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 787,
+      "registered": 1108,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Huschell Waterboer",
+          "votes": 411,
+          "percent": 52.22
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Katrina Nell",
+          "votes": 307,
+          "percent": 39.01
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Paula Francis Simboya",
+          "votes": 36,
+          "percent": 4.57
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Romeo Recard Brandt",
+          "votes": 15,
+          "percent": 1.91
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Natasha Visagie",
+          "votes": 7,
+          "percent": 0.89
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Urmaluzzul Basson",
+          "votes": 6,
+          "percent": 0.76
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Basmah Nokufika Fanteni",
+          "votes": 3,
+          "percent": 0.38
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Bradley James Mowers",
+          "votes": 2,
+          "percent": 0.25
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30607006": {
+      "wardId": "30607006",
+      "wardNo": 6,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 902,
+      "registered": 1748,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Samatha Michelle Baker",
+          "votes": 474,
+          "percent": 52.55
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Erena Annelise van Staden",
+          "votes": 149,
+          "percent": 16.52
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Esmeralda Lizanne Cloete",
+          "votes": 127,
+          "percent": 14.08
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Natasha Visagie",
+          "votes": 64,
+          "percent": 7.1
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Zacharia Daniel Moatshe",
+          "votes": 44,
+          "percent": 4.88
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Almovivia Claudia Letzié",
+          "votes": 15,
+          "percent": 1.66
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Dawid Marinus van Zyl",
+          "votes": 15,
+          "percent": 1.66
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Siyanda Bethiwe",
+          "votes": 8,
+          "percent": 0.89
+        },
+        {
+          "party": "CONGRESS OF THE PEOPLE",
+          "candidate": "Chantell Octavia Montwedi",
+          "votes": 6,
+          "percent": 0.67
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

@@ -1,0 +1,1116 @@
+{
+  "municipalityId": "FS185",
+  "name": "Nala Local Municipality",
+  "updatedAt": "2026-11-06T03:51:45.003Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 43,
+  "vdsTotal": 43,
+  "wardsTotal": 12,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 23,
+  "seatsMajority": 12,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 16939,
+      "percent": 38.25,
+      "wardsLeading": 9,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 8087,
+      "percent": 18.26,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "NALA PROGRESSIVE MOVEMENT",
+      "votes": 8078,
+      "percent": 18.24,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 3831,
+      "percent": 8.65,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 3110,
+      "percent": 7.02,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 1601,
+      "percent": 3.61,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "NALA COMMUNITY FORUM",
+      "votes": 1534,
+      "percent": 3.46,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 429,
+      "percent": 0.97,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN TRANSFORMATION MOVEMENT",
+      "votes": 321,
+      "percent": 0.72,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN CONGRESS FOR TRANSFORMATION",
+      "votes": 232,
+      "percent": 0.52,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 76,
+      "percent": 0.17,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UMKHONTO WESIZWE PARTY",
+      "votes": 51,
+      "percent": 0.12,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 9
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "seats": 4
+    },
+    {
+      "party": "NALA PROGRESSIVE MOVEMENT",
+      "seats": 4
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 2
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "seats": 2
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "seats": 1
+    },
+    {
+      "party": "NALA COMMUNITY FORUM",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 43,
+    "seatsFilled": 23,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 23,
+        "wardSeats": 9,
+        "seats": 9
+      },
+      {
+        "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+        "vdsWon": 7,
+        "wardSeats": 0,
+        "seats": 2
+      },
+      {
+        "party": "NALA PROGRESSIVE MOVEMENT",
+        "vdsWon": 5,
+        "wardSeats": 1,
+        "seats": 4
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "vdsWon": 5,
+        "wardSeats": 1,
+        "seats": 4
+      },
+      {
+        "party": "SOUTH AFRICAN COMMUNIST PARTY",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 1,
+        "wardSeats": 1,
+        "seats": 2
+      },
+      {
+        "party": "NALA COMMUNITY FORUM",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "41805001": {
+      "wardId": "41805001",
+      "wardNo": 1,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1624,
+      "registered": 3306,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Lebokgang Matshediso Diphahe",
+          "votes": 1002,
+          "percent": 61.7
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Thabile Matuba",
+          "votes": 282,
+          "percent": 17.36
+        },
+        {
+          "party": "NALA PROGRESSIVE MOVEMENT",
+          "candidate": "Sabelo Wilfred Duma",
+          "votes": 129,
+          "percent": 7.94
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Stephen Matshediso Masisi",
+          "votes": 92,
+          "percent": 5.67
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Tshokolo Andrias Leeto",
+          "votes": 48,
+          "percent": 2.96
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Jacob Nvula Blom",
+          "votes": 25,
+          "percent": 1.54
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Moeketsi David Thejane",
+          "votes": 21,
+          "percent": 1.29
+        },
+        {
+          "party": "AFRICAN CONGRESS FOR TRANSFORMATION",
+          "candidate": "Julia Mamojalefa Rakwata",
+          "votes": 11,
+          "percent": 0.68
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Thabo Charlie Paulus Motseki",
+          "votes": 7,
+          "percent": 0.43
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Desmond Reed",
+          "votes": 7,
+          "percent": 0.43
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "41805002": {
+      "wardId": "41805002",
+      "wardNo": 2,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2052,
+      "registered": 3693,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Tsoeu William Tsoeute",
+          "votes": 820,
+          "percent": 39.96
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Desmond Reed",
+          "votes": 469,
+          "percent": 22.86
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Mokhathale Jonas Mashiya",
+          "votes": 313,
+          "percent": 15.25
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "David Christie Ross",
+          "votes": 234,
+          "percent": 11.4
+        },
+        {
+          "party": "NALA PROGRESSIVE MOVEMENT",
+          "candidate": "Goitsimang Jacob Mahoko",
+          "votes": 81,
+          "percent": 3.95
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Sandile Godfrey Ngomba",
+          "votes": 52,
+          "percent": 2.53
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Peter Ramothobi Letseleha",
+          "votes": 49,
+          "percent": 2.39
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Thabo Abram Masisi",
+          "votes": 13,
+          "percent": 0.63
+        },
+        {
+          "party": "AFRICAN CONGRESS FOR TRANSFORMATION",
+          "candidate": "Maditaba Betie Kali",
+          "votes": 11,
+          "percent": 0.54
+        },
+        {
+          "party": "NALA COMMUNITY FORUM",
+          "candidate": "Sibi Andries Moshoeng",
+          "votes": 10,
+          "percent": 0.49
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "41805003": {
+      "wardId": "41805003",
+      "wardNo": 3,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1539,
+      "registered": 3217,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mthetho William Velembo",
+          "votes": 975,
+          "percent": 63.35
+        },
+        {
+          "party": "NALA PROGRESSIVE MOVEMENT",
+          "candidate": "Zamani Stephen Ngwabeng",
+          "votes": 231,
+          "percent": 15.01
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nthabiseng Emily Tlali",
+          "votes": 120,
+          "percent": 7.8
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Puleng Sophonia Monnelwa",
+          "votes": 95,
+          "percent": 6.17
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Jacob Retsang Motlhabane",
+          "votes": 63,
+          "percent": 4.09
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Leepo Lukas Tsoai",
+          "votes": 29,
+          "percent": 1.88
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Pulane Agnes Blom",
+          "votes": 10,
+          "percent": 0.65
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Dipuo Yvonne Kgomo",
+          "votes": 7,
+          "percent": 0.45
+        },
+        {
+          "party": "AFRICAN CONGRESS FOR TRANSFORMATION",
+          "candidate": "Maditaba Betie Kali",
+          "votes": 6,
+          "percent": 0.39
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Desmond Reed",
+          "votes": 3,
+          "percent": 0.19
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "41805004": {
+      "wardId": "41805004",
+      "wardNo": 4,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1677,
+      "registered": 3628,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Joshua Moiketsi Mabeleng",
+          "votes": 1258,
+          "percent": 75.01
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Dimakatso Martha Matlakala",
+          "votes": 190,
+          "percent": 11.33
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Ponso Yvonne Motlogeloa",
+          "votes": 97,
+          "percent": 5.78
+        },
+        {
+          "party": "NALA PROGRESSIVE MOVEMENT",
+          "candidate": "Benjamin Tshediso Mbengo",
+          "votes": 55,
+          "percent": 3.28
+        },
+        {
+          "party": "NALA COMMUNITY FORUM",
+          "candidate": "Sechaba David Lechaka",
+          "votes": 18,
+          "percent": 1.07
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nkadimeng Ellen Kgosiitsile",
+          "votes": 17,
+          "percent": 1.01
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Tshokolo Michael Khumalo",
+          "votes": 12,
+          "percent": 0.72
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Piet Seeta",
+          "votes": 10,
+          "percent": 0.6
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Mhlopheki Frans Chokochela",
+          "votes": 9,
+          "percent": 0.54
+        },
+        {
+          "party": "AFRICAN CONGRESS FOR TRANSFORMATION",
+          "candidate": "Yvonne Nonkululeko Jantjie",
+          "votes": 7,
+          "percent": 0.42
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Desmond Reed",
+          "votes": 4,
+          "percent": 0.24
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "41805005": {
+      "wardId": "41805005",
+      "wardNo": 5,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2019,
+      "registered": 3427,
+      "rows": [
+        {
+          "party": "NALA PROGRESSIVE MOVEMENT",
+          "candidate": "Mokubeloa Tsoai",
+          "votes": 929,
+          "percent": 46.01
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Tebele Gordon Finger",
+          "votes": 476,
+          "percent": 23.58
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Madika Ellen Mthombeni",
+          "votes": 319,
+          "percent": 15.8
+        },
+        {
+          "party": "NALA COMMUNITY FORUM",
+          "candidate": "Itumeleng Pleasure Civil Pitsi",
+          "votes": 165,
+          "percent": 8.17
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Mahalia Josephine Kose",
+          "votes": 71,
+          "percent": 3.52
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Filetta Violet Motshiwane",
+          "votes": 21,
+          "percent": 1.04
+        },
+        {
+          "party": "AFRICAN CONGRESS FOR TRANSFORMATION",
+          "candidate": "Thabo Alege Ndaba",
+          "votes": 18,
+          "percent": 0.89
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Dian Botha",
+          "votes": 12,
+          "percent": 0.59
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Andrew Kuly Fotoyi",
+          "votes": 4,
+          "percent": 0.2
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Dimakatso Annah Marametsi",
+          "votes": 4,
+          "percent": 0.2
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "41805006": {
+      "wardId": "41805006",
+      "wardNo": 6,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1795,
+      "registered": 3352,
+      "rows": [
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Phaki William Mafojane",
+          "votes": 765,
+          "percent": 42.62
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Cecilia Jama",
+          "votes": 523,
+          "percent": 29.14
+        },
+        {
+          "party": "NALA PROGRESSIVE MOVEMENT",
+          "candidate": "Mojalefa Nathnael Molale",
+          "votes": 330,
+          "percent": 18.38
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Thamsanqa David Velashi",
+          "votes": 62,
+          "percent": 3.45
+        },
+        {
+          "party": "NALA COMMUNITY FORUM",
+          "candidate": "Masabata Portia Velashi",
+          "votes": 51,
+          "percent": 2.84
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Palesa Gloria Mapane",
+          "votes": 26,
+          "percent": 1.45
+        },
+        {
+          "party": "AFRICAN CONGRESS FOR TRANSFORMATION",
+          "candidate": "Koromang Emily Lesole",
+          "votes": 9,
+          "percent": 0.5
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Modiehi Felicia Mokhobo",
+          "votes": 8,
+          "percent": 0.45
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Dikganne Magtalina Medupe",
+          "votes": 6,
+          "percent": 0.33
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Dian Botha",
+          "votes": 6,
+          "percent": 0.33
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Morongwe Cathrine Nteso",
+          "votes": 5,
+          "percent": 0.28
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Pule Michael Lekitlane",
+          "votes": 4,
+          "percent": 0.22
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "41805007": {
+      "wardId": "41805007",
+      "wardNo": 7,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1785,
+      "registered": 3127,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Anna Moselantja Montsho",
+          "votes": 591,
+          "percent": 33.11
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Mothetsi Donald Sompane",
+          "votes": 470,
+          "percent": 26.33
+        },
+        {
+          "party": "NALA PROGRESSIVE MOVEMENT",
+          "candidate": "Thembile Justice September",
+          "votes": 426,
+          "percent": 23.87
+        },
+        {
+          "party": "NALA COMMUNITY FORUM",
+          "candidate": "Molatudi William Mothibi",
+          "votes": 137,
+          "percent": 7.68
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Jack John Moropodi",
+          "votes": 63,
+          "percent": 3.53
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Vuyane Nombewo",
+          "votes": 43,
+          "percent": 2.41
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Nanosi Angelinah Makoetla",
+          "votes": 29,
+          "percent": 1.62
+        },
+        {
+          "party": "AFRICAN CONGRESS FOR TRANSFORMATION",
+          "candidate": "Chaka Johannes Dikoko",
+          "votes": 12,
+          "percent": 0.67
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Dian Botha",
+          "votes": 7,
+          "percent": 0.39
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Johannes Mothibeli Koekoe Mahumapelo",
+          "votes": 4,
+          "percent": 0.22
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Sampi Samuel Mabaso",
+          "votes": 3,
+          "percent": 0.17
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "41805008": {
+      "wardId": "41805008",
+      "wardNo": 8,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 2154,
+      "registered": 4293,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Nkane Daniel Hlatywayo",
+          "votes": 769,
+          "percent": 35.7
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Eric Lebohang Mpholo",
+          "votes": 453,
+          "percent": 21.03
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Leepo Lucas Tladi",
+          "votes": 447,
+          "percent": 20.75
+        },
+        {
+          "party": "NALA PROGRESSIVE MOVEMENT",
+          "candidate": "Mode Willem Phophoi",
+          "votes": 220,
+          "percent": 10.21
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Mpho Innocent Mokgage",
+          "votes": 97,
+          "percent": 4.5
+        },
+        {
+          "party": "NALA COMMUNITY FORUM",
+          "candidate": "Mamokemane Aletta Tladi",
+          "votes": 62,
+          "percent": 2.88
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Linley Groenewald",
+          "votes": 62,
+          "percent": 2.88
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Monica Ntlebi",
+          "votes": 15,
+          "percent": 0.7
+        },
+        {
+          "party": "AFRICAN CONGRESS FOR TRANSFORMATION",
+          "candidate": "Madijo Maria Zomba",
+          "votes": 14,
+          "percent": 0.65
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Itumeleng Ephraim Letsie",
+          "votes": 8,
+          "percent": 0.37
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Senzile Joel Messelaar",
+          "votes": 7,
+          "percent": 0.32
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "41805009": {
+      "wardId": "41805009",
+      "wardNo": 9,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1875,
+      "registered": 4050,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Molefi Malakia Mohlamme",
+          "votes": 835,
+          "percent": 44.53
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Ishmael Seeiso Mokotedi",
+          "votes": 483,
+          "percent": 25.76
+        },
+        {
+          "party": "NALA PROGRESSIVE MOVEMENT",
+          "candidate": "Mamoya Patricia Bucibo",
+          "votes": 401,
+          "percent": 21.39
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Mpho Innocent Mokgage",
+          "votes": 59,
+          "percent": 3.15
+        },
+        {
+          "party": "NALA COMMUNITY FORUM",
+          "candidate": "Sebenzile Patrick Mantjie",
+          "votes": 35,
+          "percent": 1.87
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Simon Mhlopheki Mthimkulu",
+          "votes": 18,
+          "percent": 0.96
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Dian Botha",
+          "votes": 14,
+          "percent": 0.75
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Leepo Witbooi Montso",
+          "votes": 13,
+          "percent": 0.69
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Thapelo Emmanuel Matjoi",
+          "votes": 10,
+          "percent": 0.53
+        },
+        {
+          "party": "AFRICAN CONGRESS FOR TRANSFORMATION",
+          "candidate": "Mthakati Petrus Nhlapo",
+          "votes": 7,
+          "percent": 0.37
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "41805010": {
+      "wardId": "41805010",
+      "wardNo": 10,
+      "vdsCounted": 10,
+      "vdsTotal": 10,
+      "votesCast": 954,
+      "registered": 2181,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Zacharia Motshwari Moshane",
+          "votes": 300,
+          "percent": 31.45
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Linley Groenewald",
+          "votes": 204,
+          "percent": 21.38
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Anthony Arthur Harvey",
+          "votes": 190,
+          "percent": 19.92
+        },
+        {
+          "party": "NALA COMMUNITY FORUM",
+          "candidate": "Itumelleng Patrick Sepeesa",
+          "votes": 118,
+          "percent": 12.37
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Dimakatso Dinah Mahoko",
+          "votes": 81,
+          "percent": 8.49
+        },
+        {
+          "party": "NALA PROGRESSIVE MOVEMENT",
+          "candidate": "Danile Edward Lemoen",
+          "votes": 24,
+          "percent": 2.52
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Ntsokolo Kleinbooi Ngwabing",
+          "votes": 12,
+          "percent": 1.26
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Mosiuwa Simon Harejane",
+          "votes": 12,
+          "percent": 1.26
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Motlatsi Johannes Mosala",
+          "votes": 9,
+          "percent": 0.94
+        },
+        {
+          "party": "AFRICAN CONGRESS FOR TRANSFORMATION",
+          "candidate": "Samuel Molahlehi Maine",
+          "votes": 4,
+          "percent": 0.42
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "41805011": {
+      "wardId": "41805011",
+      "wardNo": 11,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1878,
+      "registered": 4051,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Suzan Madiepetsane Cheba",
+          "votes": 662,
+          "percent": 35.25
+        },
+        {
+          "party": "NALA PROGRESSIVE MOVEMENT",
+          "candidate": "Kelebogile Lovedelia Matowane",
+          "votes": 532,
+          "percent": 28.33
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Rantjhome Johannes Ntaopane",
+          "votes": 410,
+          "percent": 21.83
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Ramabojane Paulus Mahlatsi",
+          "votes": 80,
+          "percent": 4.26
+        },
+        {
+          "party": "NALA COMMUNITY FORUM",
+          "candidate": "Chert Kraal",
+          "votes": 62,
+          "percent": 3.3
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Moipone Emily Mafabatho",
+          "votes": 53,
+          "percent": 2.82
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Dian Botha",
+          "votes": 20,
+          "percent": 1.06
+        },
+        {
+          "party": "AFRICAN CONGRESS FOR TRANSFORMATION",
+          "candidate": "Modiehi Juliah Lesole",
+          "votes": 19,
+          "percent": 1.01
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Malesala Cecilia Motsamai",
+          "votes": 17,
+          "percent": 0.91
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Itumeleng Daniel Potsane",
+          "votes": 16,
+          "percent": 0.85
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Moeketsi Meshack Sempe",
+          "votes": 7,
+          "percent": 0.37
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "41805012": {
+      "wardId": "41805012",
+      "wardNo": 12,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2793,
+      "registered": 4596,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Marthinus Christoffel Barnard",
+          "votes": 768,
+          "percent": 27.5
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Dian Botha",
+          "votes": 758,
+          "percent": 27.14
+        },
+        {
+          "party": "NALA PROGRESSIVE MOVEMENT",
+          "candidate": "Sethoni Albert Tatsanyane",
+          "votes": 643,
+          "percent": 23.02
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Magashule Luckyboy Mototo",
+          "votes": 355,
+          "percent": 12.71
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Moipone Dorah Ntseki",
+          "votes": 147,
+          "percent": 5.26
+        },
+        {
+          "party": "NALA COMMUNITY FORUM",
+          "candidate": "Nthabiseng Evelina Radebe",
+          "votes": 50,
+          "percent": 1.79
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Molefi Jonas Medi",
+          "votes": 39,
+          "percent": 1.4
+        },
+        {
+          "party": "AFRICAN CONGRESS FOR TRANSFORMATION",
+          "candidate": "Moleko Dintwe Shadrack Sebate",
+          "votes": 10,
+          "percent": 0.36
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Thabile Joy Sija",
+          "votes": 9,
+          "percent": 0.32
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Nomoya Mavis Zim",
+          "votes": 7,
+          "percent": 0.25
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Mamothodi Emily Masiu",
+          "votes": 4,
+          "percent": 0.14
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Serame Abiel Molebeleli",
+          "votes": 3,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

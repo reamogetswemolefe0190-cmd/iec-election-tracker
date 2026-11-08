@@ -1,0 +1,626 @@
+{
+  "municipalityId": "NC073",
+  "name": "Emthanjeni Local Municipality",
+  "updatedAt": "2026-11-06T03:51:44.988Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 28,
+  "vdsTotal": 28,
+  "wardsTotal": 8,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 15,
+  "seatsMajority": 8,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 11357,
+      "percent": 41.68,
+      "wardsLeading": 6,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 6560,
+      "percent": 24.07,
+      "wardsLeading": 2,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 5945,
+      "percent": 21.82,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 1325,
+      "percent": 4.86,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 1293,
+      "percent": 4.75,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 533,
+      "percent": 1.96,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 154,
+      "percent": 0.57,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INDEPENDENT",
+      "votes": 39,
+      "percent": 0.14,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UMKHONTO WESIZWE PARTY",
+      "votes": 39,
+      "percent": 0.14,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DBOKKE",
+      "votes": 4,
+      "percent": 0.01,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 6
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 4
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 3
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "seats": 1
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 28,
+    "seatsFilled": 15,
+    "parties": [
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 15,
+        "wardSeats": 2,
+        "seats": 4
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 3
+      },
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 11,
+        "wardSeats": 6,
+        "seats": 6
+      },
+      {
+        "party": "SOUTH AFRICAN COMMUNIST PARTY",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "30703001": {
+      "wardId": "30703001",
+      "wardNo": 1,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1824,
+      "registered": 3226,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Roweda Hildegard Adams-Beukes",
+          "votes": 596,
+          "percent": 32.68
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Liza Erasmus",
+          "votes": 594,
+          "percent": 32.57
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Willem Anthony Henry Olifant",
+          "votes": 561,
+          "percent": 30.76
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Daniël Albertus Botha",
+          "votes": 26,
+          "percent": 1.43
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Lucia Jansen",
+          "votes": 21,
+          "percent": 1.15
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Candeline Kammies",
+          "votes": 21,
+          "percent": 1.15
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Mfundo Mathetha",
+          "votes": 5,
+          "percent": 0.27
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30703002": {
+      "wardId": "30703002",
+      "wardNo": 2,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1785,
+      "registered": 3359,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Magdelena Irene Absolom",
+          "votes": 794,
+          "percent": 44.48
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Rowena Caren Theron",
+          "votes": 452,
+          "percent": 25.32
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Anna Taaibos",
+          "votes": 437,
+          "percent": 24.48
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Ebenhaeser Rouël van Staden",
+          "votes": 52,
+          "percent": 2.91
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Lucia Jansen",
+          "votes": 22,
+          "percent": 1.23
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Karin Annette Depken",
+          "votes": 18,
+          "percent": 1.01
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Victor Jacobus van Reenen",
+          "votes": 6,
+          "percent": 0.34
+        },
+        {
+          "party": "DBOKKE",
+          "candidate": "Pieter Olifant",
+          "votes": 4,
+          "percent": 0.22
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30703003": {
+      "wardId": "30703003",
+      "wardNo": 3,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1518,
+      "registered": 2954,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Alizwa Phukela",
+          "votes": 865,
+          "percent": 56.98
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Fikile Harry Gaya",
+          "votes": 335,
+          "percent": 22.07
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Sandile Walter Makhandula",
+          "votes": 197,
+          "percent": 12.98
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Akhona Wana",
+          "votes": 42,
+          "percent": 2.77
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Vuyisile Goodman Mbedla",
+          "votes": 39,
+          "percent": 2.57
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Sivuyile Raymond Mantyi",
+          "votes": 21,
+          "percent": 1.38
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Lynne Elanore Louw",
+          "votes": 9,
+          "percent": 0.59
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Thobelani Gideon Filifana",
+          "votes": 6,
+          "percent": 0.4
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Daniël Albertus Botha",
+          "votes": 4,
+          "percent": 0.26
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30703004": {
+      "wardId": "30703004",
+      "wardNo": 4,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1387,
+      "registered": 2717,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Theo Jacobus Brandt",
+          "votes": 716,
+          "percent": 51.62
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Ridwaan Smith",
+          "votes": 291,
+          "percent": 20.98
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Christolene Lizette Block",
+          "votes": 230,
+          "percent": 16.58
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Zelda Anneline Vaas",
+          "votes": 80,
+          "percent": 5.77
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Daniel Simphiwe Mngxali",
+          "votes": 32,
+          "percent": 2.31
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Lucia Jansen",
+          "votes": 14,
+          "percent": 1.01
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Karin Annette Depken",
+          "votes": 13,
+          "percent": 0.94
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Deon Conradie",
+          "votes": 11,
+          "percent": 0.79
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30703005": {
+      "wardId": "30703005",
+      "wardNo": 5,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1682,
+      "registered": 3117,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Gerhardus Koen Engelbrecht",
+          "votes": 805,
+          "percent": 47.86
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Jaco Blom",
+          "votes": 447,
+          "percent": 26.58
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Surmen Natin Louw",
+          "votes": 252,
+          "percent": 14.98
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Daniël Albertus Botha",
+          "votes": 73,
+          "percent": 4.34
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Victor Jacobus van Reenen",
+          "votes": 52,
+          "percent": 3.09
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Anam Amenda Ntsadu",
+          "votes": 50,
+          "percent": 2.97
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Roenel Lorinda Adams",
+          "votes": 3,
+          "percent": 0.18
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30703006": {
+      "wardId": "30703006",
+      "wardNo": 6,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 1856,
+      "registered": 3184,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Asisipho Joka",
+          "votes": 920,
+          "percent": 49.57
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Edward Andrews",
+          "votes": 431,
+          "percent": 23.22
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Anzley Lodrique Tities",
+          "votes": 351,
+          "percent": 18.91
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Aphiwe Williams",
+          "votes": 103,
+          "percent": 5.55
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Karin Annette Depken",
+          "votes": 37,
+          "percent": 1.99
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Jack David Bantu",
+          "votes": 11,
+          "percent": 0.59
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Thobelani Gideon Filifana",
+          "votes": 3,
+          "percent": 0.16
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30703007": {
+      "wardId": "30703007",
+      "wardNo": 7,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 2124,
+      "registered": 3548,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Morné Garth Theobold Makaya",
+          "votes": 959,
+          "percent": 45.15
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Mitchell Malgas",
+          "votes": 712,
+          "percent": 33.52
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Bennie Swanepoel",
+          "votes": 318,
+          "percent": 14.97
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Lwando Samora Rayibo",
+          "votes": 86,
+          "percent": 4.05
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Daniël Albertus Botha",
+          "votes": 28,
+          "percent": 1.32
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Meshack Tshantshana",
+          "votes": 15,
+          "percent": 0.71
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Roenel Lorinda Adams",
+          "votes": 6,
+          "percent": 0.28
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30703008": {
+      "wardId": "30703008",
+      "wardNo": 8,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 1441,
+      "registered": 2632,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Cornelius Booi Ngudle",
+          "votes": 619,
+          "percent": 42.96
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Martin Links",
+          "votes": 335,
+          "percent": 23.25
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Anna Beukes",
+          "votes": 189,
+          "percent": 13.12
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Phumeza Calfornia Jacobs",
+          "votes": 121,
+          "percent": 8.4
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Thandiwe Portia Jacobs",
+          "votes": 113,
+          "percent": 7.84
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Karin Annette Depken",
+          "votes": 54,
+          "percent": 3.75
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Siphokazi Simanga",
+          "votes": 7,
+          "percent": 0.49
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Roenel Lorinda Adams",
+          "votes": 3,
+          "percent": 0.21
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

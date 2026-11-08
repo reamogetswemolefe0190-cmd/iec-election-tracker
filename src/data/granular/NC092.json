@@ -1,0 +1,848 @@
+{
+  "municipalityId": "NC092",
+  "name": "Dikgatlong Local Municipality",
+  "updatedAt": "2026-11-06T03:51:35.025Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 29,
+  "vdsTotal": 29,
+  "wardsTotal": 8,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 15,
+  "seatsMajority": 8,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 11998,
+      "percent": 42.11,
+      "wardsLeading": 8,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DIKGATLONG RESIDENTS CONVENTION",
+      "votes": 6844,
+      "percent": 24.02,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 2959,
+      "percent": 10.39,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 2519,
+      "percent": 8.84,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 1743,
+      "percent": 6.12,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 807,
+      "percent": 2.83,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 618,
+      "percent": 2.17,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DIKGATLONG INDEPENDED FORUM",
+      "votes": 398,
+      "percent": 1.4,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INDEPENDENT",
+      "votes": 136,
+      "percent": 0.48,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UMKHONTO WESIZWE PARTY",
+      "votes": 130,
+      "percent": 0.46,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 107,
+      "percent": 0.38,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "GOOD",
+      "votes": 97,
+      "percent": 0.34,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN TRANSFORMATION MOVEMENT",
+      "votes": 75,
+      "percent": 0.26,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+      "votes": 61,
+      "percent": 0.21,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 8
+    },
+    {
+      "party": "DIKGATLONG RESIDENTS CONVENTION",
+      "seats": 3
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 1
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "seats": 1
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 1
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 29,
+    "seatsFilled": 15,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 18,
+        "wardSeats": 8,
+        "seats": 8
+      },
+      {
+        "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+        "vdsWon": 4,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "DIKGATLONG RESIDENTS CONVENTION",
+        "vdsWon": 3,
+        "wardSeats": 0,
+        "seats": 3
+      },
+      {
+        "party": "DIKGATLONG INDEPENDED FORUM",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 0
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 2,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "30902001": {
+      "wardId": "30902001",
+      "wardNo": 1,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1892,
+      "registered": 2794,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Jabavu Hendry Khechane",
+          "votes": 881,
+          "percent": 46.56
+        },
+        {
+          "party": "DIKGATLONG RESIDENTS CONVENTION",
+          "candidate": "Lefa Desmond Kenneth Leeuw",
+          "votes": 640,
+          "percent": 33.83
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Barnard Winston Hillgard Rabie",
+          "votes": 133,
+          "percent": 7.03
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Mcdonald Mosalasuping Keetsamang",
+          "votes": 133,
+          "percent": 7.03
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Avril Phumla Malo",
+          "votes": 49,
+          "percent": 2.59
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nonina Elsie Mafumana",
+          "votes": 25,
+          "percent": 1.32
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Innocentia Nonhlanhla Sohlezi",
+          "votes": 18,
+          "percent": 0.95
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Mpho Germina Thobie",
+          "votes": 4,
+          "percent": 0.21
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Orapeleng Jonathan Telekelo",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Patricia Hendriks",
+          "votes": 2,
+          "percent": 0.11
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Tsholofelo Stephina Bester",
+          "votes": 2,
+          "percent": 0.11
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lauriza Zeelie",
+          "votes": 2,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30902002": {
+      "wardId": "30902002",
+      "wardNo": 2,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2065,
+      "registered": 3379,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Winston Andrew Samuel Hendricks",
+          "votes": 646,
+          "percent": 31.28
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Esperencia Michelle Holiver",
+          "votes": 634,
+          "percent": 30.7
+        },
+        {
+          "party": "DIKGATLONG RESIDENTS CONVENTION",
+          "candidate": "Elaine Elsie Tree",
+          "votes": 352,
+          "percent": 17.05
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Gertruida Swart",
+          "votes": 127,
+          "percent": 6.15
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Denwell Mark Montsinger",
+          "votes": 103,
+          "percent": 4.99
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Glen Collin Namies",
+          "votes": 79,
+          "percent": 3.83
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Paul Nolan Jammer",
+          "votes": 39,
+          "percent": 1.89
+        },
+        {
+          "party": "DIKGATLONG INDEPENDED FORUM",
+          "candidate": "Maxwell Abraham Abrams",
+          "votes": 20,
+          "percent": 0.97
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Daniël Hendriks",
+          "votes": 20,
+          "percent": 0.97
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Clarence Witbooi",
+          "votes": 20,
+          "percent": 0.97
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Bennie Abrahams",
+          "votes": 10,
+          "percent": 0.48
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Stoffel Tsubi Plaatjie",
+          "votes": 10,
+          "percent": 0.48
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nonina Elsie Mafumana",
+          "votes": 5,
+          "percent": 0.24
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30902003": {
+      "wardId": "30902003",
+      "wardNo": 3,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1843,
+      "registered": 3127,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mthuthuzeli Francis Nikani",
+          "votes": 794,
+          "percent": 43.08
+        },
+        {
+          "party": "DIKGATLONG RESIDENTS CONVENTION",
+          "candidate": "Lerato Stephen Bokote",
+          "votes": 675,
+          "percent": 36.63
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Refiloe Makatees",
+          "votes": 216,
+          "percent": 11.72
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Moshiwa Hendrik Matthews",
+          "votes": 67,
+          "percent": 3.64
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Gamtise Hildah Ngqebisa",
+          "votes": 22,
+          "percent": 1.19
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Buti Olven Oor",
+          "votes": 18,
+          "percent": 0.98
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Kebonang Maria Nxamashe",
+          "votes": 17,
+          "percent": 0.92
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Joseph Kelesamile Davids",
+          "votes": 17,
+          "percent": 0.92
+        },
+        {
+          "party": "DIKGATLONG INDEPENDED FORUM",
+          "candidate": "Unita Lucinda Pienaar",
+          "votes": 7,
+          "percent": 0.38
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Lebogang Jan Lebona",
+          "votes": 5,
+          "percent": 0.27
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nonina Elsie Mafumana",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Cecil Wait",
+          "votes": 2,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30902004": {
+      "wardId": "30902004",
+      "wardNo": 4,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1459,
+      "registered": 2785,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Khethiwe Veronica Mema",
+          "votes": 575,
+          "percent": 39.41
+        },
+        {
+          "party": "DIKGATLONG RESIDENTS CONVENTION",
+          "candidate": "Pasculius Phadi",
+          "votes": 341,
+          "percent": 23.37
+        },
+        {
+          "party": "DIKGATLONG INDEPENDED FORUM",
+          "candidate": "Joseph Rooi",
+          "votes": 141,
+          "percent": 9.66
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Declam Waivel Slambert",
+          "votes": 97,
+          "percent": 6.65
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "David Jose Cossa",
+          "votes": 83,
+          "percent": 5.69
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Andrew Modisaotsile",
+          "votes": 73,
+          "percent": 5
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Leon Donovan Ross",
+          "votes": 70,
+          "percent": 4.8
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Gertruida Swart",
+          "votes": 60,
+          "percent": 4.11
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Milly Ellen Kleinjan",
+          "votes": 8,
+          "percent": 0.55
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nonina Elsie Mafumana",
+          "votes": 6,
+          "percent": 0.41
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Norah Elizabeth Modise",
+          "votes": 3,
+          "percent": 0.21
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Boitumelo Susan Douw",
+          "votes": 2,
+          "percent": 0.14
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30902005": {
+      "wardId": "30902005",
+      "wardNo": 5,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1822,
+      "registered": 2901,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Dannyboy Daniël Rifles",
+          "votes": 694,
+          "percent": 38.09
+        },
+        {
+          "party": "DIKGATLONG RESIDENTS CONVENTION",
+          "candidate": "Rolene Jolene Visagie",
+          "votes": 507,
+          "percent": 27.83
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Susan Merriam Mecuur",
+          "votes": 247,
+          "percent": 13.56
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Leonora Merilyn Erika Swartz",
+          "votes": 232,
+          "percent": 12.73
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Boitshepo Innocent Oliphant",
+          "votes": 118,
+          "percent": 6.48
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Khayalethu Mlobeli",
+          "votes": 10,
+          "percent": 0.55
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Joana Adriana Vermeulen",
+          "votes": 8,
+          "percent": 0.44
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Andrew Modisaotsile",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Vimshano Elzaan Saggeus",
+          "votes": 2,
+          "percent": 0.11
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nonina Elsie Mafumana",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30902006": {
+      "wardId": "30902006",
+      "wardNo": 6,
+      "vdsCounted": 8,
+      "vdsTotal": 8,
+      "votesCast": 1845,
+      "registered": 3362,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Happy Lempiditse Motlhale",
+          "votes": 776,
+          "percent": 42.06
+        },
+        {
+          "party": "DIKGATLONG RESIDENTS CONVENTION",
+          "candidate": "Kagisho Sylvester Skalk",
+          "votes": 339,
+          "percent": 18.37
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Frans Williams",
+          "votes": 222,
+          "percent": 12.03
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Barbara Elaine Botes",
+          "votes": 213,
+          "percent": 11.54
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Andy Paul Martin",
+          "votes": 112,
+          "percent": 6.07
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Joana Adriana Vermeulen",
+          "votes": 87,
+          "percent": 4.72
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Agnes Tuku",
+          "votes": 86,
+          "percent": 4.66
+        },
+        {
+          "party": "DIKGATLONG INDEPENDED FORUM",
+          "candidate": "Kagisho Rifles",
+          "votes": 7,
+          "percent": 0.38
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nonina Elsie Mafumana",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Glenda Juliet Norman",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30902007": {
+      "wardId": "30902007",
+      "wardNo": 7,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1570,
+      "registered": 2718,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mpho Gift Tjope",
+          "votes": 756,
+          "percent": 48.15
+        },
+        {
+          "party": "DIKGATLONG RESIDENTS CONVENTION",
+          "candidate": "Molemoeng Climentine Mokgaje",
+          "votes": 282,
+          "percent": 17.96
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Kgotso Mcarthur Motlhale",
+          "votes": 276,
+          "percent": 17.58
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Godfrey Johnson",
+          "votes": 166,
+          "percent": 10.57
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Sunita Gyroenochia Kaars",
+          "votes": 46,
+          "percent": 2.93
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Tegobo Donald Moeti",
+          "votes": 26,
+          "percent": 1.66
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Cecil Wait",
+          "votes": 10,
+          "percent": 0.64
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Elton Boitumelo Maikeco",
+          "votes": 7,
+          "percent": 0.45
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Nombulelo Ficticius Masigo",
+          "votes": 1,
+          "percent": 0.06
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nonina Elsie Mafumana",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30902008": {
+      "wardId": "30902008",
+      "wardNo": 8,
+      "vdsCounted": 9,
+      "vdsTotal": 9,
+      "votesCast": 1823,
+      "registered": 2975,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Sustertjie Letsomo",
+          "votes": 895,
+          "percent": 49.09
+        },
+        {
+          "party": "DIKGATLONG RESIDENTS CONVENTION",
+          "candidate": "Gift Orapeleng Seekoei",
+          "votes": 326,
+          "percent": 17.88
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Baekene William Ntaka",
+          "votes": 258,
+          "percent": 14.15
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Mercialene Jo-Anne Buffel",
+          "votes": 103,
+          "percent": 5.65
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Joana Adriana Vermeulen",
+          "votes": 99,
+          "percent": 5.43
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Daisy Patricia Hendricks",
+          "votes": 95,
+          "percent": 5.21
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Andries Buys",
+          "votes": 21,
+          "percent": 1.15
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Keetiheng Seldrina Morokanyane",
+          "votes": 15,
+          "percent": 0.82
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nonina Elsie Mafumana",
+          "votes": 6,
+          "percent": 0.33
+        },
+        {
+          "party": "DIKGATLONG INDEPENDED FORUM",
+          "candidate": "Geraldine Reagan Korten",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "GOOD",
+          "candidate": "Daniël Hendriks",
+          "votes": 2,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

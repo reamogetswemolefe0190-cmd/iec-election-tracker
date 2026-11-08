@@ -1,0 +1,572 @@
+{
+  "municipalityId": "NC064",
+  "name": "Kamiesberg Local Municipality",
+  "updatedAt": "2026-11-06T03:46:51.586Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 16,
+  "vdsTotal": 16,
+  "wardsTotal": 6,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 11,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 4606,
+      "percent": 45.09,
+      "wardsLeading": 2,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 3320,
+      "percent": 32.5,
+      "wardsLeading": 4,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+      "votes": 821,
+      "percent": 8.04,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 646,
+      "percent": 6.32,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "NAMAKWA CIVIC MOVEMENT",
+      "votes": 304,
+      "percent": 2.98,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 226,
+      "percent": 2.21,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "NATIONAL ECONOMIC FIGHTERS",
+      "votes": 145,
+      "percent": 1.42,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 104,
+      "percent": 1.02,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 39,
+      "percent": 0.38,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INDEPENDENT RATEPAYERS ASSOCIATION OF SA",
+      "votes": 4,
+      "percent": 0.04,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 5
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 4
+    },
+    {
+      "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+      "seats": 1
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 16,
+    "seatsFilled": 11,
+    "parties": [
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 6,
+        "wardSeats": 4,
+        "seats": 4
+      },
+      {
+        "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 9,
+        "wardSeats": 2,
+        "seats": 5
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "30604001": {
+      "wardId": "30604001",
+      "wardNo": 1,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 906,
+      "registered": 1360,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Hendrik Steenkamp",
+          "votes": 274,
+          "percent": 30.24
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Elsabe Amanda Stewens",
+          "votes": 272,
+          "percent": 30.02
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Davery Wilma Cloete",
+          "votes": 130,
+          "percent": 14.35
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Marius Lewis",
+          "votes": 80,
+          "percent": 8.83
+        },
+        {
+          "party": "NATIONAL ECONOMIC FIGHTERS",
+          "candidate": "Dawid Jakobus Markus",
+          "votes": 74,
+          "percent": 8.17
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Annette Sophia Williams",
+          "votes": 48,
+          "percent": 5.3
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Marco James Barbery",
+          "votes": 14,
+          "percent": 1.55
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Gerchwill Enrico Steenkamp",
+          "votes": 7,
+          "percent": 0.77
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Marquez Rudwin Leazer Thys",
+          "votes": 6,
+          "percent": 0.66
+        },
+        {
+          "party": "INDEPENDENT RATEPAYERS ASSOCIATION OF SA",
+          "candidate": "Leon Jacobus van den Berg",
+          "votes": 1,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30604002": {
+      "wardId": "30604002",
+      "wardNo": 2,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 921,
+      "registered": 1478,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Christoffel Christiaan Cornelius Coetzee",
+          "votes": 377,
+          "percent": 40.93
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Jakob Hanekom",
+          "votes": 326,
+          "percent": 35.4
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Henri-Thomas Wildschut",
+          "votes": 65,
+          "percent": 7.06
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Keith Gerhardus Benjamin Mario Cloete",
+          "votes": 51,
+          "percent": 5.54
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Dawid Johan Mathysen",
+          "votes": 43,
+          "percent": 4.67
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Louis Kastoor Felex Don",
+          "votes": 34,
+          "percent": 3.69
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Francis Antoinette Cecelia Fielding",
+          "votes": 23,
+          "percent": 2.5
+        },
+        {
+          "party": "INDEPENDENT RATEPAYERS ASSOCIATION OF SA",
+          "candidate": "Leon Jacobus van den Berg",
+          "votes": 1,
+          "percent": 0.11
+        },
+        {
+          "party": "NATIONAL ECONOMIC FIGHTERS",
+          "candidate": "Dawid Jakobus Markus",
+          "votes": 1,
+          "percent": 0.11
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Devona Felecia Beukes",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30604003": {
+      "wardId": "30604003",
+      "wardNo": 3,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 701,
+      "registered": 1080,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Derian Aldrey Rooi",
+          "votes": 392,
+          "percent": 55.92
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "André Joey van der Westhuizen",
+          "votes": 124,
+          "percent": 17.69
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Jan Cloete",
+          "votes": 99,
+          "percent": 14.12
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Jesmonia Elsaydia Pieters",
+          "votes": 72,
+          "percent": 10.27
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Dawid Johan Mathysen",
+          "votes": 11,
+          "percent": 1.57
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Benjamin Henry Fortuin",
+          "votes": 2,
+          "percent": 0.29
+        },
+        {
+          "party": "NATIONAL ECONOMIC FIGHTERS",
+          "candidate": "Dawid Jakobus Markus",
+          "votes": 1,
+          "percent": 0.14
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Maxwell Shivollen Thys",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "INDEPENDENT RATEPAYERS ASSOCIATION OF SA",
+          "candidate": "Leon Jacobus van den Berg",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Marco James Barbery",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30604004": {
+      "wardId": "30604004",
+      "wardNo": 4,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 926,
+      "registered": 1287,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "John Herlus Corjeus",
+          "votes": 650,
+          "percent": 70.19
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Mariana Katrina Isaacs",
+          "votes": 130,
+          "percent": 14.04
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Patrick Andrew Ricardo Rossouw",
+          "votes": 67,
+          "percent": 7.24
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Reagam Bolwin Beukes",
+          "votes": 57,
+          "percent": 6.16
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Gert Jacobus Beukes",
+          "votes": 15,
+          "percent": 1.62
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Annette Sophia Williams",
+          "votes": 4,
+          "percent": 0.43
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Mario Charl Dommerog",
+          "votes": 3,
+          "percent": 0.32
+        },
+        {
+          "party": "INDEPENDENT RATEPAYERS ASSOCIATION OF SA",
+          "candidate": "Leon Jacobus van den Berg",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "NATIONAL ECONOMIC FIGHTERS",
+          "candidate": "Dawid Jakobus Markus",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Gerald Harriët Engelbrecht",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30604005": {
+      "wardId": "30604005",
+      "wardNo": 5,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 884,
+      "registered": 1275,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Theodore Emmanuel Louw",
+          "votes": 506,
+          "percent": 57.24
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Denvar Ludwick Vos",
+          "votes": 350,
+          "percent": 39.59
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Geraldine Links",
+          "votes": 19,
+          "percent": 2.15
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Charlton Chantil Kordom",
+          "votes": 6,
+          "percent": 0.68
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Dawid Johan Mathysen",
+          "votes": 2,
+          "percent": 0.23
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Devona Felecia Beukes",
+          "votes": 1,
+          "percent": 0.11
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Marquez Rudwin Leazer Thys",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "INDEPENDENT RATEPAYERS ASSOCIATION OF SA",
+          "candidate": "Leon Jacobus van den Berg",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "NATIONAL ECONOMIC FIGHTERS",
+          "candidate": "Dawid Jakobus Markus",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30604006": {
+      "wardId": "30604006",
+      "wardNo": 6,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 752,
+      "registered": 1235,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Antonio Joseph",
+          "votes": 300,
+          "percent": 39.89
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Caroline Veronica Meissenheimer-Ellis",
+          "votes": 295,
+          "percent": 39.23
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Abraham Albertus Kordom",
+          "votes": 84,
+          "percent": 11.17
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "David Barnett Adams",
+          "votes": 60,
+          "percent": 7.98
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Dawid Johan Mathysen",
+          "votes": 11,
+          "percent": 1.46
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Mario Charl Dommerog",
+          "votes": 1,
+          "percent": 0.13
+        },
+        {
+          "party": "NATIONAL ECONOMIC FIGHTERS",
+          "candidate": "Dawid Jakobus Markus",
+          "votes": 1,
+          "percent": 0.13
+        },
+        {
+          "party": "INDEPENDENT RATEPAYERS ASSOCIATION OF SA",
+          "candidate": "Leon Jacobus van den Berg",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Gerald Harriët Engelbrecht",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

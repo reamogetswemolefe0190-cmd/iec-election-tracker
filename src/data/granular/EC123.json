@@ -1,0 +1,757 @@
+{
+  "municipalityId": "EC123",
+  "name": "Great Kei Local Municipality",
+  "updatedAt": "2026-11-06T03:51:53.562Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 43,
+  "vdsTotal": 43,
+  "wardsTotal": 7,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 13,
+  "seatsMajority": 7,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 12225,
+      "percent": 48.33,
+      "wardsLeading": 6,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "GREAT KEI COMMUNITY MOVEMENT",
+      "votes": 4263,
+      "percent": 16.85,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 4182,
+      "percent": 16.53,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 1567,
+      "percent": 6.19,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 1200,
+      "percent": 4.74,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INDEPENDENT",
+      "votes": 738,
+      "percent": 2.92,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 573,
+      "percent": 2.27,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN TRANSFORMATION MOVEMENT",
+      "votes": 185,
+      "percent": 0.73,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+      "votes": 103,
+      "percent": 0.41,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 102,
+      "percent": 0.4,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 82,
+      "percent": 0.32,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UMKHONTO WESIZWE PARTY",
+      "votes": 60,
+      "percent": 0.24,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ARUSHA ECONOMIC COALITION",
+      "votes": 17,
+      "percent": 0.07,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 7
+    },
+    {
+      "party": "GREAT KEI COMMUNITY MOVEMENT",
+      "seats": 2
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 2
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "seats": 1
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 43,
+    "seatsFilled": 13,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 32,
+        "wardSeats": 6,
+        "seats": 7
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 7,
+        "wardSeats": 1,
+        "seats": 2
+      },
+      {
+        "party": "GREAT KEI COMMUNITY MOVEMENT",
+        "vdsWon": 2,
+        "wardSeats": 0,
+        "seats": 2
+      },
+      {
+        "party": "SOUTH AFRICAN COMMUNIST PARTY",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "21203001": {
+      "wardId": "21203001",
+      "wardNo": 1,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1746,
+      "registered": 2614,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Sipiwo Honey Pakamile",
+          "votes": 1040,
+          "percent": 59.56
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Sharon Struthers-Reilly",
+          "votes": 395,
+          "percent": 22.62
+        },
+        {
+          "party": "GREAT KEI COMMUNITY MOVEMENT",
+          "candidate": "Thuletu Dyani",
+          "votes": 206,
+          "percent": 11.8
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Malusi Pati",
+          "votes": 40,
+          "percent": 2.29
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Sydney Frank Miles",
+          "votes": 40,
+          "percent": 2.29
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Khayalethu Johnson Mbuyiselo",
+          "votes": 13,
+          "percent": 0.74
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Alungile Dalibango",
+          "votes": 4,
+          "percent": 0.23
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Charles Field Ballantyne",
+          "votes": 3,
+          "percent": 0.17
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nyanisa Gqwetani",
+          "votes": 2,
+          "percent": 0.11
+        },
+        {
+          "party": "ARUSHA ECONOMIC COALITION",
+          "candidate": "Luthando Mtya",
+          "votes": 1,
+          "percent": 0.06
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Leon Dudley Darries",
+          "votes": 1,
+          "percent": 0.06
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Sikelela Malawu",
+          "votes": 1,
+          "percent": 0.06
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21203002": {
+      "wardId": "21203002",
+      "wardNo": 2,
+      "vdsCounted": 8,
+      "vdsTotal": 8,
+      "votesCast": 2133,
+      "registered": 3178,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Sharné Muriel Jacobs",
+          "votes": 862,
+          "percent": 40.41
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Zolani Mzwanele Nzuzo",
+          "votes": 571,
+          "percent": 26.77
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Mlamli Lennox Mdingi",
+          "votes": 291,
+          "percent": 13.64
+        },
+        {
+          "party": "GREAT KEI COMMUNITY MOVEMENT",
+          "candidate": "Thobile Seti",
+          "votes": 198,
+          "percent": 9.28
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Sydney Frank Miles",
+          "votes": 107,
+          "percent": 5.02
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Kwanele Dubase",
+          "votes": 56,
+          "percent": 2.63
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Mnand'Afika Bukani",
+          "votes": 22,
+          "percent": 1.03
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Charles Field Ballantyne",
+          "votes": 12,
+          "percent": 0.56
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nyanisa Gqwetani",
+          "votes": 7,
+          "percent": 0.33
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Sinethemba Gola",
+          "votes": 5,
+          "percent": 0.23
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Leon Dudley Darries",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "ARUSHA ECONOMIC COALITION",
+          "candidate": "Luthando Mtya",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21203003": {
+      "wardId": "21203003",
+      "wardNo": 3,
+      "vdsCounted": 8,
+      "vdsTotal": 8,
+      "votesCast": 1723,
+      "registered": 2940,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Monwabise George Njanya",
+          "votes": 1105,
+          "percent": 64.13
+        },
+        {
+          "party": "GREAT KEI COMMUNITY MOVEMENT",
+          "candidate": "Siphokazi Tyebileyo",
+          "votes": 389,
+          "percent": 22.58
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Khotama Makonco",
+          "votes": 103,
+          "percent": 5.98
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Dumisani Bobela",
+          "votes": 51,
+          "percent": 2.96
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Albertina Poselani",
+          "votes": 39,
+          "percent": 2.26
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Siyabulela Baulisi",
+          "votes": 16,
+          "percent": 0.93
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nyanisa Gqwetani",
+          "votes": 8,
+          "percent": 0.46
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Sydney Frank Miles",
+          "votes": 6,
+          "percent": 0.35
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Leon Dudley Darries",
+          "votes": 5,
+          "percent": 0.29
+        },
+        {
+          "party": "ARUSHA ECONOMIC COALITION",
+          "candidate": "Luthando Mtya",
+          "votes": 1,
+          "percent": 0.06
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Charles Field Ballantyne",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21203004": {
+      "wardId": "21203004",
+      "wardNo": 4,
+      "vdsCounted": 8,
+      "vdsTotal": 8,
+      "votesCast": 1623,
+      "registered": 2960,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mzoli Twani",
+          "votes": 873,
+          "percent": 53.79
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Mzamo Njekanye",
+          "votes": 418,
+          "percent": 25.75
+        },
+        {
+          "party": "GREAT KEI COMMUNITY MOVEMENT",
+          "candidate": "Nompucuko Charmaine Ngangelizwe-Peter",
+          "votes": 234,
+          "percent": 14.42
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Felicity Elaine Webber",
+          "votes": 33,
+          "percent": 2.03
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Vuyokazi Ncamiso",
+          "votes": 27,
+          "percent": 1.66
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Litha Tom",
+          "votes": 14,
+          "percent": 0.86
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Sydney Frank Miles",
+          "votes": 14,
+          "percent": 0.86
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nyanisa Gqwetani",
+          "votes": 3,
+          "percent": 0.18
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Leon Dudley Darries",
+          "votes": 3,
+          "percent": 0.18
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Charles Field Ballantyne",
+          "votes": 2,
+          "percent": 0.12
+        },
+        {
+          "party": "ARUSHA ECONOMIC COALITION",
+          "candidate": "Luthando Mtya",
+          "votes": 2,
+          "percent": 0.12
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21203005": {
+      "wardId": "21203005",
+      "wardNo": 5,
+      "vdsCounted": 7,
+      "vdsTotal": 7,
+      "votesCast": 1880,
+      "registered": 2850,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Ndileka Maureen Kantshashe-Tildini",
+          "votes": 753,
+          "percent": 40.05
+        },
+        {
+          "party": "GREAT KEI COMMUNITY MOVEMENT",
+          "candidate": "Alex Tshijila",
+          "votes": 511,
+          "percent": 27.18
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Panajiotaki George Kyriacos",
+          "votes": 496,
+          "percent": 26.38
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Sydney Frank Miles",
+          "votes": 58,
+          "percent": 3.09
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Mzwandile Diniso",
+          "votes": 17,
+          "percent": 0.9
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Lulama Valencia Tildini",
+          "votes": 16,
+          "percent": 0.85
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Charles Field Ballantyne",
+          "votes": 9,
+          "percent": 0.48
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nyanisa Gqwetani",
+          "votes": 7,
+          "percent": 0.37
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Agnetha Samantha Smith",
+          "votes": 7,
+          "percent": 0.37
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Khayalethu Johnson Mbuyiselo",
+          "votes": 4,
+          "percent": 0.21
+        },
+        {
+          "party": "ARUSHA ECONOMIC COALITION",
+          "candidate": "Luthando Mtya",
+          "votes": 2,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21203006": {
+      "wardId": "21203006",
+      "wardNo": 6,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 1771,
+      "registered": 2993,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Nontsikelelo Faleni",
+          "votes": 647,
+          "percent": 36.53
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Wiver Sinqana",
+          "votes": 447,
+          "percent": 25.24
+        },
+        {
+          "party": "GREAT KEI COMMUNITY MOVEMENT",
+          "candidate": "Luleka Ndabambi",
+          "votes": 201,
+          "percent": 11.35
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Xolani Vellem",
+          "votes": 185,
+          "percent": 10.45
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Patrick Mc Gowan",
+          "votes": 164,
+          "percent": 9.26
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Sydney Frank Miles",
+          "votes": 43,
+          "percent": 2.43
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Afrika Knowledge Mpotulo",
+          "votes": 21,
+          "percent": 1.19
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Sivuyile David Mzingaye",
+          "votes": 21,
+          "percent": 1.19
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Leon Dudley Darries",
+          "votes": 17,
+          "percent": 0.96
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Charles Field Ballantyne",
+          "votes": 13,
+          "percent": 0.73
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Aron Bafana Thebe",
+          "votes": 6,
+          "percent": 0.34
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nyanisa Gqwetani",
+          "votes": 5,
+          "percent": 0.28
+        },
+        {
+          "party": "ARUSHA ECONOMIC COALITION",
+          "candidate": "Luthando Mtya",
+          "votes": 1,
+          "percent": 0.06
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21203007": {
+      "wardId": "21203007",
+      "wardNo": 7,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 1889,
+      "registered": 3283,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mlamli Gavumente",
+          "votes": 1011,
+          "percent": 53.52
+        },
+        {
+          "party": "GREAT KEI COMMUNITY MOVEMENT",
+          "candidate": "Phumzile Christopher Ndolose",
+          "votes": 370,
+          "percent": 19.59
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Malixole Maxwell Eric Matshoba",
+          "votes": 347,
+          "percent": 18.37
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Zintle Makanda",
+          "votes": 75,
+          "percent": 3.97
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Felicity Elaine Webber",
+          "votes": 36,
+          "percent": 1.91
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Sydney Frank Miles",
+          "votes": 23,
+          "percent": 1.22
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Thomas Ralph Crawford",
+          "votes": 8,
+          "percent": 0.42
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Mzimasi Sidwell Mgema",
+          "votes": 6,
+          "percent": 0.32
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nyanisa Gqwetani",
+          "votes": 6,
+          "percent": 0.32
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Charles Field Ballantyne",
+          "votes": 4,
+          "percent": 0.21
+        },
+        {
+          "party": "ARUSHA ECONOMIC COALITION",
+          "candidate": "Luthando Mtya",
+          "votes": 3,
+          "percent": 0.16
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

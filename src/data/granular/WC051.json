@@ -1,0 +1,521 @@
+{
+  "municipalityId": "WC051",
+  "name": "Laingsburg Local Municipality",
+  "updatedAt": "2026-11-06T03:51:55.056Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 10,
+  "vdsTotal": 10,
+  "wardsTotal": 5,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 10,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "ACTIONSA",
+      "votes": 1776,
+      "percent": 26.59,
+      "wardsLeading": 2,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 1693,
+      "percent": 25.35,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 1636,
+      "percent": 24.49,
+      "wardsLeading": 2,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+      "votes": 582,
+      "percent": 8.71,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 491,
+      "percent": 7.35,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "COMMUNITY FIRST PARTY",
+      "votes": 249,
+      "percent": 3.73,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 200,
+      "percent": 2.99,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 32,
+      "percent": 0.48,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "KAROO DEMOCRATIC FORCE",
+      "votes": 13,
+      "percent": 0.19,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 7,
+      "percent": 0.1,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "ACTIONSA",
+      "seats": 3
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 3
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 2
+    },
+    {
+      "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+      "seats": 1
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 10,
+    "seatsFilled": 10,
+    "parties": [
+      {
+        "party": "ACTIONSA",
+        "vdsWon": 2,
+        "wardSeats": 2,
+        "seats": 3
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 4,
+        "wardSeats": 1,
+        "seats": 3
+      },
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 4,
+        "wardSeats": 2,
+        "seats": 2
+      },
+      {
+        "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "10501001": {
+      "wardId": "10501001",
+      "wardNo": 1,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 230,
+      "registered": 370,
+      "rows": [
+        {
+          "party": "ACTIONSA",
+          "candidate": "Eugéne Anthony Pieterse",
+          "votes": 69,
+          "percent": 30
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Anna-Marie Marinda Ebrahiem",
+          "votes": 53,
+          "percent": 23.04
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Bevril Abelene Raynard",
+          "votes": 50,
+          "percent": 21.74
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Murreldiae Koesay Fatima Ebrahiem",
+          "votes": 44,
+          "percent": 19.13
+        },
+        {
+          "party": "COMMUNITY FIRST PARTY",
+          "candidate": "Wayne Luwellyn Pietersen",
+          "votes": 5,
+          "percent": 2.17
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Irene Brown",
+          "votes": 4,
+          "percent": 1.74
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Christiaan Jan-Abraham van der Vyver",
+          "votes": 4,
+          "percent": 1.74
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Sylvia Marié Sas",
+          "votes": 1,
+          "percent": 0.43
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Kirsty Nel",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "KAROO DEMOCRATIC FORCE",
+          "candidate": "Eugene Finando Ludicks",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10501002": {
+      "wardId": "10501002",
+      "wardNo": 2,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 562,
+      "registered": 955,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Katrina Mc Keet",
+          "votes": 245,
+          "percent": 43.59
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Jerome Louis Wylbach",
+          "votes": 96,
+          "percent": 17.08
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Nadia Jansen",
+          "votes": 72,
+          "percent": 12.81
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Jacobus Minies",
+          "votes": 65,
+          "percent": 11.57
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Juanté Berenic Neethling",
+          "votes": 56,
+          "percent": 9.96
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Christiaan Jan-Abraham van der Vyver",
+          "votes": 26,
+          "percent": 4.63
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Elfrieda Lottering",
+          "votes": 1,
+          "percent": 0.18
+        },
+        {
+          "party": "KAROO DEMOCRATIC FORCE",
+          "candidate": "Eugene Finando Ludicks",
+          "votes": 1,
+          "percent": 0.18
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Kirsty Nel",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "COMMUNITY FIRST PARTY",
+          "candidate": "Wayne Luwellyn Pietersen",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10501003": {
+      "wardId": "10501003",
+      "wardNo": 3,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 617,
+      "registered": 1041,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Edward Shaun Cloete",
+          "votes": 205,
+          "percent": 33.23
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Aletta Theron",
+          "votes": 182,
+          "percent": 29.5
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Karel Hendrik Petrus van der Westhuizen",
+          "votes": 112,
+          "percent": 18.15
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "David Jacob van der Vyver",
+          "votes": 37,
+          "percent": 6
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Lohayne Genimo Luaan Pretorius",
+          "votes": 34,
+          "percent": 5.51
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Johlene Mariesa Williams",
+          "votes": 32,
+          "percent": 5.19
+        },
+        {
+          "party": "COMMUNITY FIRST PARTY",
+          "candidate": "Wayne Luwellyn Pietersen",
+          "votes": 11,
+          "percent": 1.78
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Carldene Faizel Willemse",
+          "votes": 2,
+          "percent": 0.32
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Kirsty Nel",
+          "votes": 1,
+          "percent": 0.16
+        },
+        {
+          "party": "KAROO DEMOCRATIC FORCE",
+          "candidate": "Celestian Daniel Jooste",
+          "votes": 1,
+          "percent": 0.16
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10501004": {
+      "wardId": "10501004",
+      "wardNo": 4,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 536,
+      "registered": 775,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Shireen Valencia Gouws",
+          "votes": 142,
+          "percent": 26.49
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Samuel Laban",
+          "votes": 134,
+          "percent": 25
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Sylbastiaan Warren van der Westhuizen",
+          "votes": 119,
+          "percent": 22.2
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Elizabeth Fisher",
+          "votes": 83,
+          "percent": 15.49
+        },
+        {
+          "party": "COMMUNITY FIRST PARTY",
+          "candidate": "Wayne Luwellyn Pietersen",
+          "votes": 33,
+          "percent": 6.16
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Elize Fundakubi",
+          "votes": 20,
+          "percent": 3.73
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Jerico Franklin van Wyk",
+          "votes": 2,
+          "percent": 0.37
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lambertus Mans",
+          "votes": 2,
+          "percent": 0.37
+        },
+        {
+          "party": "KAROO DEMOCRATIC FORCE",
+          "candidate": "Athman Laurenico Pietersen",
+          "votes": 1,
+          "percent": 0.19
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Kirsty Nel",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10501005": {
+      "wardId": "10501005",
+      "wardNo": 5,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1389,
+      "registered": 2147,
+      "rows": [
+        {
+          "party": "ACTIONSA",
+          "candidate": "Tommie Anthony Wylbach",
+          "votes": 484,
+          "percent": 34.85
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Henrico Jevon Jansen",
+          "votes": 356,
+          "percent": 25.63
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Anna Maans",
+          "votes": 277,
+          "percent": 19.94
+        },
+        {
+          "party": "COMMUNITY FIRST PARTY",
+          "candidate": "Wayne Luwellyn Pietersen",
+          "votes": 77,
+          "percent": 5.54
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Jane Elaine Brown",
+          "votes": 71,
+          "percent": 5.11
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Edward Kenneth Meintjies",
+          "votes": 69,
+          "percent": 4.97
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "David Jacob van der Vyver",
+          "votes": 38,
+          "percent": 2.74
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Rachel Margerite Caroline Heradien",
+          "votes": 11,
+          "percent": 0.79
+        },
+        {
+          "party": "KAROO DEMOCRATIC FORCE",
+          "candidate": "Janine Mirriam van Wyk",
+          "votes": 4,
+          "percent": 0.29
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Kirsty Nel",
+          "votes": 2,
+          "percent": 0.14
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

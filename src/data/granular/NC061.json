@@ -1,0 +1,442 @@
+{
+  "municipalityId": "NC061",
+  "name": "Richtersveld Local Municipality",
+  "updatedAt": "2026-11-06T03:51:39.013Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 10,
+  "vdsTotal": 10,
+  "wardsTotal": 6,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 11,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 4821,
+      "percent": 49.41,
+      "wardsLeading": 6,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 2669,
+      "percent": 27.35,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 1862,
+      "percent": 19.08,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 203,
+      "percent": 2.08,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 155,
+      "percent": 1.59,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "NATIONAL ECONOMIC FIGHTERS",
+      "votes": 32,
+      "percent": 0.33,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 15,
+      "percent": 0.15,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 6
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 3
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 2
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 10,
+    "seatsFilled": 11,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 7,
+        "wardSeats": 6,
+        "seats": 6
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 2,
+        "wardSeats": 0,
+        "seats": 2
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 3
+      }
+    ]
+  },
+  "wards": {
+    "30601001": {
+      "wardId": "30601001",
+      "wardNo": 1,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 707,
+      "registered": 1153,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Ryno Denver Thomas",
+          "votes": 442,
+          "percent": 62.52
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Cathrina Gertruida Cloete",
+          "votes": 206,
+          "percent": 29.14
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Sarel Fortuin",
+          "votes": 53,
+          "percent": 7.5
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "James Francis Murray Otto",
+          "votes": 5,
+          "percent": 0.71
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Sheilla Mayau",
+          "votes": 1,
+          "percent": 0.14
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Naomi Bernadette Arnolds",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "NATIONAL ECONOMIC FIGHTERS",
+          "candidate": "Nicolus Siyabonga Mahlombe",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30601002": {
+      "wardId": "30601002",
+      "wardNo": 2,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 648,
+      "registered": 1001,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Marlene Cathlene Fredericks",
+          "votes": 293,
+          "percent": 45.22
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Gerhardus Jantjies Liebenberg",
+          "votes": 264,
+          "percent": 40.74
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Delycia Elvera de Klerk",
+          "votes": 87,
+          "percent": 13.43
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "James Francis Murray Otto",
+          "votes": 2,
+          "percent": 0.31
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Vernon Glen Cloete",
+          "votes": 1,
+          "percent": 0.15
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Sheilla Mayau",
+          "votes": 1,
+          "percent": 0.15
+        },
+        {
+          "party": "NATIONAL ECONOMIC FIGHTERS",
+          "candidate": "Nicolus Siyabonga Mahlombe",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30601003": {
+      "wardId": "30601003",
+      "wardNo": 3,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 922,
+      "registered": 1558,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Luyanda Donovan Nkalane",
+          "votes": 501,
+          "percent": 54.34
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Rosie Dirkse",
+          "votes": 239,
+          "percent": 25.92
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Luzuko Gebuza",
+          "votes": 93,
+          "percent": 10.09
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Mariana de Klerk",
+          "votes": 60,
+          "percent": 6.51
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "James Francis Murray Otto",
+          "votes": 18,
+          "percent": 1.95
+        },
+        {
+          "party": "NATIONAL ECONOMIC FIGHTERS",
+          "candidate": "Nicolus Siyabonga Mahlombe",
+          "votes": 9,
+          "percent": 0.98
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Sheilla Mayau",
+          "votes": 2,
+          "percent": 0.22
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30601004": {
+      "wardId": "30601004",
+      "wardNo": 4,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 841,
+      "registered": 1175,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Maria Lovina Obies",
+          "votes": 362,
+          "percent": 43.04
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Vincent Michael Young",
+          "votes": 251,
+          "percent": 29.85
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Basil Reginald Augustus",
+          "votes": 193,
+          "percent": 22.95
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "James Francis Murray Otto",
+          "votes": 24,
+          "percent": 2.85
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Bernadine Charlotte Nero",
+          "votes": 5,
+          "percent": 0.59
+        },
+        {
+          "party": "NATIONAL ECONOMIC FIGHTERS",
+          "candidate": "Nicolus Siyabonga Mahlombe",
+          "votes": 3,
+          "percent": 0.36
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Sheilla Mayau",
+          "votes": 3,
+          "percent": 0.36
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30601005": {
+      "wardId": "30601005",
+      "wardNo": 5,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 543,
+      "registered": 1031,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Funeka Yvonne Mabala",
+          "votes": 227,
+          "percent": 41.8
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Arthur Matthew Jansen",
+          "votes": 196,
+          "percent": 36.1
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Ralph Russel van Reenen",
+          "votes": 101,
+          "percent": 18.6
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "James Francis Murray Otto",
+          "votes": 17,
+          "percent": 3.13
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Khonzaphi Piet Kula",
+          "votes": 2,
+          "percent": 0.37
+        },
+        {
+          "party": "NATIONAL ECONOMIC FIGHTERS",
+          "candidate": "Nicolus Siyabonga Mahlombe",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Sheilla Mayau",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30601006": {
+      "wardId": "30601006",
+      "wardNo": 6,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1219,
+      "registered": 1774,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Cornell Charvette Knoph",
+          "votes": 590,
+          "percent": 48.4
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Esmerelda Losper",
+          "votes": 360,
+          "percent": 29.53
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Geolletha Annetta Oorlam",
+          "votes": 254,
+          "percent": 20.84
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "James Francis Murray Otto",
+          "votes": 8,
+          "percent": 0.66
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Dawn Jallow",
+          "votes": 3,
+          "percent": 0.25
+        },
+        {
+          "party": "NATIONAL ECONOMIC FIGHTERS",
+          "candidate": "Nicolus Siyabonga Mahlombe",
+          "votes": 3,
+          "percent": 0.25
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Sheilla Mayau",
+          "votes": 1,
+          "percent": 0.08
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

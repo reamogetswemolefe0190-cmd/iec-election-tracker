@@ -1,0 +1,457 @@
+{
+  "municipalityId": "NC072",
+  "name": "Umsobomvu Local Municipality",
+  "updatedAt": "2026-11-06T03:51:45.014Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 26,
+  "vdsTotal": 26,
+  "wardsTotal": 7,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 13,
+  "seatsMajority": 7,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 14736,
+      "percent": 64.6,
+      "wardsLeading": 7,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 4033,
+      "percent": 17.68,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 2032,
+      "percent": 8.91,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 1499,
+      "percent": 6.57,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 375,
+      "percent": 1.64,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 136,
+      "percent": 0.6,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 9
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "seats": 2
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 1
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 26,
+    "seatsFilled": 13,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 15,
+        "wardSeats": 7,
+        "seats": 9
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 9,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 2
+      }
+    ]
+  },
+  "wards": {
+    "30702001": {
+      "wardId": "30702001",
+      "wardNo": 1,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1852,
+      "registered": 2611,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Bulelani Mangaliso",
+          "votes": 1558,
+          "percent": 84.13
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Anna Maria Johannes",
+          "votes": 143,
+          "percent": 7.72
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Woodliff Leon Collett",
+          "votes": 88,
+          "percent": 4.75
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Ndimphiwe James",
+          "votes": 54,
+          "percent": 2.92
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Barend Daniël Rossouw",
+          "votes": 6,
+          "percent": 0.32
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Noluvuyo Ntjale",
+          "votes": 3,
+          "percent": 0.16
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30702002": {
+      "wardId": "30702002",
+      "wardNo": 2,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 1913,
+      "registered": 2797,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Michael Gideon Stellenberg",
+          "votes": 1623,
+          "percent": 84.84
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Zenobia Marah Barties",
+          "votes": 145,
+          "percent": 7.58
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Xolani Theophillus Qozile",
+          "votes": 71,
+          "percent": 3.71
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Daniel Claude Dobrowsky",
+          "votes": 62,
+          "percent": 3.24
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Barend Daniël Rossouw",
+          "votes": 8,
+          "percent": 0.42
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Noluvuyo Ntjale",
+          "votes": 4,
+          "percent": 0.21
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30702003": {
+      "wardId": "30702003",
+      "wardNo": 3,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1522,
+      "registered": 2334,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Zoleka Victoria Ntombana",
+          "votes": 805,
+          "percent": 52.89
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Mbuyiselo Leon Manzi",
+          "votes": 545,
+          "percent": 35.81
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Celesté Elicia Theron",
+          "votes": 124,
+          "percent": 8.15
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Preston Perils",
+          "votes": 31,
+          "percent": 2.04
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Barend Daniël Rossouw",
+          "votes": 10,
+          "percent": 0.66
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Noluvuyo Ntjale",
+          "votes": 7,
+          "percent": 0.46
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30702004": {
+      "wardId": "30702004",
+      "wardNo": 4,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1359,
+      "registered": 2233,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Collin Williams",
+          "votes": 931,
+          "percent": 68.51
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Xoliswa Desiree Mtabane",
+          "votes": 287,
+          "percent": 21.12
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Japhta Cullen January",
+          "votes": 67,
+          "percent": 4.93
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Jasmine Geraldine Pieterse",
+          "votes": 61,
+          "percent": 4.49
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Noluvuyo Ntjale",
+          "votes": 7,
+          "percent": 0.52
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Barend Daniël Rossouw",
+          "votes": 6,
+          "percent": 0.44
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30702005": {
+      "wardId": "30702005",
+      "wardNo": 5,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1550,
+      "registered": 2333,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Asanda Alberto Kula",
+          "votes": 736,
+          "percent": 47.48
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Zenzile Elias Kelem",
+          "votes": 370,
+          "percent": 23.87
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Johannes Petrus Matthee",
+          "votes": 295,
+          "percent": 19.03
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Barend Daniël Rossouw",
+          "votes": 118,
+          "percent": 7.61
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Nikita Keandra Rolsen",
+          "votes": 24,
+          "percent": 1.55
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Noluvuyo Ntjale",
+          "votes": 7,
+          "percent": 0.45
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30702006": {
+      "wardId": "30702006",
+      "wardNo": 6,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 1317,
+      "registered": 2365,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Sibusiso Antonio Yabo",
+          "votes": 804,
+          "percent": 61.05
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Tefello Preslly Raisa",
+          "votes": 387,
+          "percent": 29.38
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Bongani Malunga",
+          "votes": 77,
+          "percent": 5.85
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Barend Daniël Rossouw",
+          "votes": 28,
+          "percent": 2.13
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Noluvuyo Ntjale",
+          "votes": 12,
+          "percent": 0.91
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Siyabonga Mrola",
+          "votes": 9,
+          "percent": 0.68
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30702007": {
+      "wardId": "30702007",
+      "wardNo": 7,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 1892,
+      "registered": 2803,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Nataschia Linzelle Barends",
+          "votes": 937,
+          "percent": 49.52
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Grant Marlon Hugh Douw",
+          "votes": 390,
+          "percent": 20.61
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Akhanyile Cjontsana",
+          "votes": 295,
+          "percent": 15.59
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Cecil Mathews Morgan",
+          "votes": 242,
+          "percent": 12.79
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Noluvuyo Ntjale",
+          "votes": 18,
+          "percent": 0.95
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Barend Daniël Rossouw",
+          "votes": 10,
+          "percent": 0.53
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

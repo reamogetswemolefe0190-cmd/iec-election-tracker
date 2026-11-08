@@ -1,0 +1,1047 @@
+{
+  "municipalityId": "MP311",
+  "name": "Victor Khanye Local Municipality",
+  "updatedAt": "2026-11-06T03:46:51.587Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 30,
+  "vdsTotal": 30,
+  "wardsTotal": 9,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 17,
+  "seatsMajority": 9,
+  "parties": [
+    {
+      "party": "SERVICE DELIVERY PARTY",
+      "votes": 19492,
+      "percent": 39.53,
+      "wardsLeading": 5,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 14012,
+      "percent": 28.41,
+      "wardsLeading": 3,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 4839,
+      "percent": 9.81,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "OUR LAST HOPE",
+      "votes": 4653,
+      "percent": 9.44,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 2281,
+      "percent": 4.63,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 1256,
+      "percent": 2.55,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UMKHONTO WESIZWE PARTY",
+      "votes": 769,
+      "percent": 1.56,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ACTIONSA",
+      "votes": 545,
+      "percent": 1.11,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 498,
+      "percent": 1.01,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN INDEPENDENT CONGRESS",
+      "votes": 427,
+      "percent": 0.87,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UNITED AFRICANS TRANSFORMATION",
+      "votes": 197,
+      "percent": 0.4,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN TRANSFORMATION MOVEMENT",
+      "votes": 92,
+      "percent": 0.19,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 89,
+      "percent": 0.18,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SINDAWONYE PROGRESSIVE PARTY",
+      "votes": 85,
+      "percent": 0.17,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+      "votes": 40,
+      "percent": 0.08,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 39,
+      "percent": 0.08,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "SERVICE DELIVERY PARTY",
+      "seats": 7
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 5
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 2
+    },
+    {
+      "party": "OUR LAST HOPE",
+      "seats": 2
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 30,
+    "seatsFilled": 17,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 6,
+        "wardSeats": 3,
+        "seats": 5
+      },
+      {
+        "party": "SERVICE DELIVERY PARTY",
+        "vdsWon": 19,
+        "wardSeats": 5,
+        "seats": 7
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 5,
+        "wardSeats": 1,
+        "seats": 2
+      },
+      {
+        "party": "OUR LAST HOPE",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 2
+      },
+      {
+        "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "83101001": {
+      "wardId": "83101001",
+      "wardNo": 1,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2258,
+      "registered": 3678,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Thabo Innocent Mashabela",
+          "votes": 874,
+          "percent": 38.71
+        },
+        {
+          "party": "SERVICE DELIVERY PARTY",
+          "candidate": "Goloza Lucas Mbonani",
+          "votes": 736,
+          "percent": 32.6
+        },
+        {
+          "party": "OUR LAST HOPE",
+          "candidate": "Alphans Butana Motsugi",
+          "votes": 367,
+          "percent": 16.25
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Ntombikayise Ellen Mohoadibe",
+          "votes": 64,
+          "percent": 2.83
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Mzwakhe Vilane",
+          "votes": 63,
+          "percent": 2.79
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Samson Mathews Manamela",
+          "votes": 47,
+          "percent": 2.08
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Nosixolile Malomba",
+          "votes": 36,
+          "percent": 1.59
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Sphiwe Wonder Ntuli",
+          "votes": 22,
+          "percent": 0.97
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Lekati Magdeline Monate",
+          "votes": 16,
+          "percent": 0.71
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Pieter Senekal",
+          "votes": 15,
+          "percent": 0.66
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Tebogo Brian Ramothibe",
+          "votes": 10,
+          "percent": 0.44
+        },
+        {
+          "party": "SINDAWONYE PROGRESSIVE PARTY",
+          "candidate": "Maria Mabena",
+          "votes": 7,
+          "percent": 0.31
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Doctor Abram Ntuli",
+          "votes": 1,
+          "percent": 0.04
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "83101002": {
+      "wardId": "83101002",
+      "wardNo": 2,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2315,
+      "registered": 3693,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Andile Kevin Nkombani",
+          "votes": 997,
+          "percent": 43.07
+        },
+        {
+          "party": "SERVICE DELIVERY PARTY",
+          "candidate": "Bongani Ananias Masango",
+          "votes": 798,
+          "percent": 34.47
+        },
+        {
+          "party": "OUR LAST HOPE",
+          "candidate": "Mthakathi Piet Masilela",
+          "votes": 284,
+          "percent": 12.27
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Pleasure Ramogohlo Talane",
+          "votes": 62,
+          "percent": 2.68
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Asiphe Makele",
+          "votes": 37,
+          "percent": 1.6
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Mzwakhe Vilane",
+          "votes": 36,
+          "percent": 1.56
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Sindiswa Cynthia Mkhonza",
+          "votes": 34,
+          "percent": 1.47
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Sibonelo Blessing Nkolanyane",
+          "votes": 25,
+          "percent": 1.08
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Bongani Moses Sibanyoni",
+          "votes": 19,
+          "percent": 0.82
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Pieter Senekal",
+          "votes": 8,
+          "percent": 0.35
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Tebogo Brian Ramothibe",
+          "votes": 7,
+          "percent": 0.3
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Doctor Abram Ntuli",
+          "votes": 4,
+          "percent": 0.17
+        },
+        {
+          "party": "SINDAWONYE PROGRESSIVE PARTY",
+          "candidate": "Nompumelelo Innocentia Mabena",
+          "votes": 4,
+          "percent": 0.17
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "83101003": {
+      "wardId": "83101003",
+      "wardNo": 3,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 3791,
+      "registered": 6508,
+      "rows": [
+        {
+          "party": "SERVICE DELIVERY PARTY",
+          "candidate": "Nolitha Xuza",
+          "votes": 1577,
+          "percent": 41.6
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Tebogo Goodman Malomane",
+          "votes": 1130,
+          "percent": 29.81
+        },
+        {
+          "party": "OUR LAST HOPE",
+          "candidate": "Zwelibanzi Alfred Khoza",
+          "votes": 522,
+          "percent": 13.77
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Thokwa Sydney Sefoloshe",
+          "votes": 140,
+          "percent": 3.69
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Zanele Betty Ntuli",
+          "votes": 107,
+          "percent": 2.82
+        },
+        {
+          "party": "UNITED AFRICANS TRANSFORMATION",
+          "candidate": "Moses Gijimani Masuku",
+          "votes": 85,
+          "percent": 2.24
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Fanyane Sipho Mbonani",
+          "votes": 68,
+          "percent": 1.79
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Zanele Dorcas Selepe",
+          "votes": 55,
+          "percent": 1.45
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Nosixolile Malomba",
+          "votes": 36,
+          "percent": 0.95
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Mammone Dora Shabangu",
+          "votes": 26,
+          "percent": 0.69
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Pieter Senekal",
+          "votes": 15,
+          "percent": 0.4
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Thandeka Mirriam Sibanyoni",
+          "votes": 14,
+          "percent": 0.37
+        },
+        {
+          "party": "SINDAWONYE PROGRESSIVE PARTY",
+          "candidate": "Tumelo Lawrance Mohale",
+          "votes": 8,
+          "percent": 0.21
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Johannes Mthethwa",
+          "votes": 5,
+          "percent": 0.13
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Doctor Abram Ntuli",
+          "votes": 3,
+          "percent": 0.08
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "83101004": {
+      "wardId": "83101004",
+      "wardNo": 4,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2283,
+      "registered": 3890,
+      "rows": [
+        {
+          "party": "SERVICE DELIVERY PARTY",
+          "candidate": "Simphine Trudy Nkabinde",
+          "votes": 974,
+          "percent": 42.66
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Edward Sipho Lebatse",
+          "votes": 609,
+          "percent": 26.68
+        },
+        {
+          "party": "OUR LAST HOPE",
+          "candidate": "Nkosinathi Elias Sibiya",
+          "votes": 432,
+          "percent": 18.92
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Jabulile Lizzy Maseko",
+          "votes": 61,
+          "percent": 2.67
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Buyiswa Lilian Shafiq",
+          "votes": 57,
+          "percent": 2.5
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Thoko Promise Khanye",
+          "votes": 44,
+          "percent": 1.93
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Nosixolile Malomba",
+          "votes": 31,
+          "percent": 1.36
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Bongani Lymon Mhlanga",
+          "votes": 23,
+          "percent": 1.01
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Mbali Jane Ngwenya",
+          "votes": 13,
+          "percent": 0.57
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Natanja Viljoen",
+          "votes": 12,
+          "percent": 0.53
+        },
+        {
+          "party": "SINDAWONYE PROGRESSIVE PARTY",
+          "candidate": "Noxolo Portia Mabena",
+          "votes": 10,
+          "percent": 0.44
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Lucky Clifford Madonsela",
+          "votes": 10,
+          "percent": 0.44
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Fanele Mkhwanazi",
+          "votes": 4,
+          "percent": 0.18
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Doctor Abram Ntuli",
+          "votes": 3,
+          "percent": 0.13
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "83101005": {
+      "wardId": "83101005",
+      "wardNo": 5,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 3234,
+      "registered": 5221,
+      "rows": [
+        {
+          "party": "SERVICE DELIVERY PARTY",
+          "candidate": "Ntombiyodwa Emmah Zwane",
+          "votes": 1677,
+          "percent": 51.86
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Hendrey Mbalekwa Ngoma",
+          "votes": 737,
+          "percent": 22.79
+        },
+        {
+          "party": "OUR LAST HOPE",
+          "candidate": "Siphamandla Timothy Mabena",
+          "votes": 409,
+          "percent": 12.65
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Sabelo Sydney Thumbathi",
+          "votes": 95,
+          "percent": 2.94
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Isaac Ronny Proffie",
+          "votes": 75,
+          "percent": 2.32
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Happy Tutu Mokone",
+          "votes": 59,
+          "percent": 1.82
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Nosixolile Malomba",
+          "votes": 53,
+          "percent": 1.64
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Bongani Ramapala",
+          "votes": 44,
+          "percent": 1.36
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Lucky Nhlanhla Mzimba",
+          "votes": 35,
+          "percent": 1.08
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Natanja Viljoen",
+          "votes": 25,
+          "percent": 0.77
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Nonhlanhla Margaret Modise",
+          "votes": 9,
+          "percent": 0.28
+        },
+        {
+          "party": "SINDAWONYE PROGRESSIVE PARTY",
+          "candidate": "Sipho Solly Sithole",
+          "votes": 7,
+          "percent": 0.22
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Tumelo Isaac Dithebe",
+          "votes": 6,
+          "percent": 0.19
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Doctor Abram Ntuli",
+          "votes": 3,
+          "percent": 0.09
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "83101006": {
+      "wardId": "83101006",
+      "wardNo": 6,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2509,
+      "registered": 3944,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Bafana Patrick Dhlomo",
+          "votes": 923,
+          "percent": 36.79
+        },
+        {
+          "party": "SERVICE DELIVERY PARTY",
+          "candidate": "Collen Mandla Madonsela",
+          "votes": 828,
+          "percent": 33
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Simon Mhlaba Skosana",
+          "votes": 316,
+          "percent": 12.59
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Adriaan Daniel Vermaak",
+          "votes": 162,
+          "percent": 6.46
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Diikgetse Ramaseka Sepenyane",
+          "votes": 76,
+          "percent": 3.03
+        },
+        {
+          "party": "OUR LAST HOPE",
+          "candidate": "Sonto Msiza",
+          "votes": 74,
+          "percent": 2.95
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Andries August Kgomo",
+          "votes": 58,
+          "percent": 2.31
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Tayedi Timothy Sepenyane",
+          "votes": 30,
+          "percent": 1.2
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Alexia van Staden",
+          "votes": 22,
+          "percent": 0.88
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Freeman Khumalo",
+          "votes": 15,
+          "percent": 0.6
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Lufuno Eunice Mbedzi",
+          "votes": 2,
+          "percent": 0.08
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Nosixolile Malomba",
+          "votes": 1,
+          "percent": 0.04
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Doctor Abram Ntuli",
+          "votes": 1,
+          "percent": 0.04
+        },
+        {
+          "party": "SINDAWONYE PROGRESSIVE PARTY",
+          "candidate": "Lettie Welleminah Masilela",
+          "votes": 1,
+          "percent": 0.04
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "83101007": {
+      "wardId": "83101007",
+      "wardNo": 7,
+      "vdsCounted": 8,
+      "vdsTotal": 8,
+      "votesCast": 2729,
+      "registered": 4767,
+      "rows": [
+        {
+          "party": "SERVICE DELIVERY PARTY",
+          "candidate": "Thokozani Christopher Mahlangu",
+          "votes": 1090,
+          "percent": 39.94
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mduduzi Collins Mtshweni",
+          "votes": 637,
+          "percent": 23.34
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Isaac Msebenzi Mbonani",
+          "votes": 458,
+          "percent": 16.78
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Joseph Gilbert van Breda",
+          "votes": 248,
+          "percent": 9.09
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Dinah Mnguni",
+          "votes": 85,
+          "percent": 3.11
+        },
+        {
+          "party": "OUR LAST HOPE",
+          "candidate": "Samuel Maloma",
+          "votes": 76,
+          "percent": 2.78
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Thomas Mahlangu",
+          "votes": 42,
+          "percent": 1.54
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Asiphe Makele",
+          "votes": 36,
+          "percent": 1.32
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Olga Lindiwe Nhlapo",
+          "votes": 27,
+          "percent": 0.99
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Bathabile Thokozile Msiza",
+          "votes": 19,
+          "percent": 0.7
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Vusi Frans Madonsela",
+          "votes": 8,
+          "percent": 0.29
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Doctor Abram Ntuli",
+          "votes": 3,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "83101008": {
+      "wardId": "83101008",
+      "wardNo": 8,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2332,
+      "registered": 4206,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Michele Rautenbach",
+          "votes": 760,
+          "percent": 32.59
+        },
+        {
+          "party": "SERVICE DELIVERY PARTY",
+          "candidate": "Hendrik Josephis Bester",
+          "votes": 668,
+          "percent": 28.64
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Thabiso Mavuso",
+          "votes": 371,
+          "percent": 15.91
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Joseph Gilbert van Breda",
+          "votes": 366,
+          "percent": 15.69
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Agnes Thandi Mtsweni",
+          "votes": 42,
+          "percent": 1.8
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Thamsanca Mahummed Diko",
+          "votes": 31,
+          "percent": 1.33
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Patricia Nokuthula Ganda",
+          "votes": 28,
+          "percent": 1.2
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Asiphe Makele",
+          "votes": 24,
+          "percent": 1.03
+        },
+        {
+          "party": "OUR LAST HOPE",
+          "candidate": "Tebogo Solomon Mbovane",
+          "votes": 21,
+          "percent": 0.9
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Paseka Anna Skosana",
+          "votes": 16,
+          "percent": 0.69
+        },
+        {
+          "party": "SINDAWONYE PROGRESSIVE PARTY",
+          "candidate": "Limpho Nomthandazo Mahlangu",
+          "votes": 4,
+          "percent": 0.17
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Doctor Abram Ntuli",
+          "votes": 1,
+          "percent": 0.04
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Pretty Nhlanhla Mahlangu",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "83101009": {
+      "wardId": "83101009",
+      "wardNo": 9,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 3203,
+      "registered": 5095,
+      "rows": [
+        {
+          "party": "SERVICE DELIVERY PARTY",
+          "candidate": "Phumzile Daphney Ngwenya",
+          "votes": 1464,
+          "percent": 45.71
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Agnes Duduzile Mdzipa",
+          "votes": 670,
+          "percent": 20.92
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Emmerenthia Magdalena Cronjè",
+          "votes": 546,
+          "percent": 17.05
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Adriaan Daniel Vermaak",
+          "votes": 276,
+          "percent": 8.62
+        },
+        {
+          "party": "OUR LAST HOPE",
+          "candidate": "Simon Joubert Mqwathi",
+          "votes": 50,
+          "percent": 1.56
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Asiphe Makele",
+          "votes": 49,
+          "percent": 1.53
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Robert Thabo Adams",
+          "votes": 47,
+          "percent": 1.47
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Johan Fabricius",
+          "votes": 46,
+          "percent": 1.44
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Muziyabonga Mhlongo",
+          "votes": 29,
+          "percent": 0.91
+        },
+        {
+          "party": "SINDAWONYE PROGRESSIVE PARTY",
+          "candidate": "Sylvia Mavis Sithole",
+          "votes": 9,
+          "percent": 0.28
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Ntombifuthi Rejoice Mndebele",
+          "votes": 8,
+          "percent": 0.25
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Doctor Abram Ntuli",
+          "votes": 5,
+          "percent": 0.16
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Mbengeni Andries Ndou",
+          "votes": 4,
+          "percent": 0.12
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "municipalityId": "NC075",
+  "name": "Renosterberg Local Municipality",
+  "updatedAt": "2026-11-06T03:51:53.506Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 18,
+  "vdsTotal": 18,
+  "wardsTotal": 6,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 11,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 5091,
+      "percent": 52.09,
+      "wardsLeading": 5,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 2596,
+      "percent": 26.56,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 1080,
+      "percent": 11.05,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 618,
+      "percent": 6.32,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 388,
+      "percent": 3.97,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 6
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 3
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "seats": 1
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 18,
+    "seatsFilled": 11,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 9,
+        "wardSeats": 5,
+        "seats": 6
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 9,
+        "wardSeats": 1,
+        "seats": 3
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "30705001": {
+      "wardId": "30705001",
+      "wardNo": 1,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 743,
+      "registered": 1400,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Andrew Ivan Samson",
+          "votes": 421,
+          "percent": 56.66
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Elizabeth Beukes",
+          "votes": 119,
+          "percent": 16.02
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Kelvon Vernon Hendriks",
+          "votes": 96,
+          "percent": 12.92
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Michiel Hendrik Bothma",
+          "votes": 60,
+          "percent": 8.08
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Renarto Renair Matlala",
+          "votes": 47,
+          "percent": 6.33
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30705002": {
+      "wardId": "30705002",
+      "wardNo": 2,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 861,
+      "registered": 1233,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Enoc Phuzi",
+          "votes": 430,
+          "percent": 49.94
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Henriëtta Joseline Booysen",
+          "votes": 245,
+          "percent": 28.46
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Maurisha Nell",
+          "votes": 82,
+          "percent": 9.52
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nation Vulwethu Matyalana",
+          "votes": 79,
+          "percent": 9.18
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Elzonia Zenobia Samson",
+          "votes": 25,
+          "percent": 2.9
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30705003": {
+      "wardId": "30705003",
+      "wardNo": 3,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 983,
+      "registered": 1405,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Johann Toerien",
+          "votes": 542,
+          "percent": 55.14
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Nathashua Benerdine Booysen",
+          "votes": 308,
+          "percent": 31.33
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Johann Jonathan van Heerden",
+          "votes": 57,
+          "percent": 5.8
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Donisha Heildolene Pholoana",
+          "votes": 55,
+          "percent": 5.6
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Martin Elben Tengwan",
+          "votes": 21,
+          "percent": 2.14
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30705004": {
+      "wardId": "30705004",
+      "wardNo": 4,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 735,
+      "registered": 1155,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Rayno Llewillyn Bernadie",
+          "votes": 360,
+          "percent": 48.98
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Wynand Fillies",
+          "votes": 195,
+          "percent": 26.53
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Constance Mrabe",
+          "votes": 83,
+          "percent": 11.29
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Lettie Ndawo",
+          "votes": 50,
+          "percent": 6.8
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Judith van der Linde",
+          "votes": 47,
+          "percent": 6.39
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30705005": {
+      "wardId": "30705005",
+      "wardNo": 5,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 701,
+      "registered": 1081,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Isaaic Fullbennut Seatloali",
+          "votes": 448,
+          "percent": 63.91
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Eric Willem Nieuwenhuizen",
+          "votes": 137,
+          "percent": 19.54
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nombulelo Cynthia Ghana",
+          "votes": 78,
+          "percent": 11.13
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Annie Cornelia Ferris",
+          "votes": 37,
+          "percent": 5.28
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Elzonia Zenobia Samson",
+          "votes": 1,
+          "percent": 0.14
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30705006": {
+      "wardId": "30705006",
+      "wardNo": 6,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 847,
+      "registered": 1201,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Xolisa Mathiso",
+          "votes": 556,
+          "percent": 65.64
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Thembekile Lawton Aaron",
+          "votes": 187,
+          "percent": 22.08
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Eric Willem Nieuwenhuizen",
+          "votes": 72,
+          "percent": 8.5
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Piet Goliat",
+          "votes": 29,
+          "percent": 3.42
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Judith van der Linde",
+          "votes": 3,
+          "percent": 0.35
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

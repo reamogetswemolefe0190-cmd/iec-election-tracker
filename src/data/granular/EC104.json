@@ -1,0 +1,1365 @@
+{
+  "municipalityId": "EC104",
+  "name": "Makana Local Municipality",
+  "updatedAt": "2026-11-06T03:46:52.023Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 42,
+  "vdsTotal": 42,
+  "wardsTotal": 13,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 25,
+  "seatsMajority": 13,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 14655,
+      "percent": 31.27,
+      "wardsLeading": 10,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 12765,
+      "percent": 27.24,
+      "wardsLeading": 3,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "MAKANA UNITED CIVIC MOVEMENT",
+      "votes": 9145,
+      "percent": 19.51,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 2791,
+      "percent": 5.96,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 2593,
+      "percent": 5.53,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 1493,
+      "percent": 3.19,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "MAKANA CITIZENS FRONT",
+      "votes": 1274,
+      "percent": 2.72,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ACTIONSA",
+      "votes": 892,
+      "percent": 1.9,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN TRANSFORMATION MOVEMENT",
+      "votes": 533,
+      "percent": 1.14,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 326,
+      "percent": 0.7,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ORGANIC HUMANITY MOVEMENT",
+      "votes": 187,
+      "percent": 0.4,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 76,
+      "percent": 0.16,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INDEPENDENT",
+      "votes": 74,
+      "percent": 0.16,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UMKHONTO WESIZWE PARTY",
+      "votes": 62,
+      "percent": 0.13,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 10
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 6
+    },
+    {
+      "party": "MAKANA UNITED CIVIC MOVEMENT",
+      "seats": 4
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "seats": 1
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "seats": 1
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 1
+    },
+    {
+      "party": "MAKANA CITIZENS FRONT",
+      "seats": 1
+    },
+    {
+      "party": "ACTIONSA",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 42,
+    "seatsFilled": 25,
+    "parties": [
+      {
+        "party": "MAKANA UNITED CIVIC MOVEMENT",
+        "vdsWon": 3,
+        "wardSeats": 0,
+        "seats": 4
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 10,
+        "wardSeats": 3,
+        "seats": 6
+      },
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 28,
+        "wardSeats": 10,
+        "seats": 10
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "SOUTH AFRICAN COMMUNIST PARTY",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "MAKANA CITIZENS FRONT",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "ACTIONSA",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "21004001": {
+      "wardId": "21004001",
+      "wardNo": 1,
+      "vdsCounted": 7,
+      "vdsTotal": 7,
+      "votesCast": 1916,
+      "registered": 3424,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Phumelele Peter",
+          "votes": 634,
+          "percent": 33.09
+        },
+        {
+          "party": "MAKANA UNITED CIVIC MOVEMENT",
+          "candidate": "Athenkosi Bangela",
+          "votes": 624,
+          "percent": 32.57
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Nico André Kock",
+          "votes": 356,
+          "percent": 18.58
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Joey Etienne Bruintjies",
+          "votes": 125,
+          "percent": 6.52
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Mzamo Booysen",
+          "votes": 73,
+          "percent": 3.81
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Vuyokazi Ncula",
+          "votes": 71,
+          "percent": 3.71
+        },
+        {
+          "party": "MAKANA CITIZENS FRONT",
+          "candidate": "Sinokuhle Maqoko",
+          "votes": 11,
+          "percent": 0.57
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lindsay Stratford Johnson",
+          "votes": 8,
+          "percent": 0.42
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Ian Houston-Mcmillan",
+          "votes": 6,
+          "percent": 0.31
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Nontle Abigail Nobuntu",
+          "votes": 4,
+          "percent": 0.21
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Anellisa Mxube",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Lubabalo Lena",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21004002": {
+      "wardId": "21004002",
+      "wardNo": 2,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2020,
+      "registered": 3980,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Bekithemba Mabona",
+          "votes": 827,
+          "percent": 40.94
+        },
+        {
+          "party": "MAKANA UNITED CIVIC MOVEMENT",
+          "candidate": "Fungelwa Saam",
+          "votes": 439,
+          "percent": 21.73
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Luyolo Andy Nogxabela",
+          "votes": 248,
+          "percent": 12.28
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Sivuyile Twatwa",
+          "votes": 223,
+          "percent": 11.04
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Thembela Gqasana",
+          "votes": 86,
+          "percent": 4.26
+        },
+        {
+          "party": "MAKANA CITIZENS FRONT",
+          "candidate": "Ntomboxolo Gloria Angel Manyati",
+          "votes": 59,
+          "percent": 2.92
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Buhle Mdoko",
+          "votes": 44,
+          "percent": 2.18
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Velile Pantsi",
+          "votes": 43,
+          "percent": 2.13
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Richard Graham Koliti",
+          "votes": 24,
+          "percent": 1.19
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Ian Houston-Mcmillan",
+          "votes": 12,
+          "percent": 0.59
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lindsay Stratford Johnson",
+          "votes": 11,
+          "percent": 0.54
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Lubabalo Lena",
+          "votes": 4,
+          "percent": 0.2
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21004003": {
+      "wardId": "21004003",
+      "wardNo": 3,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2026,
+      "registered": 3870,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Godfrey Osmund Brockman",
+          "votes": 1081,
+          "percent": 53.36
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Debbie Shan Kettledas",
+          "votes": 411,
+          "percent": 20.29
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Elizabeth Endlene Davies",
+          "votes": 221,
+          "percent": 10.91
+        },
+        {
+          "party": "MAKANA UNITED CIVIC MOVEMENT",
+          "candidate": "Sinoabi Jaqualene Scheepers",
+          "votes": 169,
+          "percent": 8.34
+        },
+        {
+          "party": "MAKANA CITIZENS FRONT",
+          "candidate": "Fezeka Jaunita Kiswa",
+          "votes": 35,
+          "percent": 1.73
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Zakhele Wilson Mqweba",
+          "votes": 34,
+          "percent": 1.68
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Aphiwe Matika",
+          "votes": 20,
+          "percent": 0.99
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Nontsikelelo Avonica Cunge",
+          "votes": 15,
+          "percent": 0.74
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Lithe-Tha Veto",
+          "votes": 11,
+          "percent": 0.54
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Mziwoxolo Tom",
+          "votes": 11,
+          "percent": 0.54
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lindsay Stratford Johnson",
+          "votes": 10,
+          "percent": 0.49
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Ian Houston-Mcmillan",
+          "votes": 5,
+          "percent": 0.25
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Sinovuyo Frans",
+          "votes": 3,
+          "percent": 0.15
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21004004": {
+      "wardId": "21004004",
+      "wardNo": 4,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2317,
+      "registered": 3866,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Guillym Benno Theron",
+          "votes": 1499,
+          "percent": 64.7
+        },
+        {
+          "party": "MAKANA UNITED CIVIC MOVEMENT",
+          "candidate": "Geoffrey Keith Wystan Embling",
+          "votes": 501,
+          "percent": 21.62
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Thandokuhle Dumela",
+          "votes": 74,
+          "percent": 3.19
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Siphosethu Gqodi",
+          "votes": 68,
+          "percent": 2.93
+        },
+        {
+          "party": "MAKANA CITIZENS FRONT",
+          "candidate": "Peter William King",
+          "votes": 59,
+          "percent": 2.55
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lindsay Stratford Johnson",
+          "votes": 35,
+          "percent": 1.51
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Antoinette Porcha Swartbooi",
+          "votes": 27,
+          "percent": 1.17
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Ayabulela Nani",
+          "votes": 20,
+          "percent": 0.86
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Alton Gregory Jegels",
+          "votes": 14,
+          "percent": 0.6
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Vuyani Jacobs",
+          "votes": 10,
+          "percent": 0.43
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Wandisile Welcome Xanga",
+          "votes": 6,
+          "percent": 0.26
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Ian Houston-Mcmillan",
+          "votes": 3,
+          "percent": 0.13
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Sinovuyo Frans",
+          "votes": 1,
+          "percent": 0.04
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21004005": {
+      "wardId": "21004005",
+      "wardNo": 5,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1560,
+      "registered": 3167,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Amanda Habana",
+          "votes": 524,
+          "percent": 33.59
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Tania Joyce Corner",
+          "votes": 404,
+          "percent": 25.9
+        },
+        {
+          "party": "MAKANA UNITED CIVIC MOVEMENT",
+          "candidate": "Mzwandile Sidwell Ncapayi",
+          "votes": 327,
+          "percent": 20.96
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Cedric Visagie",
+          "votes": 92,
+          "percent": 5.9
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Gideon Mapapu",
+          "votes": 69,
+          "percent": 4.42
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Xolani Theophilus Mvula",
+          "votes": 48,
+          "percent": 3.08
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Ntombozuko Jacob",
+          "votes": 42,
+          "percent": 2.69
+        },
+        {
+          "party": "MAKANA CITIZENS FRONT",
+          "candidate": "Mongezeleli Mkolo",
+          "votes": 23,
+          "percent": 1.47
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Siphesihle Siyazi",
+          "votes": 11,
+          "percent": 0.71
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Ian Houston-Mcmillan",
+          "votes": 9,
+          "percent": 0.58
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lindsay Stratford Johnson",
+          "votes": 8,
+          "percent": 0.51
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Lubabalo Lena",
+          "votes": 3,
+          "percent": 0.19
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21004006": {
+      "wardId": "21004006",
+      "wardNo": 6,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2035,
+      "registered": 4130,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Boniswa Sylvia Makasi",
+          "votes": 796,
+          "percent": 39.12
+        },
+        {
+          "party": "MAKANA UNITED CIVIC MOVEMENT",
+          "candidate": "Faith Jabulile Nomfundiso Tame",
+          "votes": 417,
+          "percent": 20.49
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Luvuyo Rodney Sizani",
+          "votes": 331,
+          "percent": 16.27
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Sixeko Mdoko",
+          "votes": 226,
+          "percent": 11.11
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Lindile Christopher Kays",
+          "votes": 116,
+          "percent": 5.7
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Thandiswa Kamana",
+          "votes": 44,
+          "percent": 2.16
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Nomangesi Dude",
+          "votes": 32,
+          "percent": 1.57
+        },
+        {
+          "party": "MAKANA CITIZENS FRONT",
+          "candidate": "Loyiso Sunne Plaatjie",
+          "votes": 30,
+          "percent": 1.47
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Asivile Booi",
+          "votes": 19,
+          "percent": 0.93
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Ian Houston-Mcmillan",
+          "votes": 8,
+          "percent": 0.39
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lindsay Stratford Johnson",
+          "votes": 7,
+          "percent": 0.34
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Sunspruit Lekonang Tsotetsi",
+          "votes": 6,
+          "percent": 0.29
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Lubabalo Lena",
+          "votes": 3,
+          "percent": 0.15
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21004007": {
+      "wardId": "21004007",
+      "wardNo": 7,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1845,
+      "registered": 3675,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Langa Mlungisi Kenneth Matebese",
+          "votes": 679,
+          "percent": 36.8
+        },
+        {
+          "party": "MAKANA UNITED CIVIC MOVEMENT",
+          "candidate": "Sipho Albany",
+          "votes": 425,
+          "percent": 23.04
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Nosipho Qutu",
+          "votes": 390,
+          "percent": 21.14
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Malungisa Onceya",
+          "votes": 165,
+          "percent": 8.94
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nosipho Brenda Tshona",
+          "votes": 56,
+          "percent": 3.04
+        },
+        {
+          "party": "MAKANA CITIZENS FRONT",
+          "candidate": "Zimkita Zelda Madasi",
+          "votes": 55,
+          "percent": 2.98
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Buhle Mdoko",
+          "votes": 30,
+          "percent": 1.63
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Phumila Chinky Qangule",
+          "votes": 16,
+          "percent": 0.87
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Sinazo Mnqayi",
+          "votes": 10,
+          "percent": 0.54
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Ian Houston-Mcmillan",
+          "votes": 8,
+          "percent": 0.43
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Mandilake Futa",
+          "votes": 6,
+          "percent": 0.33
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Lubabalo Lena",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lindsay Stratford Johnson",
+          "votes": 2,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21004008": {
+      "wardId": "21004008",
+      "wardNo": 8,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1985,
+      "registered": 3849,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Carolynn Clark",
+          "votes": 1081,
+          "percent": 54.46
+        },
+        {
+          "party": "MAKANA UNITED CIVIC MOVEMENT",
+          "candidate": "Anette Crous",
+          "votes": 275,
+          "percent": 13.85
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Zukhanye Ngxesha",
+          "votes": 259,
+          "percent": 13.05
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Phumza Pamela Lukwe Zondani",
+          "votes": 120,
+          "percent": 6.05
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Temba Frank",
+          "votes": 75,
+          "percent": 3.78
+        },
+        {
+          "party": "MAKANA CITIZENS FRONT",
+          "candidate": "Philip Machanick",
+          "votes": 63,
+          "percent": 3.17
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Nomahlubi Noveve",
+          "votes": 41,
+          "percent": 2.07
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Tyrone Celvin Goliath",
+          "votes": 25,
+          "percent": 1.26
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lindsay Stratford Johnson",
+          "votes": 24,
+          "percent": 1.21
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Nceba Madinda",
+          "votes": 18,
+          "percent": 0.91
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Sinovuyo Frans",
+          "votes": 3,
+          "percent": 0.15
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Ian Houston-Mcmillan",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21004009": {
+      "wardId": "21004009",
+      "wardNo": 9,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1633,
+      "registered": 3512,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Ntombekava Sharmaine Ntenteni",
+          "votes": 757,
+          "percent": 46.36
+        },
+        {
+          "party": "MAKANA UNITED CIVIC MOVEMENT",
+          "candidate": "Zwelinzima April Somyali",
+          "votes": 426,
+          "percent": 26.09
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Amos Billy",
+          "votes": 180,
+          "percent": 11.02
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nomazwi Monica Diko",
+          "votes": 93,
+          "percent": 5.7
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Lungelwa Diko",
+          "votes": 55,
+          "percent": 3.37
+        },
+        {
+          "party": "MAKANA CITIZENS FRONT",
+          "candidate": "Mvuyisi Allen Makina",
+          "votes": 51,
+          "percent": 3.12
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Sinazo Ntlokwana",
+          "votes": 19,
+          "percent": 1.16
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Mkuseli Mbunge",
+          "votes": 19,
+          "percent": 1.16
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Litha Sizani",
+          "votes": 14,
+          "percent": 0.86
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lindsay Stratford Johnson",
+          "votes": 9,
+          "percent": 0.55
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Lubabalo Lena",
+          "votes": 5,
+          "percent": 0.31
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Ian Houston-Mcmillan",
+          "votes": 5,
+          "percent": 0.31
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21004010": {
+      "wardId": "21004010",
+      "wardNo": 10,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1498,
+      "registered": 3038,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Unathi Klaas",
+          "votes": 708,
+          "percent": 47.26
+        },
+        {
+          "party": "MAKANA UNITED CIVIC MOVEMENT",
+          "candidate": "Nkosinathi Ngesi",
+          "votes": 334,
+          "percent": 22.3
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Xolani Gladman Madyo",
+          "votes": 202,
+          "percent": 13.48
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nosikhumbuzo Carol Zwane",
+          "votes": 70,
+          "percent": 4.67
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Bongani Christopher Sam",
+          "votes": 69,
+          "percent": 4.61
+        },
+        {
+          "party": "MAKANA CITIZENS FRONT",
+          "candidate": "Zolani Tshobo",
+          "votes": 66,
+          "percent": 4.41
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Mzwekhaya Patrick Mka",
+          "votes": 22,
+          "percent": 1.47
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Tembelani Ntshuntshe",
+          "votes": 13,
+          "percent": 0.87
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Ian Houston-Mcmillan",
+          "votes": 7,
+          "percent": 0.47
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Lubabalo Lena",
+          "votes": 4,
+          "percent": 0.27
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Sandisiwe Momoza",
+          "votes": 2,
+          "percent": 0.13
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lindsay Stratford Johnson",
+          "votes": 1,
+          "percent": 0.07
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21004011": {
+      "wardId": "21004011",
+      "wardNo": 11,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1662,
+      "registered": 3384,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Sakhiwo Zono",
+          "votes": 756,
+          "percent": 45.49
+        },
+        {
+          "party": "MAKANA UNITED CIVIC MOVEMENT",
+          "candidate": "Likhaya Msutwana",
+          "votes": 287,
+          "percent": 17.27
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Sizwe Booi",
+          "votes": 162,
+          "percent": 9.75
+        },
+        {
+          "party": "MAKANA CITIZENS FRONT",
+          "candidate": "Zukiswa Mginywa",
+          "votes": 154,
+          "percent": 9.27
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nosipho Kalani",
+          "votes": 131,
+          "percent": 7.88
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Siphosethu Ntshoko",
+          "votes": 125,
+          "percent": 7.52
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Vuyolwetu Booi",
+          "votes": 17,
+          "percent": 1.02
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Siyanda Yose",
+          "votes": 7,
+          "percent": 0.42
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Ian Houston-Mcmillan",
+          "votes": 7,
+          "percent": 0.42
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Nolukanyo Shirley Pantsi",
+          "votes": 6,
+          "percent": 0.36
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Sinovuyo Frans",
+          "votes": 5,
+          "percent": 0.3
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Zolelwa Mbaliso",
+          "votes": 4,
+          "percent": 0.24
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lindsay Stratford Johnson",
+          "votes": 1,
+          "percent": 0.06
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21004012": {
+      "wardId": "21004012",
+      "wardNo": 12,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1233,
+      "registered": 3499,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mkhuseli Antoni",
+          "votes": 439,
+          "percent": 35.6
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Yonela Tshaka",
+          "votes": 310,
+          "percent": 25.14
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Indiphile Thanduxolo Ralo",
+          "votes": 172,
+          "percent": 13.95
+        },
+        {
+          "party": "MAKANA UNITED CIVIC MOVEMENT",
+          "candidate": "Simpiwe Inako Simthembile Mnyande",
+          "votes": 155,
+          "percent": 12.57
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Zamuxolo Tsana",
+          "votes": 46,
+          "percent": 3.73
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Judith Ngesi",
+          "votes": 37,
+          "percent": 3
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Kwezi-Lomso Mpapha",
+          "votes": 29,
+          "percent": 2.35
+        },
+        {
+          "party": "MAKANA CITIZENS FRONT",
+          "candidate": "Sophie Nofemele",
+          "votes": 14,
+          "percent": 1.14
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lindsay Stratford Johnson",
+          "votes": 12,
+          "percent": 0.97
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Vuyani Jacobs",
+          "votes": 9,
+          "percent": 0.73
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Inganathi Penelope Dial",
+          "votes": 4,
+          "percent": 0.32
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Lubabalo Lena",
+          "votes": 3,
+          "percent": 0.24
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Ian Houston-Mcmillan",
+          "votes": 3,
+          "percent": 0.24
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "21004013": {
+      "wardId": "21004013",
+      "wardNo": 13,
+      "vdsCounted": 9,
+      "vdsTotal": 9,
+      "votesCast": 1842,
+      "registered": 3698,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Nokulunga Ngxingo",
+          "votes": 830,
+          "percent": 45.06
+        },
+        {
+          "party": "MAKANA UNITED CIVIC MOVEMENT",
+          "candidate": "Mfundo Tsili",
+          "votes": 313,
+          "percent": 16.99
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Enathi Ngesi",
+          "votes": 290,
+          "percent": 15.74
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Mpumelelo Mkosini",
+          "votes": 191,
+          "percent": 10.37
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Wandisile Eric Matina",
+          "votes": 74,
+          "percent": 4.02
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Thandolwethu Dayimani",
+          "votes": 54,
+          "percent": 2.93
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Bulelwa Renah Dude",
+          "votes": 35,
+          "percent": 1.9
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Lindsay Stratford Johnson",
+          "votes": 19,
+          "percent": 1.03
+        },
+        {
+          "party": "MAKANA CITIZENS FRONT",
+          "candidate": "Anathi Breakfast",
+          "votes": 13,
+          "percent": 0.71
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Ian Houston-Mcmillan",
+          "votes": 10,
+          "percent": 0.54
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Thandolwetu Nkwinti",
+          "votes": 5,
+          "percent": 0.27
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Sinovuyo Frans",
+          "votes": 4,
+          "percent": 0.22
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Siphesihle Salaze",
+          "votes": 4,
+          "percent": 0.22
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

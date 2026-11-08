@@ -1,0 +1,446 @@
+{
+  "municipalityId": "NC066",
+  "name": "Karoo Hoogland Local Municipality",
+  "updatedAt": "2026-11-06T03:51:43.010Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 25,
+  "vdsTotal": 25,
+  "wardsTotal": 6,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 11,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 3703,
+      "percent": 37.79,
+      "wardsLeading": 2,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 3430,
+      "percent": 35,
+      "wardsLeading": 2,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 1682,
+      "percent": 17.17,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 838,
+      "percent": 8.55,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "NAMAKWA CIVIC MOVEMENT",
+      "votes": 96,
+      "percent": 0.98,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 26,
+      "percent": 0.27,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 24,
+      "percent": 0.24,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 4
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 4
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 2
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 25,
+    "seatsFilled": 11,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 2,
+        "wardSeats": 2,
+        "seats": 4
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 11,
+        "wardSeats": 1,
+        "seats": 2
+      },
+      {
+        "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+        "vdsWon": 9,
+        "wardSeats": 1,
+        "seats": 1
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 2,
+        "wardSeats": 2,
+        "seats": 4
+      }
+    ]
+  },
+  "wards": {
+    "30606001": {
+      "wardId": "30606001",
+      "wardNo": 1,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1220,
+      "registered": 1994,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Noah Marlow",
+          "votes": 598,
+          "percent": 49.02
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "John Jefrey Booisen",
+          "votes": 329,
+          "percent": 26.97
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Quesile Men Louw",
+          "votes": 257,
+          "percent": 21.07
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "James Daniël Smit",
+          "votes": 33,
+          "percent": 2.7
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Emmarentia Patricia Louw",
+          "votes": 2,
+          "percent": 0.16
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Jan Manuel Haas",
+          "votes": 1,
+          "percent": 0.08
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30606002": {
+      "wardId": "30606002",
+      "wardNo": 2,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1213,
+      "registered": 1905,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Jacobus Jooste",
+          "votes": 507,
+          "percent": 41.8
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Jan Petrus Julies",
+          "votes": 474,
+          "percent": 39.08
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Perceville Searle Klink",
+          "votes": 136,
+          "percent": 11.21
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Christof Hanekom",
+          "votes": 51,
+          "percent": 4.2
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Tom Slinger",
+          "votes": 40,
+          "percent": 3.3
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Christopher Jerome Alexander",
+          "votes": 4,
+          "percent": 0.33
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Emmarentia Patricia Louw",
+          "votes": 1,
+          "percent": 0.08
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30606003": {
+      "wardId": "30606003",
+      "wardNo": 3,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 389,
+      "registered": 572,
+      "rows": [
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Riaan van der Merwe Geel",
+          "votes": 139,
+          "percent": 35.73
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Ockert Gerbrand Olivier",
+          "votes": 86,
+          "percent": 22.11
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Leandré Iwellyn Fritz",
+          "votes": 78,
+          "percent": 20.05
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Francios Marry Morris",
+          "votes": 73,
+          "percent": 18.77
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Jan Manuel Haas",
+          "votes": 7,
+          "percent": 1.8
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Christopher Jerome Alexander",
+          "votes": 3,
+          "percent": 0.77
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Maria Magdalena Jason",
+          "votes": 3,
+          "percent": 0.77
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30606004": {
+      "wardId": "30606004",
+      "wardNo": 4,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 248,
+      "registered": 405,
+      "rows": [
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Leonard Leon Jeacocks",
+          "votes": 115,
+          "percent": 46.37
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Dirk Wouter Olivier",
+          "votes": 66,
+          "percent": 26.61
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Willenise Klein",
+          "votes": 36,
+          "percent": 14.52
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Ian Rossouw",
+          "votes": 30,
+          "percent": 12.1
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Tom Slinger",
+          "votes": 1,
+          "percent": 0.4
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Christopher Jerome Alexander",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Emmarentia Patricia Louw",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30606005": {
+      "wardId": "30606005",
+      "wardNo": 5,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 513,
+      "registered": 722,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Cornelia Gertruida Steenkamp",
+          "votes": 203,
+          "percent": 39.57
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mario de Wee",
+          "votes": 110,
+          "percent": 21.44
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "William Scott Fourie",
+          "votes": 106,
+          "percent": 20.66
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Anneline Willma Hoque",
+          "votes": 92,
+          "percent": 17.93
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Maria Magdalena Jason",
+          "votes": 2,
+          "percent": 0.39
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Christopher Jerome Alexander",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Jan Manuel Haas",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30606006": {
+      "wardId": "30606006",
+      "wardNo": 6,
+      "vdsCounted": 8,
+      "vdsTotal": 8,
+      "votesCast": 1302,
+      "registered": 2164,
+      "rows": [
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Karin Rolien Beatrixe October",
+          "votes": 624,
+          "percent": 47.93
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Fabian William Brown",
+          "votes": 531,
+          "percent": 40.78
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Johaar Jacobs",
+          "votes": 75,
+          "percent": 5.76
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Ian Rossouw",
+          "votes": 66,
+          "percent": 5.07
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Christopher Jerome Alexander",
+          "votes": 5,
+          "percent": 0.38
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Emmarentia Patricia Louw",
+          "votes": 1,
+          "percent": 0.08
+        },
+        {
+          "party": "NAMAKWA CIVIC MOVEMENT",
+          "candidate": "Tom Slinger",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

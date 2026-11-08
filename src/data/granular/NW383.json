@@ -1,0 +1,4387 @@
+{
+  "municipalityId": "NW383",
+  "name": "Mafikeng Local Municipality",
+  "updatedAt": "2026-11-06T03:46:51.536Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 112,
+  "vdsTotal": 123,
+  "wardsTotal": 35,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 70,
+  "seatsMajority": 36,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 53817,
+      "percent": 45.12,
+      "wardsLeading": 33,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 17155,
+      "percent": 14.38,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 12530,
+      "percent": 10.5,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ACTIONSA",
+      "votes": 10082,
+      "percent": 8.45,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UMKHONTO WESIZWE PARTY",
+      "votes": 5910,
+      "percent": 4.95,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 2687,
+      "percent": 2.25,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+      "votes": 2601,
+      "percent": 2.18,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 2480,
+      "percent": 2.08,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 1683,
+      "percent": 1.41,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN SPEAR MOVEMENT",
+      "votes": 1499,
+      "percent": 1.26,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+      "votes": 1342,
+      "percent": 1.13,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INDEPENDENT",
+      "votes": 1153,
+      "percent": 0.97,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ALL AND CITIZENS",
+      "votes": 1116,
+      "percent": 0.94,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 1053,
+      "percent": 0.88,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN INDEPENDENT CONGRESS",
+      "votes": 1026,
+      "percent": 0.86,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+      "votes": 864,
+      "percent": 0.72,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INKATHA FREEDOM PARTY",
+      "votes": 626,
+      "percent": 0.52,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "KOPANO MOVEMENT",
+      "votes": 526,
+      "percent": 0.44,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN PEOPLE'S CONVENTION",
+      "votes": 423,
+      "percent": 0.35,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN REVOLUTIONARY COUNCIL",
+      "votes": 212,
+      "percent": 0.18,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UNITED AFRICANS TRANSFORMATION",
+      "votes": 193,
+      "percent": 0.16,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SAVE DITSOBOTLA MOVEMENT",
+      "votes": 112,
+      "percent": 0.09,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "FORUM FOR DEMOCRATS",
+      "votes": 96,
+      "percent": 0.08,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+      "votes": 93,
+      "percent": 0.08,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "seatsSoFar": {
+    "filled": 24,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "seats": 23
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "seats": 1
+      }
+    ]
+  },
+  "partyTally": {
+    "vdsReported": 112,
+    "seatsFilled": 24,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 102,
+        "wardSeats": 23,
+        "seats": 23
+      },
+      {
+        "party": "ALL AND CITIZENS",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 0
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "vdsWon": 3,
+        "wardSeats": 1,
+        "seats": 1
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 4,
+        "wardSeats": 0,
+        "seats": 0
+      },
+      {
+        "party": "UMKHONTO WESIZWE PARTY",
+        "vdsWon": 2,
+        "wardSeats": 0,
+        "seats": 0
+      }
+    ]
+  },
+  "wards": {
+    "63803001": {
+      "wardId": "63803001",
+      "wardNo": 1,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 1619,
+      "registered": 4048,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Lebogang Edwin Dabula",
+          "votes": 1146,
+          "percent": 70.78
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Sidney Katlego Moseki",
+          "votes": 183,
+          "percent": 11.3
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Keobakile Daniel Mokone",
+          "votes": 125,
+          "percent": 7.72
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Nokwenzane Patricia Setsiba",
+          "votes": 60,
+          "percent": 3.71
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Tshipietsile Samson Dikobe",
+          "votes": 44,
+          "percent": 2.72
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Sehloho Peteros Xaba",
+          "votes": 10,
+          "percent": 0.62
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Nomvula Georgina Mayisela",
+          "votes": 10,
+          "percent": 0.62
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Cathrine Matshidiso",
+          "votes": 8,
+          "percent": 0.49
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Lomax Tshepiso Dichaba",
+          "votes": 7,
+          "percent": 0.43
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Thabang Joseph Busika",
+          "votes": 7,
+          "percent": 0.43
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Kagiso Macdonald Mantele",
+          "votes": 4,
+          "percent": 0.25
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Odirile Ephraim Gaolaolwe",
+          "votes": 4,
+          "percent": 0.25
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Tebogo Albert Ramagaga",
+          "votes": 4,
+          "percent": 0.25
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Yvonne Thandazile Moorosi",
+          "votes": 4,
+          "percent": 0.25
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 3,
+          "percent": 0.19
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Boingotlo Charlotte Pule",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Kelebogile Sophy Mogatoe",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "SAVE DITSOBOTLA MOVEMENT",
+          "candidate": "Tsie Stephen Marumo",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "UNITED AFRICANS TRANSFORMATION",
+          "candidate": "Thato Boyisa",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803002": {
+      "wardId": "63803002",
+      "wardNo": 2,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 1527,
+      "registered": 2750,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Emmanuel Olebogeng Magano",
+          "votes": 682,
+          "percent": 44.66
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Kerapetse Daniel Mokgweetsi",
+          "votes": 256,
+          "percent": 16.76
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Odirile Ephraim Gaolaolwe",
+          "votes": 252,
+          "percent": 16.5
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Abel Gaoretelelwe Setidisho",
+          "votes": 105,
+          "percent": 6.88
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Goitseone Sylvia Gaobidiwe",
+          "votes": 99,
+          "percent": 6.48
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Kebapetse Rosemary Maseng",
+          "votes": 38,
+          "percent": 2.49
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Tshepiso Matshidiso",
+          "votes": 25,
+          "percent": 1.64
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Thapelo Macdonald Mothusi",
+          "votes": 17,
+          "percent": 1.11
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Setsunya Lazarus Seaketso",
+          "votes": 14,
+          "percent": 0.92
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Kagiso Macdonald Mantele",
+          "votes": 9,
+          "percent": 0.59
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Itumeleng Busang",
+          "votes": 8,
+          "percent": 0.52
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 8,
+          "percent": 0.52
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Golebamang Irene Mongala",
+          "votes": 4,
+          "percent": 0.26
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Selebogo Joseph Shuping",
+          "votes": 4,
+          "percent": 0.26
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "David Raserame Mosimane",
+          "votes": 3,
+          "percent": 0.2
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Tshepo Mosweu",
+          "votes": 2,
+          "percent": 0.13
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Grace Neneketsang Segobanyana",
+          "votes": 1,
+          "percent": 0.07
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803003": {
+      "wardId": "63803003",
+      "wardNo": 3,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 2246,
+      "registered": 4508,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Goitseone Godfrey Kgotle",
+          "votes": 965,
+          "percent": 42.97
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Oratile Joseph Maduna",
+          "votes": 379,
+          "percent": 16.87
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Kagiso Mmusi",
+          "votes": 271,
+          "percent": 12.07
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Joshua Itumeleng Lefakane",
+          "votes": 240,
+          "percent": 10.69
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Naphtaly Manwe Legwase",
+          "votes": 89,
+          "percent": 3.96
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 69,
+          "percent": 3.07
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Mabedi Ruth Dithupe",
+          "votes": 68,
+          "percent": 3.03
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Chricilda Sebako",
+          "votes": 49,
+          "percent": 2.18
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Emily Jemina Makola Tleane",
+          "votes": 46,
+          "percent": 2.05
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Tiki Joseph Lekone",
+          "votes": 25,
+          "percent": 1.11
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Pauline Serapelo",
+          "votes": 11,
+          "percent": 0.49
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Lomax Tshepiso Dichaba",
+          "votes": 8,
+          "percent": 0.36
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Mosimanegape Pagel Mabaso",
+          "votes": 7,
+          "percent": 0.31
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Betty Manthebe Bereng",
+          "votes": 7,
+          "percent": 0.31
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Bella Nkganetsang Sebako",
+          "votes": 5,
+          "percent": 0.22
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 5,
+          "percent": 0.22
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Molefi David Moroe",
+          "votes": 1,
+          "percent": 0.04
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Kefilwe Mokaedi",
+          "votes": 1,
+          "percent": 0.04
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Matshidiso Thabea Tryphina Modieginyana",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803004": {
+      "wardId": "63803004",
+      "wardNo": 4,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 1907,
+      "registered": 3916,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Kabelo Vincent Maleke",
+          "votes": 1023,
+          "percent": 53.64
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Tshepo Oxygen Dingizwayo",
+          "votes": 307,
+          "percent": 16.1
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Patrick Gopolang Tshabalala",
+          "votes": 191,
+          "percent": 10.02
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Mashebetsane Simon Letswamotse",
+          "votes": 147,
+          "percent": 7.71
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Neo Gift Mooketsi",
+          "votes": 71,
+          "percent": 3.72
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Vuyani Gift Memane",
+          "votes": 53,
+          "percent": 2.78
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Mosito Bethuel Molebatsi",
+          "votes": 37,
+          "percent": 1.94
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 32,
+          "percent": 1.68
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Tokelo Osego Motsumi",
+          "votes": 23,
+          "percent": 1.21
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Tiki Joseph Lekone",
+          "votes": 9,
+          "percent": 0.47
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Mosimanegape Pagel Mabaso",
+          "votes": 5,
+          "percent": 0.26
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Lomax Tshepiso Dichaba",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Gadifele Patricia Sebothe",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Bella Nkganetsang Sebako",
+          "votes": 2,
+          "percent": 0.1
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Kefilwe Mokaedi",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803005": {
+      "wardId": "63803005",
+      "wardNo": 5,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 1639,
+      "registered": 4258,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Phindele Stephen Ntshotsho",
+          "votes": 789,
+          "percent": 48.14
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Dedrick Mbali Phetha",
+          "votes": 204,
+          "percent": 12.45
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Seuntjie Jack Khalane",
+          "votes": 181,
+          "percent": 11.04
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Queen Mathule",
+          "votes": 120,
+          "percent": 7.32
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Bojosi Simon Coangae",
+          "votes": 50,
+          "percent": 3.05
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Gomulemo Sam Maleke",
+          "votes": 47,
+          "percent": 2.87
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Nkosinathi Antonius Gwayisa",
+          "votes": 36,
+          "percent": 2.2
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Tokelo Osego Motsumi",
+          "votes": 35,
+          "percent": 2.14
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Rebecca Dipuo Tshose",
+          "votes": 33,
+          "percent": 2.01
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Luckyboy Kgathatso Monkadime",
+          "votes": 33,
+          "percent": 2.01
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Nthabiseng Joyce Nojila",
+          "votes": 24,
+          "percent": 1.46
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Neo Irene Mosiane",
+          "votes": 24,
+          "percent": 1.46
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 20,
+          "percent": 1.22
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Victor Tebogo Maine",
+          "votes": 19,
+          "percent": 1.16
+        },
+        {
+          "party": "AFRICAN REVOLUTIONARY COUNCIL",
+          "candidate": "Andries Botsang Mogati",
+          "votes": 11,
+          "percent": 0.67
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Maboditi Jacobeth Rahman",
+          "votes": 5,
+          "percent": 0.31
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 3,
+          "percent": 0.18
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Didintle Segobanyana",
+          "votes": 3,
+          "percent": 0.18
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 2,
+          "percent": 0.12
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803006": {
+      "wardId": "63803006",
+      "wardNo": 6,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 1967,
+      "registered": 4042,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Modisaemang Keshupang",
+          "votes": 1123,
+          "percent": 57.09
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Macdonald Kgosiemang Galokaelwe",
+          "votes": 243,
+          "percent": 12.35
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Eric Othibeng Seleke",
+          "votes": 170,
+          "percent": 8.64
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Tshiamo Isaac Dinao",
+          "votes": 168,
+          "percent": 8.54
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Keneilwe Piet Modise",
+          "votes": 85,
+          "percent": 4.32
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Molebeledi Jeffrey Ngwenya",
+          "votes": 60,
+          "percent": 3.05
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Tokelo Osego Motsumi",
+          "votes": 26,
+          "percent": 1.32
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Ikgopoleng Advise Tsietsoane",
+          "votes": 26,
+          "percent": 1.32
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Odirile Ephraim Gaolaolwe",
+          "votes": 14,
+          "percent": 0.71
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Tshekiso Jan",
+          "votes": 12,
+          "percent": 0.61
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 10,
+          "percent": 0.51
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Karabo Precious Mosotetsi",
+          "votes": 9,
+          "percent": 0.46
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Motlagomang Tyreal Morutlwa",
+          "votes": 9,
+          "percent": 0.46
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Maboditi Jacobeth Rahman",
+          "votes": 5,
+          "percent": 0.25
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Puleng Elisa Gcinumkhondo",
+          "votes": 5,
+          "percent": 0.25
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Didintle Segobanyana",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803007": {
+      "wardId": "63803007",
+      "wardNo": 7,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2153,
+      "registered": 4678,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Precious Baipidi Dinku",
+          "votes": 725,
+          "percent": 33.67
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Lillian Keabetswe Thamaga",
+          "votes": 357,
+          "percent": 16.58
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Susan Bontle Chere",
+          "votes": 300,
+          "percent": 13.93
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Manasi Christina Thapo",
+          "votes": 231,
+          "percent": 10.73
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Boitumelo Archibald Itumeleng",
+          "votes": 201,
+          "percent": 9.34
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Leratokeng Mminatshipi",
+          "votes": 79,
+          "percent": 3.67
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Timothy Anthony Graaff",
+          "votes": 67,
+          "percent": 3.11
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Pogiso Lucas Letlakana",
+          "votes": 44,
+          "percent": 2.04
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Joseph Mothusi Thekiso",
+          "votes": 39,
+          "percent": 1.81
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Llewellen le Roy Burds",
+          "votes": 39,
+          "percent": 1.81
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 38,
+          "percent": 1.76
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Fanyana Phineas Ramokhele",
+          "votes": 15,
+          "percent": 0.7
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Albertus Steven van Wyk",
+          "votes": 6,
+          "percent": 0.28
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Tokelo Osego Motsumi",
+          "votes": 5,
+          "percent": 0.23
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Maboditi Jacobeth Rahman",
+          "votes": 4,
+          "percent": 0.19
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thuso Pitso",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Grace Neneketsang Segobanyana",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803008": {
+      "wardId": "63803008",
+      "wardNo": 8,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2180,
+      "registered": 5127,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Conny Boitumelo Dubula",
+          "votes": 796,
+          "percent": 36.51
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Tshepo Thabiso Thabeng",
+          "votes": 424,
+          "percent": 19.45
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Kelebone Tsholofelo Kaizer Tawana",
+          "votes": 334,
+          "percent": 15.32
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Pogiso Godfrey Sokoi",
+          "votes": 288,
+          "percent": 13.21
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Matshediso Zauria Khosi",
+          "votes": 104,
+          "percent": 4.77
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Rebaone Angela Mathunda",
+          "votes": 53,
+          "percent": 2.43
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Nkagisang Princess Aphiri",
+          "votes": 36,
+          "percent": 1.65
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Karel Victory Seletedi",
+          "votes": 29,
+          "percent": 1.33
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Seipati Annah Nyembeleza",
+          "votes": 22,
+          "percent": 1.01
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 20,
+          "percent": 0.92
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Remofilwe Nakedi",
+          "votes": 19,
+          "percent": 0.87
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Thato Keobakile Histrick Mogale",
+          "votes": 19,
+          "percent": 0.87
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 18,
+          "percent": 0.83
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Cathrine Matshidiso",
+          "votes": 9,
+          "percent": 0.41
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Ofentse Mabasadi Mache",
+          "votes": 5,
+          "percent": 0.23
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mpho Gift Machaba",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 2,
+          "percent": 0.09
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803009": {
+      "countedVds": [
+        86550734,
+        86590086,
+        86590187
+      ],
+      "wardId": "63803009",
+      "wardNo": 9,
+      "vdsCounted": 3,
+      "vdsTotal": 4,
+      "votesCast": 1762,
+      "registered": 3701,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Thapelo Stafaans Ngakantsi",
+          "votes": 768,
+          "percent": 43.59
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Thabang Tlale",
+          "votes": 486,
+          "percent": 27.58
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Maria Magdelena Elizabeth Halgryn",
+          "votes": 154,
+          "percent": 8.74
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nzimeni Joseph Skota",
+          "votes": 139,
+          "percent": 7.89
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 72,
+          "percent": 4.09
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Anthony Matshwisa",
+          "votes": 27,
+          "percent": 1.53
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Cathrine Matshidiso",
+          "votes": 27,
+          "percent": 1.53
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Fanyana Phineas Ramokhele",
+          "votes": 22,
+          "percent": 1.25
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Zinhle Pretty Gumbi",
+          "votes": 16,
+          "percent": 0.91
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Ramputle Andries Modisane",
+          "votes": 13,
+          "percent": 0.74
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Pogiso Sydwell Muse",
+          "votes": 9,
+          "percent": 0.51
+        },
+        {
+          "party": "AFRICAN REVOLUTIONARY COUNCIL",
+          "candidate": "Beauty Nomathamsanxa Mqabaza",
+          "votes": 8,
+          "percent": 0.45
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Obakeng Raymond Gaotingwe",
+          "votes": 4,
+          "percent": 0.23
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Mpho Jantjie Patrick Monageng",
+          "votes": 4,
+          "percent": 0.23
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Nthutang Petrus Kgarane",
+          "votes": 4,
+          "percent": 0.23
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Shadrack Letsie Letsema Moabeng",
+          "votes": 3,
+          "percent": 0.17
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Patricia Nontsizi Kenene",
+          "votes": 2,
+          "percent": 0.11
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 2,
+          "percent": 0.11
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 1,
+          "percent": 0.06
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Kefilwe Mokaedi",
+          "votes": 1,
+          "percent": 0.06
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803010": {
+      "wardId": "63803010",
+      "wardNo": 10,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1960,
+      "registered": 4422,
+      "rows": [
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Goitseone Mayisela",
+          "votes": 615,
+          "percent": 31.38
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Anele Xhati",
+          "votes": 496,
+          "percent": 25.31
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Anthony Matshwisa",
+          "votes": 354,
+          "percent": 18.06
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Dimakatso Idah Mokhemisa",
+          "votes": 203,
+          "percent": 10.36
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Obakeng Cherish Kgonare",
+          "votes": 71,
+          "percent": 3.62
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Kelebogile Ofentse Mocumi",
+          "votes": 50,
+          "percent": 2.55
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Dineo Kgabidi Moalusi",
+          "votes": 34,
+          "percent": 1.73
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Cathrine Matshidiso",
+          "votes": 22,
+          "percent": 1.12
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Vuisile Sixaka",
+          "votes": 22,
+          "percent": 1.12
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Tshiamo Rossouw",
+          "votes": 18,
+          "percent": 0.92
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Hilary Kehumile Sehularo",
+          "votes": 18,
+          "percent": 0.92
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 18,
+          "percent": 0.92
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Naledi Elna Tshesebe",
+          "votes": 14,
+          "percent": 0.71
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Chaole John Tlhagasoane",
+          "votes": 11,
+          "percent": 0.56
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Obakeng Raymond Gaotingwe",
+          "votes": 7,
+          "percent": 0.36
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 3,
+          "percent": 0.15
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 2,
+          "percent": 0.1
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mmatseleng Maria Mokaedi",
+          "votes": 2,
+          "percent": 0.1
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803011": {
+      "wardId": "63803011",
+      "wardNo": 11,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1431,
+      "registered": 3283,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Kebonetsala Winnesestre Vanessa Moamogwa",
+          "votes": 517,
+          "percent": 36.13
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Tumisang Prince Rakgomo",
+          "votes": 396,
+          "percent": 27.67
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Emmanuel Masire",
+          "votes": 166,
+          "percent": 11.6
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Mothusi Etkins Mpame",
+          "votes": 92,
+          "percent": 6.43
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Donald Kabelo Moamogoe",
+          "votes": 52,
+          "percent": 3.63
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Dineo Brilliant Magashula",
+          "votes": 47,
+          "percent": 3.28
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Adam Itumeleng Sonnyboy Mathiba",
+          "votes": 41,
+          "percent": 2.87
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Tsiyetsi Joseph Toons",
+          "votes": 40,
+          "percent": 2.8
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Simane Elias Marosane",
+          "votes": 32,
+          "percent": 2.24
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Cathrine Matshidiso",
+          "votes": 16,
+          "percent": 1.12
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 13,
+          "percent": 0.91
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Oarabile Gilbert Kenalemang",
+          "votes": 5,
+          "percent": 0.35
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 5,
+          "percent": 0.35
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Obakeng Raymond Gaotingwe",
+          "votes": 4,
+          "percent": 0.28
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 3,
+          "percent": 0.21
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mmatseleng Maria Mokaedi",
+          "votes": 2,
+          "percent": 0.14
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803012": {
+      "wardId": "63803012",
+      "wardNo": 12,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 2172,
+      "registered": 4716,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Tshiamo Gaeepe",
+          "votes": 749,
+          "percent": 34.48
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Anne Nomalizo Thobega",
+          "votes": 348,
+          "percent": 16.02
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Mpho Richard Kgosiemang",
+          "votes": 333,
+          "percent": 15.33
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Lahliwe Revelation Mange",
+          "votes": 298,
+          "percent": 13.72
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Stephen Shaanyana Nkoe",
+          "votes": 169,
+          "percent": 7.78
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Refilwe Maud Mosiane",
+          "votes": 78,
+          "percent": 3.59
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Ketlhogile Mogakolodi Archibald Moeng",
+          "votes": 52,
+          "percent": 2.39
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Theophilus Mbulelo Zililo",
+          "votes": 39,
+          "percent": 1.8
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Mabedi Ruth Dithupe",
+          "votes": 33,
+          "percent": 1.52
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 22,
+          "percent": 1.01
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Mzukisi Elias Dingile",
+          "votes": 19,
+          "percent": 0.87
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Omphemetse Moemi",
+          "votes": 17,
+          "percent": 0.78
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Obakeng Raymond Gaotingwe",
+          "votes": 6,
+          "percent": 0.28
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Tshegofatso Cindi Matebele",
+          "votes": 6,
+          "percent": 0.28
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mmatseleng Maria Mokaedi",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "David Mothibedi Lekoma",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803013": {
+      "countedVds": [
+        86590165
+      ],
+      "wardId": "63803013",
+      "wardNo": 13,
+      "vdsCounted": 1,
+      "vdsTotal": 2,
+      "votesCast": 846,
+      "registered": 4433,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Gugulethu Mabizela",
+          "votes": 307,
+          "percent": 36.29
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Keolebogile Mercy Moncho",
+          "votes": 172,
+          "percent": 20.33
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Obusitse Mccarthy Mahusi",
+          "votes": 130,
+          "percent": 15.37
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Gomotsegang Hyacinth Mogashoa",
+          "votes": 85,
+          "percent": 10.05
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Matlhogonolo Pelotlhomogi Tendai Moribe",
+          "votes": 56,
+          "percent": 6.62
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Helen Phumla Kgasi",
+          "votes": 39,
+          "percent": 4.61
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Thapelo Osborn Mogoiwa",
+          "votes": 15,
+          "percent": 1.77
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 14,
+          "percent": 1.65
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Mzukisi Elias Dingile",
+          "votes": 11,
+          "percent": 1.3
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Tshepiso Boikanyo",
+          "votes": 8,
+          "percent": 0.95
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Cathrine Matshidiso",
+          "votes": 7,
+          "percent": 0.83
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 1,
+          "percent": 0.12
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 1,
+          "percent": 0.12
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Letlhogonolo Cybrial Motsomi",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Patience Seaitsiwe Motsamai",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mmatseleng Maria Mokaedi",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803014": {
+      "wardId": "63803014",
+      "wardNo": 14,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2070,
+      "registered": 4906,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mogomotsi Desmond Ramatae",
+          "votes": 867,
+          "percent": 41.88
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Lorato Gloria Kgomo",
+          "votes": 258,
+          "percent": 12.46
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Keneilwe Lekoma",
+          "votes": 220,
+          "percent": 10.63
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Sjebi Kenneth Mvimvi",
+          "votes": 157,
+          "percent": 7.58
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Gosalamang Ellen Mopako",
+          "votes": 142,
+          "percent": 6.86
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Gomolemo Harold Molosiwa",
+          "votes": 126,
+          "percent": 6.09
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Kagiso Sydney Seima",
+          "votes": 76,
+          "percent": 3.67
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Patrick Keorapetse Leswalo",
+          "votes": 66,
+          "percent": 3.19
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Cathrine Matshidiso",
+          "votes": 49,
+          "percent": 2.37
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Motshwari Harriet Lecogo",
+          "votes": 25,
+          "percent": 1.21
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Rejoice Thandeka Ramaisa",
+          "votes": 20,
+          "percent": 0.97
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Mosalasuping Shadrack Mogwasi",
+          "votes": 18,
+          "percent": 0.87
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Paul Nyaniso Ngalo",
+          "votes": 16,
+          "percent": 0.77
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Kagiso Josiah Monyadiwa",
+          "votes": 11,
+          "percent": 0.53
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 11,
+          "percent": 0.53
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 7,
+          "percent": 0.34
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mpho Gift Machaba",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803015": {
+      "countedVds": [
+        86552387,
+        86552927
+      ],
+      "wardId": "63803015",
+      "wardNo": 15,
+      "vdsCounted": 2,
+      "vdsTotal": 3,
+      "votesCast": 939,
+      "registered": 3708,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Lesego Mayimela",
+          "votes": 432,
+          "percent": 46.01
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Tshiamo Carol Matsheka",
+          "votes": 121,
+          "percent": 12.89
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Kagisho Edward Modisakgosi",
+          "votes": 111,
+          "percent": 11.82
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Ketlareng Edith Motshegwa",
+          "votes": 71,
+          "percent": 7.56
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "David Matebesi",
+          "votes": 68,
+          "percent": 7.24
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Olebogeng Edwin Kgajane",
+          "votes": 54,
+          "percent": 5.75
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Cathrine Matshidiso",
+          "votes": 28,
+          "percent": 2.98
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Oratile Tladi",
+          "votes": 17,
+          "percent": 1.81
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Thabo Howard Metsing",
+          "votes": 16,
+          "percent": 1.7
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Seepamore David Kgwatlhe",
+          "votes": 7,
+          "percent": 0.75
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Maashane Isaac Mokawane",
+          "votes": 4,
+          "percent": 0.43
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Mmakale Elizabeth Tsatsi",
+          "votes": 4,
+          "percent": 0.43
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Koolebale Samuel Motlhabane",
+          "votes": 3,
+          "percent": 0.32
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 2,
+          "percent": 0.21
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 1,
+          "percent": 0.11
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mpho Gift Machaba",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803016": {
+      "wardId": "63803016",
+      "wardNo": 16,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1504,
+      "registered": 3539,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Kagiso Tsimane",
+          "votes": 714,
+          "percent": 47.47
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Thuto Innocent Madilola",
+          "votes": 361,
+          "percent": 24
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Keatlaretse Lillian Mazela",
+          "votes": 165,
+          "percent": 10.97
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Maletsatsi Mable Kgantlape",
+          "votes": 92,
+          "percent": 6.12
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Kabelo Macdonald Motlhoiwa",
+          "votes": 44,
+          "percent": 2.93
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Neo Irene Mosiane",
+          "votes": 40,
+          "percent": 2.66
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Pitso Maleke",
+          "votes": 20,
+          "percent": 1.33
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Cathrine Matshidiso",
+          "votes": 16,
+          "percent": 1.06
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Eugenia Refiloe Goarabamang Majaja",
+          "votes": 15,
+          "percent": 1
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Nthabiseng Joyce Nojila",
+          "votes": 10,
+          "percent": 0.66
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Jacob Pheneus Itumeleng Tholo",
+          "votes": 8,
+          "percent": 0.53
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Mmaphuthego Ivah Malesele",
+          "votes": 7,
+          "percent": 0.47
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 4,
+          "percent": 0.27
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mpho Gift Machaba",
+          "votes": 3,
+          "percent": 0.2
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Mmakale Elizabeth Tsatsi",
+          "votes": 2,
+          "percent": 0.13
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 2,
+          "percent": 0.13
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 1,
+          "percent": 0.07
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803017": {
+      "countedVds": [
+        86552938
+      ],
+      "wardId": "63803017",
+      "wardNo": 17,
+      "vdsCounted": 1,
+      "vdsTotal": 2,
+      "votesCast": 794,
+      "registered": 3883,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Kgotlaetsile David Mmadi",
+          "votes": 463,
+          "percent": 58.31
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Morongwe Marry-Anne Khantsi",
+          "votes": 78,
+          "percent": 9.82
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nolifefe Yvonne Maphazi",
+          "votes": 70,
+          "percent": 8.82
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Lebogang Brain Mokaila",
+          "votes": 38,
+          "percent": 4.79
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Masego Bernice Nazo",
+          "votes": 35,
+          "percent": 4.41
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Rebone Thoriso Precious Mosenki",
+          "votes": 31,
+          "percent": 3.9
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Mogogi Martha Modisenyane",
+          "votes": 20,
+          "percent": 2.52
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Cathrine Matshidiso",
+          "votes": 19,
+          "percent": 2.39
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Trevor Edgar Smith",
+          "votes": 16,
+          "percent": 2.02
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Belinda Elizabeth Voorby",
+          "votes": 13,
+          "percent": 1.64
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Maashane Isaac Mokawane",
+          "votes": 4,
+          "percent": 0.5
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 4,
+          "percent": 0.5
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Jubeida Karin Bent",
+          "votes": 1,
+          "percent": 0.13
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Kefilwe Mokaedi",
+          "votes": 1,
+          "percent": 0.13
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 1,
+          "percent": 0.13
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Mmakale Elizabeth Tsatsi",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803018": {
+      "wardId": "63803018",
+      "wardNo": 18,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2119,
+      "registered": 4552,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Obakeng Godwill Matebesi",
+          "votes": 786,
+          "percent": 37.09
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Semphete Keletso Matsheka",
+          "votes": 361,
+          "percent": 17.04
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Aobakwe Amogelang Senokwane",
+          "votes": 255,
+          "percent": 12.03
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Dinky Maureen Mothibinyane",
+          "votes": 241,
+          "percent": 11.37
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Galeboe Joel Marumo",
+          "votes": 220,
+          "percent": 10.38
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Mohau Kealeboga Marumo",
+          "votes": 80,
+          "percent": 3.78
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Melinah Nageng",
+          "votes": 69,
+          "percent": 3.26
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Bius Neo Dikgomo",
+          "votes": 55,
+          "percent": 2.6
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Mooketsi Graven Sekei",
+          "votes": 22,
+          "percent": 1.04
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Mosimanegape Pagel Mabaso",
+          "votes": 8,
+          "percent": 0.38
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Edward Kgaile Nakedi",
+          "votes": 6,
+          "percent": 0.28
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mmatseleng Maria Mokaedi",
+          "votes": 5,
+          "percent": 0.24
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 5,
+          "percent": 0.24
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Kgotlaetsile Godfrey Pitse",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Mmakale Elizabeth Tsatsi",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803019": {
+      "countedVds": [
+        86551375,
+        86551386
+      ],
+      "wardId": "63803019",
+      "wardNo": 19,
+      "vdsCounted": 2,
+      "vdsTotal": 3,
+      "votesCast": 919,
+      "registered": 4311,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Motlalepula Conny Yvonne Kgabi",
+          "votes": 336,
+          "percent": 36.56
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Patrick Jonathane Mongake",
+          "votes": 177,
+          "percent": 19.26
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Oarabile Macdonald Modisa",
+          "votes": 146,
+          "percent": 15.89
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Daniel Malebadi Motladiile",
+          "votes": 79,
+          "percent": 8.6
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Daniel Mokabane",
+          "votes": 73,
+          "percent": 7.94
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Nomvula Ruth Mmusi",
+          "votes": 26,
+          "percent": 2.83
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Seanokeng Sarah Bolofo",
+          "votes": 19,
+          "percent": 2.07
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Thapelo Advice Mothibi",
+          "votes": 18,
+          "percent": 1.96
+        },
+        {
+          "party": "UNITED AFRICANS TRANSFORMATION",
+          "candidate": "Godfrey Matiwane",
+          "votes": 12,
+          "percent": 1.31
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Ontlhotse George Esaka",
+          "votes": 9,
+          "percent": 0.98
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Kabo David Madito",
+          "votes": 6,
+          "percent": 0.65
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Adam Maitshwarelo Nageng",
+          "votes": 5,
+          "percent": 0.54
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Thabiso Phadi",
+          "votes": 4,
+          "percent": 0.44
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 4,
+          "percent": 0.44
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Kelebogile Sophy Mogatoe",
+          "votes": 2,
+          "percent": 0.22
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 2,
+          "percent": 0.22
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Barren Moleme",
+          "votes": 1,
+          "percent": 0.11
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Mooketsi Graven Sekei",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803020": {
+      "wardId": "63803020",
+      "wardNo": 20,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1675,
+      "registered": 3203,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Aobakwe Ernest Rakwena",
+          "votes": 641,
+          "percent": 38.27
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Inkosinathi Martin Mpecheni",
+          "votes": 304,
+          "percent": 18.15
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Geophrey Gothusang Maboi",
+          "votes": 287,
+          "percent": 17.13
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Goatweng David Mokoto",
+          "votes": 143,
+          "percent": 8.54
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Tsholofelo Jabari",
+          "votes": 107,
+          "percent": 6.39
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Rebaone Dube",
+          "votes": 54,
+          "percent": 3.22
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Itumeleng Lawrence Gopane",
+          "votes": 45,
+          "percent": 2.69
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Neo Irene Mosiane",
+          "votes": 24,
+          "percent": 1.43
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Amogelang Lucretia Tshupo",
+          "votes": 17,
+          "percent": 1.01
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Mojalefa Simon Plaatjie",
+          "votes": 17,
+          "percent": 1.01
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Tshediso Jeremia Lebona",
+          "votes": 15,
+          "percent": 0.9
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 9,
+          "percent": 0.54
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Gaopalelwe Lucia Mabaso",
+          "votes": 5,
+          "percent": 0.3
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 3,
+          "percent": 0.18
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Grace Neneketsang Segobanyana",
+          "votes": 2,
+          "percent": 0.12
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Pulane Sarah Tlhone",
+          "votes": 1,
+          "percent": 0.06
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 1,
+          "percent": 0.06
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803021": {
+      "wardId": "63803021",
+      "wardNo": 21,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2256,
+      "registered": 4974,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mpho Donation Phuthego",
+          "votes": 853,
+          "percent": 37.81
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Vangele Sylvia Marase",
+          "votes": 419,
+          "percent": 18.57
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Pulane Patricia Mokolopi",
+          "votes": 269,
+          "percent": 11.92
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Keletsamaile Lucky Moeng",
+          "votes": 258,
+          "percent": 11.44
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Jan Oupa Bogatsu",
+          "votes": 205,
+          "percent": 9.09
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Neo Irene Mosiane",
+          "votes": 48,
+          "percent": 2.13
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Molefi William Nkgodi",
+          "votes": 41,
+          "percent": 1.82
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Moreri Preacher Motsumi",
+          "votes": 41,
+          "percent": 1.82
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Kelepile Emmanuel Pupunyane",
+          "votes": 35,
+          "percent": 1.55
+        },
+        {
+          "party": "SAVE DITSOBOTLA MOVEMENT",
+          "candidate": null,
+          "votes": 29,
+          "percent": 1.29
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Remofilwe Nakedi",
+          "votes": 16,
+          "percent": 0.71
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 16,
+          "percent": 0.71
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Mamokopi Maggy Gaoshubelwe",
+          "votes": 11,
+          "percent": 0.49
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Pulane Sarah Tlhone",
+          "votes": 4,
+          "percent": 0.18
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 4,
+          "percent": 0.18
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Faith Kelebogile Motswakae",
+          "votes": 4,
+          "percent": 0.18
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Didintle Segobanyana",
+          "votes": 1,
+          "percent": 0.04
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803022": {
+      "countedVds": [
+        86551296,
+        86551353
+      ],
+      "wardId": "63803022",
+      "wardNo": 22,
+      "vdsCounted": 2,
+      "vdsTotal": 3,
+      "votesCast": 1417,
+      "registered": 3571,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Reginald Tumelo Jabana",
+          "votes": 633,
+          "percent": 44.67
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Emmanuel Kgotlantwa Leepile",
+          "votes": 406,
+          "percent": 28.65
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Kutlwano Donald Modisakgosi",
+          "votes": 105,
+          "percent": 7.41
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Bethuel Tebogo Mthembu",
+          "votes": 93,
+          "percent": 6.56
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Olehile Shadrack Gaboitsiwe",
+          "votes": 60,
+          "percent": 4.23
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Mongezi Daniel Mdluli",
+          "votes": 36,
+          "percent": 2.54
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Hendrick Olehile Tekanyo",
+          "votes": 28,
+          "percent": 1.98
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Thabo Matlhako",
+          "votes": 10,
+          "percent": 0.71
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 10,
+          "percent": 0.71
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Mosetsanagape Rebecca Diseko",
+          "votes": 9,
+          "percent": 0.64
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Omphile Precious Phokwane",
+          "votes": 8,
+          "percent": 0.56
+        },
+        {
+          "party": "AFRICAN REVOLUTIONARY COUNCIL",
+          "candidate": "Pulane Moshoette",
+          "votes": 7,
+          "percent": 0.49
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Pulane Sarah Tlhone",
+          "votes": 6,
+          "percent": 0.42
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 3,
+          "percent": 0.21
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mmatseleng Maria Mokaedi",
+          "votes": 3,
+          "percent": 0.21
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Pule Solomon Magano",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803023": {
+      "wardId": "63803023",
+      "wardNo": 23,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 2175,
+      "registered": 4692,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Lebogang Petrus Ramagaga",
+          "votes": 1124,
+          "percent": 51.68
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Gobusamang Ezekiel Mosiedi",
+          "votes": 446,
+          "percent": 20.51
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Baipidi Portia Tsoai",
+          "votes": 126,
+          "percent": 5.79
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Kabelo Kagiso Petrus Tlotleng",
+          "votes": 121,
+          "percent": 5.56
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Orapeleng Ben Koloane",
+          "votes": 113,
+          "percent": 5.2
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Nthatanyane Joyce Mogami",
+          "votes": 52,
+          "percent": 2.39
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Tshepo Nicholus Mogami",
+          "votes": 49,
+          "percent": 2.25
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Ephraim Rich Mothusi",
+          "votes": 37,
+          "percent": 1.7
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Tsholofelo Grace Motsamai",
+          "votes": 27,
+          "percent": 1.24
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Mpho Gosiame Goodness Moeng",
+          "votes": 25,
+          "percent": 1.15
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Thabang Godfrey Mokwene",
+          "votes": 19,
+          "percent": 0.87
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 10,
+          "percent": 0.46
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Pulane Sarah Tlhone",
+          "votes": 9,
+          "percent": 0.41
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Meshack Manzini Khambule",
+          "votes": 8,
+          "percent": 0.37
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 6,
+          "percent": 0.28
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mmatseleng Maria Mokaedi",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Tshepo Mosweu",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803024": {
+      "countedVds": [
+        86551791,
+        86551825,
+        86551836,
+        86551847,
+        86551869,
+        86552983,
+        86553221,
+        86553344,
+        86554424
+      ],
+      "wardId": "63803024",
+      "wardNo": 24,
+      "vdsCounted": 9,
+      "vdsTotal": 10,
+      "votesCast": 2161,
+      "registered": 5019,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Aubrey Maruping Lethoba",
+          "votes": 1209,
+          "percent": 55.95
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Kgosietsile Mompati",
+          "votes": 323,
+          "percent": 14.95
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Gaoraelwe Richard Pelele",
+          "votes": 187,
+          "percent": 8.65
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Mercy Nthabiseng Rabaji",
+          "votes": 121,
+          "percent": 5.6
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Paleng Kate Moloi",
+          "votes": 114,
+          "percent": 5.28
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Tebele Sam Mokate",
+          "votes": 73,
+          "percent": 3.38
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Gladness Mpho Matsogo",
+          "votes": 63,
+          "percent": 2.92
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Thabo Matlhako",
+          "votes": 25,
+          "percent": 1.16
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Boitshoko Perseverance Kgabi",
+          "votes": 15,
+          "percent": 0.69
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Kegomoditswe Julia Nonyane",
+          "votes": 12,
+          "percent": 0.56
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Katlego Mokate",
+          "votes": 7,
+          "percent": 0.32
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mmamooshwaane Kalane",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Pulane Sarah Tlhone",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "PAN AFRICANIST CONGRESS OF AZANIA",
+          "candidate": "Ezekiel Motlotlo Rabotapi",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803025": {
+      "countedVds": [
+        86551724,
+        86551768,
+        86551779,
+        86551803,
+        86553232
+      ],
+      "wardId": "63803025",
+      "wardNo": 25,
+      "vdsCounted": 5,
+      "vdsTotal": 6,
+      "votesCast": 1186,
+      "registered": 3729,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mzamo Patrick Nyoni",
+          "votes": 716,
+          "percent": 60.37
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Lennie Gosekwang Sehole",
+          "votes": 229,
+          "percent": 19.31
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Obakeng David Tshabalala",
+          "votes": 72,
+          "percent": 6.07
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Dinah Mokate",
+          "votes": 53,
+          "percent": 4.47
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Mogoje Joseph Mompati",
+          "votes": 37,
+          "percent": 3.12
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Tsholohelo Abram Moholo",
+          "votes": 30,
+          "percent": 2.53
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Boitumelo Hanny Dikome",
+          "votes": 16,
+          "percent": 1.35
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Neo Irene Mosiane",
+          "votes": 7,
+          "percent": 0.59
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 7,
+          "percent": 0.59
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 5,
+          "percent": 0.42
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Nomhle Elizabeth Mokate",
+          "votes": 4,
+          "percent": 0.34
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Zae Idah Mahupa",
+          "votes": 4,
+          "percent": 0.34
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Eric Legetla",
+          "votes": 3,
+          "percent": 0.25
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Mmamatlhogonolo Veronica Moholo",
+          "votes": 2,
+          "percent": 0.17
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Kelebogile Sophy Mogatoe",
+          "votes": 1,
+          "percent": 0.08
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803026": {
+      "wardId": "63803026",
+      "wardNo": 26,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 1515,
+      "registered": 4030,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Anele Nicholas Lolwane",
+          "votes": 936,
+          "percent": 61.78
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Phindile Matthews Saul",
+          "votes": 263,
+          "percent": 17.36
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Ephraim Qdane Valela",
+          "votes": 184,
+          "percent": 12.15
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Nomathemba Portia Mandhla",
+          "votes": 60,
+          "percent": 3.96
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Keitumetse Angelinah Jako",
+          "votes": 19,
+          "percent": 1.25
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Albert Scoma Mangayi",
+          "votes": 9,
+          "percent": 0.59
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Simon Peloeareng Magapong",
+          "votes": 9,
+          "percent": 0.59
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 9,
+          "percent": 0.59
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Mmapule Tau",
+          "votes": 6,
+          "percent": 0.4
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Sabubi Johannah Botlhoko",
+          "votes": 6,
+          "percent": 0.4
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Maboditi Jacobeth Rahman",
+          "votes": 5,
+          "percent": 0.33
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Tsietso Jeffrey Siamisang",
+          "votes": 5,
+          "percent": 0.33
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 4,
+          "percent": 0.26
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Kefilwe Mokaedi",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803027": {
+      "countedVds": [
+        86550037,
+        86552657,
+        86552668,
+        86553614
+      ],
+      "wardId": "63803027",
+      "wardNo": 27,
+      "vdsCounted": 4,
+      "vdsTotal": 5,
+      "votesCast": 1203,
+      "registered": 3619,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Patrick Mmotlana",
+          "votes": 613,
+          "percent": 50.96
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Tshepang Daniel Sediti",
+          "votes": 215,
+          "percent": 17.87
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Rabudula Gert Rapulana",
+          "votes": 129,
+          "percent": 10.72
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Neo Bernett Mabote",
+          "votes": 81,
+          "percent": 6.73
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Obakeng Ernest Mothupi",
+          "votes": 68,
+          "percent": 5.65
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Segopolo John Tauyagae",
+          "votes": 41,
+          "percent": 3.41
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Simon Peloeareng Magapong",
+          "votes": 18,
+          "percent": 1.5
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Thato Tumisang Motaung",
+          "votes": 11,
+          "percent": 0.91
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Mosetsanagape Constance Masilo",
+          "votes": 10,
+          "percent": 0.83
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Thabo Isaac Motshwari",
+          "votes": 9,
+          "percent": 0.75
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Mapaseka Sandra Mjekula",
+          "votes": 3,
+          "percent": 0.25
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Lindiwe Doreen November",
+          "votes": 2,
+          "percent": 0.17
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 2,
+          "percent": 0.17
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 1,
+          "percent": 0.08
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Phukuntshi David Seele",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Kelebogile Sophy Mogatoe",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803028": {
+      "wardId": "63803028",
+      "wardNo": 28,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1922,
+      "registered": 4861,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Kabelo Kenny Matlhomane",
+          "votes": 996,
+          "percent": 51.82
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Lesego Collins Kekana",
+          "votes": 217,
+          "percent": 11.29
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Mapelonomi Eva Springbok",
+          "votes": 159,
+          "percent": 8.27
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Matlhabanyane Boitumelo Alice Radebe",
+          "votes": 144,
+          "percent": 7.49
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Gaopalelwe Joel Tau",
+          "votes": 130,
+          "percent": 6.76
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Otsetswe Cornelius Kelaocwe",
+          "votes": 104,
+          "percent": 5.41
+        },
+        {
+          "party": "AFRICAN INDEPENDENT CONGRESS",
+          "candidate": "Cathrine Matshidiso",
+          "votes": 31,
+          "percent": 1.61
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Dineo Ruth Ignat",
+          "votes": 28,
+          "percent": 1.46
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Mmathapelo Caroline Kepu",
+          "votes": 22,
+          "percent": 1.14
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Tshekiso Jan",
+          "votes": 20,
+          "percent": 1.04
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Abram Abel Ramodumeng Tjale",
+          "votes": 19,
+          "percent": 0.99
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 18,
+          "percent": 0.94
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Molefi David Moroe",
+          "votes": 13,
+          "percent": 0.68
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Lesedi Malebe",
+          "votes": 10,
+          "percent": 0.52
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Tshepiso Piet Lentswane",
+          "votes": 7,
+          "percent": 0.36
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Kefilwe Mokaedi",
+          "votes": 2,
+          "percent": 0.1
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 2,
+          "percent": 0.1
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803029": {
+      "wardId": "63803029",
+      "wardNo": 29,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2787,
+      "registered": 5626,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Domitro Kabelo Tau",
+          "votes": 1214,
+          "percent": 43.56
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Mattheus Johannes Pieterse",
+          "votes": 458,
+          "percent": 16.43
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Mosimanegape Ronnie Letebele",
+          "votes": 203,
+          "percent": 7.28
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Obakeng Andries Kwenamore",
+          "votes": 181,
+          "percent": 6.49
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Matlhabanyane Boitumelo Alice Radebe",
+          "votes": 175,
+          "percent": 6.28
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Ikgopoleng Peter Basima",
+          "votes": 150,
+          "percent": 5.38
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Medupe Joseph Nkomo",
+          "votes": 111,
+          "percent": 3.98
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Dimakatso Jane Mosite",
+          "votes": 106,
+          "percent": 3.8
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 62,
+          "percent": 2.22
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Serame Ellie Botokolo",
+          "votes": 26,
+          "percent": 0.93
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Gauteng Joseph Mtuze",
+          "votes": 25,
+          "percent": 0.9
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Amogelang Manake",
+          "votes": 24,
+          "percent": 0.86
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Tshepiso Piet Lentswane",
+          "votes": 18,
+          "percent": 0.65
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Gilbert Thamsaqa Njemla",
+          "votes": 12,
+          "percent": 0.43
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Lesedi Malebe",
+          "votes": 9,
+          "percent": 0.32
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Tshepo Island Moatswimang",
+          "votes": 8,
+          "percent": 0.29
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Novuyo Joy Makhapela",
+          "votes": 4,
+          "percent": 0.14
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mmamooshwaane Kalane",
+          "votes": 1,
+          "percent": 0.04
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803030": {
+      "countedVds": [
+        86551465,
+        86552882,
+        86554312
+      ],
+      "wardId": "63803030",
+      "wardNo": 30,
+      "vdsCounted": 3,
+      "vdsTotal": 4,
+      "votesCast": 1635,
+      "registered": 5866,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Kefentse Darren Seketema",
+          "votes": 736,
+          "percent": 45.02
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Refentse Valencia Motale",
+          "votes": 385,
+          "percent": 23.55
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Phineas Katiso Mahlatse",
+          "votes": 207,
+          "percent": 12.66
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Thapelo Motshegoa",
+          "votes": 77,
+          "percent": 4.71
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Molatudi Johannes Matho",
+          "votes": 62,
+          "percent": 3.79
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Vincent Karabo Kgositau",
+          "votes": 53,
+          "percent": 3.24
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Neo Irene Mosiane",
+          "votes": 38,
+          "percent": 2.32
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Kagiso Isaac Matane",
+          "votes": 17,
+          "percent": 1.04
+        },
+        {
+          "party": "AFRICAN REVOLUTIONARY COUNCIL",
+          "candidate": "Thato Serati",
+          "votes": 15,
+          "percent": 0.92
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Samuel Gaboitsewe Kgogobi",
+          "votes": 14,
+          "percent": 0.86
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Mmapule Tau",
+          "votes": 8,
+          "percent": 0.49
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Lesedi Malebe",
+          "votes": 8,
+          "percent": 0.49
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Lottia Thato Maloma",
+          "votes": 3,
+          "percent": 0.18
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Maria Lolikie Mothupi",
+          "votes": 3,
+          "percent": 0.18
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 3,
+          "percent": 0.18
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Gabadise Modise",
+          "votes": 3,
+          "percent": 0.18
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 2,
+          "percent": 0.12
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Didintle Segobanyana",
+          "votes": 1,
+          "percent": 0.06
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803031": {
+      "wardId": "63803031",
+      "wardNo": 31,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 1624,
+      "registered": 4029,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Phindile Lennox Phantsi",
+          "votes": 923,
+          "percent": 56.83
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Kgomotso Protetia Molokwe",
+          "votes": 193,
+          "percent": 11.88
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Israel Mogomotsi Bole",
+          "votes": 130,
+          "percent": 8
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Tshipietsile Samson Dikobe",
+          "votes": 76,
+          "percent": 4.68
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Oageng Macdonald Senokwanyane",
+          "votes": 65,
+          "percent": 4
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Kealeboga Abel Mosiane",
+          "votes": 51,
+          "percent": 3.14
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Motlatsi Johannes Maseko",
+          "votes": 44,
+          "percent": 2.71
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Arone Daniel Abrams",
+          "votes": 33,
+          "percent": 2.03
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Phukuntshi David Seele",
+          "votes": 23,
+          "percent": 1.42
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Ralebetse Ellen Mogari",
+          "votes": 23,
+          "percent": 1.42
+        },
+        {
+          "party": "UNITED AFRICANS TRANSFORMATION",
+          "candidate": "Mogomotsi Metswamere",
+          "votes": 18,
+          "percent": 1.11
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Lesedi Malebe",
+          "votes": 12,
+          "percent": 0.74
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Jackson Mathibe",
+          "votes": 12,
+          "percent": 0.74
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Aobakwe Emmanuel Moamogwa",
+          "votes": 7,
+          "percent": 0.43
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 6,
+          "percent": 0.37
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Kelebogile Sophy Mogatoe",
+          "votes": 4,
+          "percent": 0.25
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 4,
+          "percent": 0.25
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Phindile Lennox Phantsi",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803032": {
+      "wardId": "63803032",
+      "wardNo": 32,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2142,
+      "registered": 4628,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Magdeline Mamoikgatlho Els",
+          "votes": 1005,
+          "percent": 46.92
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Mpho Emmanuel Lentswane",
+          "votes": 305,
+          "percent": 14.24
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Thabo Leonald Selepe",
+          "votes": 271,
+          "percent": 12.65
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Goitsemodimo Basima",
+          "votes": 207,
+          "percent": 9.66
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Mendu Frans Qaisa",
+          "votes": 65,
+          "percent": 3.03
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Maitumelo Julia Lekgetho",
+          "votes": 56,
+          "percent": 2.61
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Poloko France Mooki",
+          "votes": 54,
+          "percent": 2.52
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Zukiswa Portia Jwiri",
+          "votes": 53,
+          "percent": 2.47
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Kealeboga Sydney Thekiso",
+          "votes": 51,
+          "percent": 2.38
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 37,
+          "percent": 1.73
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Kabelo Johannes Tau",
+          "votes": 14,
+          "percent": 0.65
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Gilbert Thamsaqa Njemla",
+          "votes": 11,
+          "percent": 0.51
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Itumeleng John Mmopelwa",
+          "votes": 6,
+          "percent": 0.28
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Angelinah Dipuo Mooki",
+          "votes": 4,
+          "percent": 0.19
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Tshepiso Piet Lentswane",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mmamooshwaane Kalane",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Otsile Silas Motsamai",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803033": {
+      "countedVds": [
+        86590176
+      ],
+      "wardId": "63803033",
+      "wardNo": 33,
+      "vdsCounted": 1,
+      "vdsTotal": 2,
+      "votesCast": 984,
+      "registered": 5341,
+      "rows": [
+        {
+          "party": "INDEPENDENT",
+          "candidate": null,
+          "votes": 284,
+          "percent": 28.86
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Petrus Makhwenkhwe Funde",
+          "votes": 225,
+          "percent": 22.87
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Andries Katlego Moreo",
+          "votes": 125,
+          "percent": 12.7
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Disang Noel Moncho",
+          "votes": 122,
+          "percent": 12.4
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Itumeleng Victor Vryman",
+          "votes": 93,
+          "percent": 9.45
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Manzobe Ellen Nomadolo",
+          "votes": 43,
+          "percent": 4.37
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Priscilla Nono Baitaodi",
+          "votes": 21,
+          "percent": 2.13
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Justice Phemelo Lemme",
+          "votes": 16,
+          "percent": 1.63
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Boitumelo Maggy Ditlhodi",
+          "votes": 11,
+          "percent": 1.12
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Naledi Elna Tshesebe",
+          "votes": 10,
+          "percent": 1.02
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Boikanyo Collins Nkwatle",
+          "votes": 9,
+          "percent": 0.91
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 9,
+          "percent": 0.91
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Felicia Dube",
+          "votes": 6,
+          "percent": 0.61
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Mpho Noah Khoane",
+          "votes": 3,
+          "percent": 0.3
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 3,
+          "percent": 0.3
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 2,
+          "percent": 0.2
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Lesedi Malebe",
+          "votes": 1,
+          "percent": 0.1
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mmamooshwaane Kalane",
+          "votes": 1,
+          "percent": 0.1
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": true,
+      "seatWinner": null
+    },
+    "63803034": {
+      "wardId": "63803034",
+      "wardNo": 34,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1639,
+      "registered": 3931,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Phuthego Patrick Molale",
+          "votes": 743,
+          "percent": 45.33
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Koloti Lillian Lekoma",
+          "votes": 192,
+          "percent": 11.71
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Glenda Kgakgamatso",
+          "votes": 164,
+          "percent": 10.01
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Mmaserame Cynthia Mogorosi",
+          "votes": 128,
+          "percent": 7.81
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Modukanele Isaac Tlhone",
+          "votes": 99,
+          "percent": 6.04
+        },
+        {
+          "party": "AFRICAN SPEAR MOVEMENT",
+          "candidate": "Pako Ivy Nyaoza",
+          "votes": 96,
+          "percent": 5.86
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Katlego Kebonye Nko",
+          "votes": 64,
+          "percent": 3.9
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Mohau David Ditlotlo",
+          "votes": 39,
+          "percent": 2.38
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Mogomotsi Sydney Matsheka",
+          "votes": 23,
+          "percent": 1.4
+        },
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Thebeetsile Israel Bathobakae",
+          "votes": 22,
+          "percent": 1.34
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Letlhogonolo Hendrick Moseki",
+          "votes": 19,
+          "percent": 1.16
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Ontlhotse George Esaka",
+          "votes": 13,
+          "percent": 0.79
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Nametsegang Kebonethata Moleta",
+          "votes": 13,
+          "percent": 0.79
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Angelinah Dipuo Mooki",
+          "votes": 9,
+          "percent": 0.55
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 9,
+          "percent": 0.55
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Esau Jankie Ndarala",
+          "votes": 5,
+          "percent": 0.31
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mmamooshwaane Kalane",
+          "votes": 1,
+          "percent": 0.06
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "63803035": {
+      "wardId": "63803035",
+      "wardNo": 35,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1553,
+      "registered": 4261,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Remoneilwe Gomolemo Molosioa",
+          "votes": 716,
+          "percent": 46.1
+        },
+        {
+          "party": "ACTIONSA",
+          "candidate": "Kedibone Mirriam Lethoko",
+          "votes": 196,
+          "percent": 12.62
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Christina Lobisa Mahlangu",
+          "votes": 171,
+          "percent": 11.01
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Wageng Aubrey Molaodi",
+          "votes": 154,
+          "percent": 9.92
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Tshepiso Mabel Selepe",
+          "votes": 133,
+          "percent": 8.56
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Thabiso Tumelo Ndaleni",
+          "votes": 51,
+          "percent": 3.28
+        },
+        {
+          "party": "UNITED CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": null,
+          "votes": 44,
+          "percent": 2.83
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Mosetsanagape Constance Masilo",
+          "votes": 32,
+          "percent": 2.06
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "William Mosimane",
+          "votes": 24,
+          "percent": 1.55
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Van Graan Michael Böhmer",
+          "votes": 10,
+          "percent": 0.64
+        },
+        {
+          "party": "AFRICAN REVOLUTIONARY COUNCIL",
+          "candidate": "Rose Motlalepula Moshe",
+          "votes": 6,
+          "percent": 0.39
+        },
+        {
+          "party": "BOPHUTHATSWANA CIVIL MOVEMENT",
+          "candidate": "Mapitso Kedisaletse Marybright Kgakgane",
+          "votes": 5,
+          "percent": 0.32
+        },
+        {
+          "party": "FORUM FOR DEMOCRATS",
+          "candidate": "Mmamooshwaane Kalane",
+          "votes": 5,
+          "percent": 0.32
+        },
+        {
+          "party": "AFRICAN PEOPLE'S CONVENTION",
+          "candidate": "Angelinah Dipuo Mooki",
+          "votes": 3,
+          "percent": 0.19
+        },
+        {
+          "party": "KOPANO MOVEMENT",
+          "candidate": "Ontlametse Manyaapelo",
+          "votes": 3,
+          "percent": 0.19
+        },
+        {
+          "party": "ALL AND CITIZENS",
+          "candidate": "Thembeni Hemilton Nkamane",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

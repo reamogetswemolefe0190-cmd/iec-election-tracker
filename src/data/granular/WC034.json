@@ -1,0 +1,526 @@
+{
+  "municipalityId": "WC034",
+  "name": "Swellendam Local Municipality",
+  "updatedAt": "2026-11-05T14:36:46.854Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 16,
+  "vdsTotal": 16,
+  "wardsTotal": 6,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 11,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 10515,
+      "percent": 39.83,
+      "wardsLeading": 3,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 8799,
+      "percent": 33.33,
+      "wardsLeading": 2,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 5641,
+      "percent": 21.37,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 1106,
+      "percent": 4.19,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 113,
+      "percent": 0.43,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 50,
+      "percent": 0.19,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+      "votes": 45,
+      "percent": 0.17,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INDEPENDENT",
+      "votes": 38,
+      "percent": 0.14,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UMKHONTO WESIZWE PARTY",
+      "votes": 38,
+      "percent": 0.14,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICA FIRST",
+      "votes": 35,
+      "percent": 0.13,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "NATIONAL COLOURED CONGRESS",
+      "votes": 21,
+      "percent": 0.08,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 4
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 4
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 2
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "seats": 1
+    }
+  ],
+  "wards": {
+    "10304001": {
+      "wardId": "10304001",
+      "wardNo": 1,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 2096,
+      "registered": 3263,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Elna Jacoba Lamprecht",
+          "votes": 1523,
+          "percent": 72.66
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Jasper du Toit Loubser",
+          "votes": 308,
+          "percent": 14.69
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mark Lloyd Fillis",
+          "votes": 179,
+          "percent": 8.54
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Joseph James Louw",
+          "votes": 74,
+          "percent": 3.53
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Simlindile Madubela",
+          "votes": 7,
+          "percent": 0.33
+        },
+        {
+          "party": "SOUTH AFRICA FIRST",
+          "candidate": "Roddy Kervin Paulsen",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+          "candidate": "Alewyn Jacobus Burger",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Johannes Albertus Basson",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10304002": {
+      "wardId": "10304002",
+      "wardNo": 2,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2563,
+      "registered": 3997,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Isaac Henry Ferguson",
+          "votes": 1233,
+          "percent": 48.11
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Frans Kees",
+          "votes": 886,
+          "percent": 34.57
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Elsina Christina Jacobs",
+          "votes": 404,
+          "percent": 15.76
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Christo Johann Visser",
+          "votes": 24,
+          "percent": 0.94
+        },
+        {
+          "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+          "candidate": "Alewyn Jacobus Burger",
+          "votes": 6,
+          "percent": 0.23
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Stefanus Nel",
+          "votes": 6,
+          "percent": 0.23
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Andreas Biko",
+          "votes": 3,
+          "percent": 0.12
+        },
+        {
+          "party": "SOUTH AFRICA FIRST",
+          "candidate": "Johandi Lotz",
+          "votes": 1,
+          "percent": 0.04
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10304003": {
+      "wardId": "10304003",
+      "wardNo": 3,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2219,
+      "registered": 3816,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Dawid Julius",
+          "votes": 935,
+          "percent": 42.14
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Melanie Gertrude du Plessis",
+          "votes": 687,
+          "percent": 30.96
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Rehon John Christiaan Jacobs",
+          "votes": 478,
+          "percent": 21.54
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Christo Johann Visser",
+          "votes": 58,
+          "percent": 2.61
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Emile John Jacobs",
+          "votes": 38,
+          "percent": 1.71
+        },
+        {
+          "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+          "candidate": "Alewyn Jacobus Burger",
+          "votes": 9,
+          "percent": 0.41
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Asanda Limaphi",
+          "votes": 7,
+          "percent": 0.32
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Ferdi Windvogel",
+          "votes": 4,
+          "percent": 0.18
+        },
+        {
+          "party": "SOUTH AFRICA FIRST",
+          "candidate": "Johandi Lotz",
+          "votes": 3,
+          "percent": 0.14
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10304004": {
+      "wardId": "10304004",
+      "wardNo": 4,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2903,
+      "registered": 4639,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Marizel van Bosch",
+          "votes": 1498,
+          "percent": 51.6
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Oktober Windvogel",
+          "votes": 655,
+          "percent": 22.56
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Andre Petersen",
+          "votes": 592,
+          "percent": 20.39
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Aluchia Hattingh",
+          "votes": 120,
+          "percent": 4.13
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Nelmarie Mariska Rossouw",
+          "votes": 11,
+          "percent": 0.38
+        },
+        {
+          "party": "SOUTH AFRICA FIRST",
+          "candidate": "Lucreshia Helene Pietersen",
+          "votes": 9,
+          "percent": 0.31
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Kobus Biko",
+          "votes": 9,
+          "percent": 0.31
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Asandile Nkonji",
+          "votes": 5,
+          "percent": 0.17
+        },
+        {
+          "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+          "candidate": "Alewyn Jacobus Burger",
+          "votes": 3,
+          "percent": 0.1
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Gabriel David Jasson",
+          "votes": 1,
+          "percent": 0.03
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10304005": {
+      "wardId": "10304005",
+      "wardNo": 5,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1959,
+      "registered": 5426,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Bongani Onke Sonqwenqwe",
+          "votes": 1276,
+          "percent": 65.14
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Monwabisi Mtyanga",
+          "votes": 441,
+          "percent": 22.51
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Agnes Bokwana",
+          "votes": 183,
+          "percent": 9.34
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Thanduxolo Samson Xhala",
+          "votes": 30,
+          "percent": 1.53
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Leon van Zyl",
+          "votes": 11,
+          "percent": 0.56
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Ronald Charles Caven Cupido",
+          "votes": 9,
+          "percent": 0.46
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Andreas Biko",
+          "votes": 3,
+          "percent": 0.15
+        },
+        {
+          "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+          "candidate": "Alewyn Jacobus Burger",
+          "votes": 2,
+          "percent": 0.1
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Gabriel David Jasson",
+          "votes": 2,
+          "percent": 0.1
+        },
+        {
+          "party": "SOUTH AFRICA FIRST",
+          "candidate": "Michael Swartbooi",
+          "votes": 2,
+          "percent": 0.1
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "10304006": {
+      "wardId": "10304006",
+      "wardNo": 6,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1471,
+      "registered": 2796,
+      "rows": [
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Julian Alan Matthysen",
+          "votes": 743,
+          "percent": 50.51
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Henry Frederick Matthysen",
+          "votes": 452,
+          "percent": 30.73
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Patrick Phoni",
+          "votes": 238,
+          "percent": 16.18
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Simon England Goble",
+          "votes": 20,
+          "percent": 1.36
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Johannes Albertus Basson",
+          "votes": 8,
+          "percent": 0.54
+        },
+        {
+          "party": "NATIONAL COLOURED CONGRESS",
+          "candidate": "Gabriel David Jasson",
+          "votes": 5,
+          "percent": 0.34
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Anele Luhalu",
+          "votes": 3,
+          "percent": 0.2
+        },
+        {
+          "party": "CAPE INDEPENDENCE PARTY / KAAPSE ONAFHANKLIKHEIDS PARTY",
+          "candidate": "Alewyn Jacobus Burger",
+          "votes": 1,
+          "percent": 0.07
+        },
+        {
+          "party": "SOUTH AFRICA FIRST",
+          "candidate": "Deon Dywili",
+          "votes": 1,
+          "percent": 0.07
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

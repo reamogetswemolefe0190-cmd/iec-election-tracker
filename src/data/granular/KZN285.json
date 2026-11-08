@@ -1,0 +1,1088 @@
+{
+  "municipalityId": "KZN285",
+  "name": "Mthonjaneni",
+  "updatedAt": "2026-11-06T03:51:58.146Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 81,
+  "vdsTotal": 83,
+  "wardsTotal": 13,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 25,
+  "seatsMajority": 13,
+  "parties": [
+    {
+      "party": "INKATHA FREEDOM PARTY",
+      "votes": 28326,
+      "percent": 58.32,
+      "wardsLeading": 13,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UMKHONTO WESIZWE PARTY",
+      "votes": 11550,
+      "percent": 23.78,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 5515,
+      "percent": 11.35,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "UMKHUMBI WESIZWE ORGANISATION",
+      "votes": 1450,
+      "percent": 2.99,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 503,
+      "percent": 1.04,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "NATIONAL FREEDOM PARTY",
+      "votes": 355,
+      "percent": 0.73,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 260,
+      "percent": 0.54,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN TRANSFORMATION MOVEMENT",
+      "votes": 205,
+      "percent": 0.42,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "INDEPENDENT",
+      "votes": 184,
+      "percent": 0.38,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 121,
+      "percent": 0.25,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 58,
+      "percent": 0.12,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+      "votes": 44,
+      "percent": 0.09,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN RENAISSANCE UNITY",
+      "votes": 3,
+      "percent": 0.01,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "seatsSoFar": {
+    "filled": 12,
+    "parties": [
+      {
+        "party": "INKATHA FREEDOM PARTY",
+        "seats": 12
+      }
+    ]
+  },
+  "partyTally": {
+    "vdsReported": 81,
+    "seatsFilled": 12,
+    "parties": [
+      {
+        "party": "INKATHA FREEDOM PARTY",
+        "vdsWon": 68,
+        "wardSeats": 12,
+        "seats": 12
+      },
+      {
+        "party": "UMKHONTO WESIZWE PARTY",
+        "vdsWon": 9,
+        "wardSeats": 0,
+        "seats": 0
+      },
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 2,
+        "wardSeats": 0,
+        "seats": 0
+      },
+      {
+        "party": "UMKHUMBI WESIZWE ORGANISATION",
+        "vdsWon": 2,
+        "wardSeats": 0,
+        "seats": 0
+      }
+    ]
+  },
+  "wards": {
+    "52805001": {
+      "wardId": "52805001",
+      "wardNo": 1,
+      "vdsCounted": 8,
+      "vdsTotal": 8,
+      "votesCast": 1773,
+      "registered": 3885,
+      "rows": [
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Senzo Mkhanyiseni Mbatha",
+          "votes": 1335,
+          "percent": 75.3
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Confidence Thandaza Nkwanyana",
+          "votes": 203,
+          "percent": 11.45
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Sheshile Biyela",
+          "votes": 168,
+          "percent": 9.48
+        },
+        {
+          "party": "UMKHUMBI WESIZWE ORGANISATION",
+          "candidate": "Bheki William Ntanzi",
+          "votes": 32,
+          "percent": 1.8
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Bongani Smiso Muziwakhe Majola",
+          "votes": 9,
+          "percent": 0.51
+        },
+        {
+          "party": "NATIONAL FREEDOM PARTY",
+          "candidate": "Lindani Welcome Biyela",
+          "votes": 7,
+          "percent": 0.39
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Smangele Jahephi Magwaza",
+          "votes": 6,
+          "percent": 0.34
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Zanele Snegugu Mbuyisa",
+          "votes": 5,
+          "percent": 0.28
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Thobeka Zinhle Skhakhane",
+          "votes": 4,
+          "percent": 0.23
+        },
+        {
+          "party": "AFRICAN RENAISSANCE UNITY",
+          "candidate": "Wiseman Nhlakanipho Mabaso",
+          "votes": 3,
+          "percent": 0.17
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Blessing Mduduzi Qwabe",
+          "votes": 1,
+          "percent": 0.06
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "52805002": {
+      "wardId": "52805002",
+      "wardNo": 2,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 2064,
+      "registered": 4644,
+      "rows": [
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Nkosinathi Sydney Ntuli",
+          "votes": 1033,
+          "percent": 50.05
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Eugen Mandlenkosi Maphumulo",
+          "votes": 527,
+          "percent": 25.53
+        },
+        {
+          "party": "UMKHUMBI WESIZWE ORGANISATION",
+          "candidate": "Eric Muntukabani Masikane",
+          "votes": 253,
+          "percent": 12.26
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Bonangani Zenzile Gabela",
+          "votes": 95,
+          "percent": 4.6
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Alexis Theodosius Amy Ntuli",
+          "votes": 92,
+          "percent": 4.46
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Zama Zinhle Mthimkhulu",
+          "votes": 22,
+          "percent": 1.07
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Siyabonga Mhlongo",
+          "votes": 17,
+          "percent": 0.82
+        },
+        {
+          "party": "NATIONAL FREEDOM PARTY",
+          "candidate": "Lindani Welcome Biyela",
+          "votes": 13,
+          "percent": 0.63
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Sihle Nondumiso Sibiya",
+          "votes": 12,
+          "percent": 0.58
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Blessing Mduduzi Qwabe",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "52805003": {
+      "wardId": "52805003",
+      "wardNo": 3,
+      "vdsCounted": 4,
+      "vdsTotal": 4,
+      "votesCast": 1373,
+      "registered": 2931,
+      "rows": [
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Sanele Nhlakanipho Nxumalo",
+          "votes": 1071,
+          "percent": 78
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Simphiwe Jeffrey Mbuyazi",
+          "votes": 171,
+          "percent": 12.45
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Clerice Lethokwimi Thangilisho Zulu",
+          "votes": 101,
+          "percent": 7.36
+        },
+        {
+          "party": "UMKHUMBI WESIZWE ORGANISATION",
+          "candidate": "Mzwandile Bongimpilo Mdletshe",
+          "votes": 15,
+          "percent": 1.09
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Goodhope Sithembile Biyela",
+          "votes": 6,
+          "percent": 0.44
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Bongani Sabelo Nene",
+          "votes": 4,
+          "percent": 0.29
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Bongani Smiso Muziwakhe Majola",
+          "votes": 4,
+          "percent": 0.29
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Zandile Sibiya",
+          "votes": 1,
+          "percent": 0.07
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Blessing Mduduzi Qwabe",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "52805004": {
+      "countedVds": [
+        43500013,
+        43500035,
+        43500057,
+        43503892,
+        43504523,
+        43504545
+      ],
+      "wardId": "52805004",
+      "wardNo": 4,
+      "vdsCounted": 6,
+      "vdsTotal": 8,
+      "votesCast": 1802,
+      "registered": 3840,
+      "rows": [
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Sibongiseni Kwenzo Mthimkhulu",
+          "votes": 916,
+          "percent": 50.83
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Sifiso Mthembu",
+          "votes": 722,
+          "percent": 40.07
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Siphamandla Desmond Ngcobo",
+          "votes": 98,
+          "percent": 5.44
+        },
+        {
+          "party": "UMKHUMBI WESIZWE ORGANISATION",
+          "candidate": "Andile ten ten Ntuli",
+          "votes": 31,
+          "percent": 1.72
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Silindile Majola",
+          "votes": 20,
+          "percent": 1.11
+        },
+        {
+          "party": "NATIONAL FREEDOM PARTY",
+          "candidate": "Njabulo Alfred Ngema",
+          "votes": 7,
+          "percent": 0.39
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Zandile Sibiya",
+          "votes": 4,
+          "percent": 0.22
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nosipho Nomusa Magwaza",
+          "votes": 3,
+          "percent": 0.17
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Blessing Mduduzi Qwabe",
+          "votes": 1,
+          "percent": 0.06
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Khanyisani Nqobile Biyela",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "52805005": {
+      "wardId": "52805005",
+      "wardNo": 5,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 1694,
+      "registered": 3314,
+      "rows": [
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Nkosinathi Zulu",
+          "votes": 801,
+          "percent": 47.28
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Sibusiso Michael Khuzwayo",
+          "votes": 471,
+          "percent": 27.8
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Cyril Vukani Masondo",
+          "votes": 392,
+          "percent": 23.14
+        },
+        {
+          "party": "UMKHUMBI WESIZWE ORGANISATION",
+          "candidate": "Njabulo Mchunu",
+          "votes": 11,
+          "percent": 0.65
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Bongani Smiso Muziwakhe Majola",
+          "votes": 10,
+          "percent": 0.59
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Sbongakonke Olwethu Xulu",
+          "votes": 4,
+          "percent": 0.24
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Siphamandla Welcome Ncube",
+          "votes": 3,
+          "percent": 0.18
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Zanele Snegugu Mbuyisa",
+          "votes": 2,
+          "percent": 0.12
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Blessing Mduduzi Qwabe",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "52805006": {
+      "wardId": "52805006",
+      "wardNo": 6,
+      "vdsCounted": 7,
+      "vdsTotal": 7,
+      "votesCast": 2043,
+      "registered": 3886,
+      "rows": [
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Swelihle Siyanda Masuku",
+          "votes": 1167,
+          "percent": 57.12
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Bonginkosi Mkhize",
+          "votes": 710,
+          "percent": 34.75
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Domonic Zulu",
+          "votes": 112,
+          "percent": 5.48
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Thokozani Vecemkosini Nene",
+          "votes": 26,
+          "percent": 1.27
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Sihle Nondumiso Sibiya",
+          "votes": 9,
+          "percent": 0.44
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Njabulo Sbongiseni Mhlongo",
+          "votes": 7,
+          "percent": 0.34
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Bongani Smiso Muziwakhe Majola",
+          "votes": 7,
+          "percent": 0.34
+        },
+        {
+          "party": "UMKHUMBI WESIZWE ORGANISATION",
+          "candidate": "Nonhle Thembeka Khumalo",
+          "votes": 5,
+          "percent": 0.24
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Blessing Mduduzi Qwabe",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "52805007": {
+      "wardId": "52805007",
+      "wardNo": 7,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 1755,
+      "registered": 3655,
+      "rows": [
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Thami Henry Mchunu",
+          "votes": 624,
+          "percent": 35.56
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Msizi Phindokuhle Nsele",
+          "votes": 604,
+          "percent": 34.42
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mhlonipheni S'Phamandla Nene",
+          "votes": 438,
+          "percent": 24.96
+        },
+        {
+          "party": "UMKHUMBI WESIZWE ORGANISATION",
+          "candidate": "Thobile Carol Ntuli",
+          "votes": 30,
+          "percent": 1.71
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Erick Mthokozisi Mthembu",
+          "votes": 26,
+          "percent": 1.48
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Maqhawe Eric Mtabela",
+          "votes": 22,
+          "percent": 1.25
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Sekwanele Ngwenya",
+          "votes": 6,
+          "percent": 0.34
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Blessing Mduduzi Qwabe",
+          "votes": 3,
+          "percent": 0.17
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nothando Nokwethemba Dlamini",
+          "votes": 2,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "52805008": {
+      "wardId": "52805008",
+      "wardNo": 8,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 1956,
+      "registered": 4047,
+      "rows": [
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Mzonjani Sithembiso Khoza",
+          "votes": 745,
+          "percent": 38.09
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Gabriel Vusumuzi Philani Gumede",
+          "votes": 675,
+          "percent": 34.51
+        },
+        {
+          "party": "UMKHUMBI WESIZWE ORGANISATION",
+          "candidate": "Sabelo Freedom Mpungose",
+          "votes": 288,
+          "percent": 14.72
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Richman Sakhumuzi Shobede",
+          "votes": 189,
+          "percent": 9.66
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Nkosikhona Siqiniseko Mazibuko",
+          "votes": 24,
+          "percent": 1.23
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Sizwe Luyanda Xulu",
+          "votes": 21,
+          "percent": 1.07
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Mthokozisi Zipho Mtshali",
+          "votes": 8,
+          "percent": 0.41
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Sekwanele Ngwenya",
+          "votes": 3,
+          "percent": 0.15
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Blessing Mduduzi Qwabe",
+          "votes": 3,
+          "percent": 0.15
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "52805009": {
+      "wardId": "52805009",
+      "wardNo": 9,
+      "vdsCounted": 6,
+      "vdsTotal": 6,
+      "votesCast": 1804,
+      "registered": 3729,
+      "rows": [
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Innocent Mankomane Biyela",
+          "votes": 948,
+          "percent": 52.55
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Riehard Musawenkosi Xulu",
+          "votes": 606,
+          "percent": 33.59
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Celimpilo Ignatious Thusi",
+          "votes": 191,
+          "percent": 10.59
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Bongani Smiso Muziwakhe Majola",
+          "votes": 18,
+          "percent": 1
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Siphakamiso Kwenzokuhle Khumalo",
+          "votes": 16,
+          "percent": 0.89
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Lindokuhle Sakhile Mbuyisa",
+          "votes": 8,
+          "percent": 0.44
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Smiso Ntokozo Ndabandaba",
+          "votes": 7,
+          "percent": 0.39
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Zanele Snegugu Mbuyisa",
+          "votes": 6,
+          "percent": 0.33
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Blessing Mduduzi Qwabe",
+          "votes": 2,
+          "percent": 0.11
+        },
+        {
+          "party": "UMKHUMBI WESIZWE ORGANISATION",
+          "candidate": "Tholinhlanhla Psychology Ngema",
+          "votes": 2,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "52805010": {
+      "wardId": "52805010",
+      "wardNo": 10,
+      "vdsCounted": 9,
+      "vdsTotal": 9,
+      "votesCast": 2177,
+      "registered": 4401,
+      "rows": [
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Mtuseni Emmanuel Ntenga",
+          "votes": 1360,
+          "percent": 62.47
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Zamambo Zulu",
+          "votes": 443,
+          "percent": 20.35
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Khulekani Shadrack Ntshangase",
+          "votes": 206,
+          "percent": 9.46
+        },
+        {
+          "party": "NATIONAL FREEDOM PARTY",
+          "candidate": "Sifiso Mlawu",
+          "votes": 120,
+          "percent": 5.51
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Ngcebo Lawrence Buthelezi",
+          "votes": 13,
+          "percent": 0.6
+        },
+        {
+          "party": "UMKHUMBI WESIZWE ORGANISATION",
+          "candidate": "Bhekumusa Futhamandla Dludla",
+          "votes": 11,
+          "percent": 0.51
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Bongani Smiso Muziwakhe Majola",
+          "votes": 10,
+          "percent": 0.46
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Blessing Mduduzi Qwabe",
+          "votes": 7,
+          "percent": 0.32
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Mzingaye Petros Khumalo",
+          "votes": 5,
+          "percent": 0.23
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Sibongiseni Cyprian Mkhize",
+          "votes": 2,
+          "percent": 0.09
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "52805011": {
+      "wardId": "52805011",
+      "wardNo": 11,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 1793,
+      "registered": 3296,
+      "rows": [
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Thokozani Elba Ntsele",
+          "votes": 1185,
+          "percent": 66.09
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Sibusiso Msezane",
+          "votes": 292,
+          "percent": 16.29
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Dumisani Ntsele",
+          "votes": 252,
+          "percent": 14.05
+        },
+        {
+          "party": "UMKHUMBI WESIZWE ORGANISATION",
+          "candidate": "Lessly Masiza Majola",
+          "votes": 38,
+          "percent": 2.12
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Bongani Smiso Muziwakhe Majola",
+          "votes": 9,
+          "percent": 0.5
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Mzingaye Petros Khumalo",
+          "votes": 6,
+          "percent": 0.33
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "S'Celo Msezane",
+          "votes": 5,
+          "percent": 0.28
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Nomusa Toli Xulu",
+          "votes": 4,
+          "percent": 0.22
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Blessing Mduduzi Qwabe",
+          "votes": 2,
+          "percent": 0.11
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "52805012": {
+      "wardId": "52805012",
+      "wardNo": 12,
+      "vdsCounted": 8,
+      "vdsTotal": 8,
+      "votesCast": 2039,
+      "registered": 4187,
+      "rows": [
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Sphamandla Mzwenkosi Dludla",
+          "votes": 1293,
+          "percent": 63.41
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Siyabonga Velaphi Mdunge",
+          "votes": 393,
+          "percent": 19.27
+        },
+        {
+          "party": "INDEPENDENT",
+          "candidate": "Londumusa Jabulani Mashiyane",
+          "votes": 184,
+          "percent": 9.02
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Sibonelo Dlamini",
+          "votes": 129,
+          "percent": 6.33
+        },
+        {
+          "party": "NATIONAL FREEDOM PARTY",
+          "candidate": "Bongie Fikile Ngema",
+          "votes": 12,
+          "percent": 0.59
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Bongani Smiso Muziwakhe Majola",
+          "votes": 10,
+          "percent": 0.49
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nomfundo Nondumiso Danisa",
+          "votes": 7,
+          "percent": 0.34
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Mzingaye Petros Khumalo",
+          "votes": 6,
+          "percent": 0.29
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Maqenge Jerome Xulu",
+          "votes": 3,
+          "percent": 0.15
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Blessing Mduduzi Qwabe",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "UMKHUMBI WESIZWE ORGANISATION",
+          "candidate": "Tholokuhle Nombuso Biyela",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "52805013": {
+      "wardId": "52805013",
+      "wardNo": 13,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 2033,
+      "registered": 4139,
+      "rows": [
+        {
+          "party": "INKATHA FREEDOM PARTY",
+          "candidate": "Kwazikwenkosi Professar Magcaba",
+          "votes": 1701,
+          "percent": 83.67
+        },
+        {
+          "party": "UMKHONTO WESIZWE PARTY",
+          "candidate": "Velefini Erasmus Mthabela",
+          "votes": 169,
+          "percent": 8.31
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Nontokozo Khanyisile Ngema",
+          "votes": 144,
+          "percent": 7.08
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Ntombi Nokukhanya Biyela",
+          "votes": 6,
+          "percent": 0.3
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Bongani Smiso Muziwakhe Majola",
+          "votes": 5,
+          "percent": 0.25
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "S'Thembile Ntshangase",
+          "votes": 5,
+          "percent": 0.25
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Blessing Mduduzi Qwabe",
+          "votes": 2,
+          "percent": 0.1
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Sekwanele Ngwenya",
+          "votes": 1,
+          "percent": 0.05
+        },
+        {
+          "party": "UMKHUMBI WESIZWE ORGANISATION",
+          "candidate": "Nompumelelo Nkosinomusa Magwaza",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

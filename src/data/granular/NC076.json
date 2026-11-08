@@ -1,0 +1,542 @@
+{
+  "municipalityId": "NC076",
+  "name": "Thembelihle Local Municipality",
+  "updatedAt": "2026-11-06T03:51:48.550Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 16,
+  "vdsTotal": 16,
+  "wardsTotal": 6,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 11,
+  "seatsMajority": 6,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 5100,
+      "percent": 46.36,
+      "wardsLeading": 5,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 1526,
+      "percent": 13.87,
+      "wardsLeading": 1,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 1215,
+      "percent": 11.04,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 1083,
+      "percent": 9.84,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 982,
+      "percent": 8.93,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ONAFHANKLIK",
+      "votes": 482,
+      "percent": 4.38,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+      "votes": 234,
+      "percent": 2.13,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 211,
+      "percent": 1.92,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SIYATHEMBA COMMUNITY MOVEMENT",
+      "votes": 168,
+      "percent": 1.53,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 5
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "seats": 2
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "seats": 1
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 1
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 1
+    },
+    {
+      "party": "ONAFHANKLIK",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 16,
+    "seatsFilled": 11,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 7,
+        "wardSeats": 5,
+        "seats": 5
+      },
+      {
+        "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+        "vdsWon": 6,
+        "wardSeats": 1,
+        "seats": 2
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 3,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "ECONOMIC FREEDOM FIGHTERS",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "ONAFHANKLIK",
+        "vdsWon": 0,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "30706001": {
+      "wardId": "30706001",
+      "wardNo": 1,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1039,
+      "registered": 1842,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Justice Russell Goeieman",
+          "votes": 669,
+          "percent": 64.39
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Sandile Lemate Jermaine Hendriks",
+          "votes": 127,
+          "percent": 12.22
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Eralda Viljoen",
+          "votes": 93,
+          "percent": 8.95
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Nately Shereen du Toit",
+          "votes": 80,
+          "percent": 7.7
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Esme Malanie Boshoff",
+          "votes": 38,
+          "percent": 3.66
+        },
+        {
+          "party": "SIYATHEMBA COMMUNITY MOVEMENT",
+          "candidate": "Cheswin Thiaan Jowell Naudé",
+          "votes": 24,
+          "percent": 2.31
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": null,
+          "votes": 6,
+          "percent": 0.58
+        },
+        {
+          "party": "ONAFHANKLIK",
+          "candidate": "Piet Cornelise Jood",
+          "votes": 2,
+          "percent": 0.19
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30706002": {
+      "wardId": "30706002",
+      "wardNo": 2,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1169,
+      "registered": 1934,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Nicolene Kok",
+          "votes": 464,
+          "percent": 39.69
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Thomas Henry Bissett",
+          "votes": 349,
+          "percent": 29.85
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Martha Eliva Hendriks",
+          "votes": 112,
+          "percent": 9.58
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Maria Mult",
+          "votes": 109,
+          "percent": 9.32
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Jeffrey Steven Makokong",
+          "votes": 42,
+          "percent": 3.59
+        },
+        {
+          "party": "SIYATHEMBA COMMUNITY MOVEMENT",
+          "candidate": "Cornado Yuelarmeo Cedwyn Meyers",
+          "votes": 37,
+          "percent": 3.17
+        },
+        {
+          "party": "ONAFHANKLIK",
+          "candidate": "Amoria Struis",
+          "votes": 21,
+          "percent": 1.8
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Jeffrie Martin de Voss",
+          "votes": 20,
+          "percent": 1.71
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": null,
+          "votes": 15,
+          "percent": 1.28
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30706003": {
+      "wardId": "30706003",
+      "wardNo": 3,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 929,
+      "registered": 1586,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Victor Siphiwo Dolopi",
+          "votes": 409,
+          "percent": 44.03
+        },
+        {
+          "party": "ONAFHANKLIK",
+          "candidate": "Piet Cornelise Jood",
+          "votes": 145,
+          "percent": 15.61
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Dolores Diana Louw",
+          "votes": 131,
+          "percent": 14.1
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Esau Makaleni",
+          "votes": 73,
+          "percent": 7.86
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Benita Marilyn Potgieter",
+          "votes": 68,
+          "percent": 7.32
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": null,
+          "votes": 41,
+          "percent": 4.41
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Hendrik Lambert Brits",
+          "votes": 26,
+          "percent": 2.8
+        },
+        {
+          "party": "SIYATHEMBA COMMUNITY MOVEMENT",
+          "candidate": "Jobanian Dudley Oliphant",
+          "votes": 24,
+          "percent": 2.58
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Catherine Casper",
+          "votes": 12,
+          "percent": 1.29
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30706004": {
+      "wardId": "30706004",
+      "wardNo": 4,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 802,
+      "registered": 1532,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Laurick Rayno Joseph Hendriks",
+          "votes": 451,
+          "percent": 56.23
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Siyabulela Simpiwe Simamkele Mako",
+          "votes": 108,
+          "percent": 13.47
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Derick Hendry Jansen",
+          "votes": 87,
+          "percent": 10.85
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Anna Willamiena Melk",
+          "votes": 67,
+          "percent": 8.35
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Ferona Kock",
+          "votes": 41,
+          "percent": 5.11
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": null,
+          "votes": 21,
+          "percent": 2.62
+        },
+        {
+          "party": "ONAFHANKLIK",
+          "candidate": "Piet Cornelise Jood",
+          "votes": 13,
+          "percent": 1.62
+        },
+        {
+          "party": "SIYATHEMBA COMMUNITY MOVEMENT",
+          "candidate": "Elvin Kammies",
+          "votes": 8,
+          "percent": 1
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Hendrik Lambert Brits",
+          "votes": 6,
+          "percent": 0.75
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30706005": {
+      "wardId": "30706005",
+      "wardNo": 5,
+      "vdsCounted": 1,
+      "vdsTotal": 1,
+      "votesCast": 1097,
+      "registered": 1654,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Curven Riyaad Renardo May",
+          "votes": 526,
+          "percent": 47.95
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Jacobus Booysen",
+          "votes": 164,
+          "percent": 14.95
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Jasmine Rushaida Paulus",
+          "votes": 163,
+          "percent": 14.86
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Stoffel Engelbrecht",
+          "votes": 83,
+          "percent": 7.57
+        },
+        {
+          "party": "ONAFHANKLIK",
+          "candidate": "Ricardo Laudrick Olyn",
+          "votes": 52,
+          "percent": 4.74
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": null,
+          "votes": 47,
+          "percent": 4.28
+        },
+        {
+          "party": "AFRICAN CHRISTIAN DEMOCRATIC PARTY",
+          "candidate": "Johanna Magdalena Plaaitjies",
+          "votes": 36,
+          "percent": 3.28
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Hendrik Lambert Brits",
+          "votes": 18,
+          "percent": 1.64
+        },
+        {
+          "party": "SIYATHEMBA COMMUNITY MOVEMENT",
+          "candidate": "Susanna le Roux",
+          "votes": 8,
+          "percent": 0.73
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30706006": {
+      "wardId": "30706006",
+      "wardNo": 6,
+      "vdsCounted": 9,
+      "vdsTotal": 9,
+      "votesCast": 507,
+      "registered": 1559,
+      "rows": [
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Karlin Schlebusch",
+          "votes": 333,
+          "percent": 65.68
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Elsie Jood",
+          "votes": 96,
+          "percent": 18.93
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Emily Ramadimetja Maringa",
+          "votes": 38,
+          "percent": 7.5
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Elisbe Stephani Visser",
+          "votes": 13,
+          "percent": 2.56
+        },
+        {
+          "party": "ONAFHANKLIK",
+          "candidate": "Ricardo Laudrick Olyn",
+          "votes": 12,
+          "percent": 2.37
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Ian Melbur Jacobs",
+          "votes": 12,
+          "percent": 2.37
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": null,
+          "votes": 3,
+          "percent": 0.59
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}

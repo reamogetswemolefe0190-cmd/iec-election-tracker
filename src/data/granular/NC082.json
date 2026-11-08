@@ -1,0 +1,978 @@
+{
+  "municipalityId": "NC082",
+  "name": "Kai !Garib Local Municipality",
+  "updatedAt": "2026-11-06T03:51:47.502Z",
+  "stale": false,
+  "declared": false,
+  "combinedBallots": true,
+  "vdsCounted": 43,
+  "vdsTotal": 43,
+  "wardsTotal": 10,
+  "wardsWithNoResults": 0,
+  "seatsTotal": 19,
+  "seatsMajority": 10,
+  "parties": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "votes": 15257,
+      "percent": 39.58,
+      "wardsLeading": 7,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "votes": 10228,
+      "percent": 26.54,
+      "wardsLeading": 3,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "votes": 4331,
+      "percent": 11.24,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "votes": 3556,
+      "percent": 9.23,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "HOPE FOR THE FUTURE",
+      "votes": 3013,
+      "percent": 7.82,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "votes": 1511,
+      "percent": 3.92,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ECONOMIC FREEDOM FIGHTERS",
+      "votes": 410,
+      "percent": 1.06,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+      "votes": 90,
+      "percent": 0.23,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "RESTORATION SA",
+      "votes": 55,
+      "percent": 0.14,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "ORGANIC HUMANITY MOVEMENT",
+      "votes": 36,
+      "percent": 0.09,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRIKA MAYIBUYE MOVEMENT",
+      "votes": 30,
+      "percent": 0.08,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    },
+    {
+      "party": "AFRICAN TRANSFORMATION MOVEMENT",
+      "votes": 26,
+      "percent": 0.07,
+      "wardsLeading": 0,
+      "wardsWon": null,
+      "seats": null
+    }
+  ],
+  "provisionalSeats": [
+    {
+      "party": "AFRICAN NATIONAL CONGRESS",
+      "seats": 8
+    },
+    {
+      "party": "DEMOCRATIC ALLIANCE",
+      "seats": 5
+    },
+    {
+      "party": "PATRIOTIC ALLIANCE",
+      "seats": 2
+    },
+    {
+      "party": "SOUTH AFRICAN COMMUNIST PARTY",
+      "seats": 2
+    },
+    {
+      "party": "HOPE FOR THE FUTURE",
+      "seats": 1
+    },
+    {
+      "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+      "seats": 1
+    }
+  ],
+  "partyTally": {
+    "vdsReported": 43,
+    "seatsFilled": 19,
+    "parties": [
+      {
+        "party": "AFRICAN NATIONAL CONGRESS",
+        "vdsWon": 19,
+        "wardSeats": 7,
+        "seats": 8
+      },
+      {
+        "party": "DEMOCRATIC ALLIANCE",
+        "vdsWon": 16,
+        "wardSeats": 3,
+        "seats": 5
+      },
+      {
+        "party": "PATRIOTIC ALLIANCE",
+        "vdsWon": 2,
+        "wardSeats": 0,
+        "seats": 2
+      },
+      {
+        "party": "SOUTH AFRICAN COMMUNIST PARTY",
+        "vdsWon": 2,
+        "wardSeats": 0,
+        "seats": 2
+      },
+      {
+        "party": "HOPE FOR THE FUTURE",
+        "vdsWon": 1,
+        "wardSeats": 0,
+        "seats": 1
+      },
+      {
+        "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+        "vdsWon": 3,
+        "wardSeats": 0,
+        "seats": 1
+      }
+    ]
+  },
+  "wards": {
+    "30802001": {
+      "wardId": "30802001",
+      "wardNo": 1,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1537,
+      "registered": 3180,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Audrey Merelise Mathews",
+          "votes": 741,
+          "percent": 48.21
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Abraham Blou",
+          "votes": 395,
+          "percent": 25.7
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Martha Magrietha Markus",
+          "votes": 121,
+          "percent": 7.87
+        },
+        {
+          "party": "HOPE FOR THE FUTURE",
+          "candidate": "Ann Lucia Sauls",
+          "votes": 115,
+          "percent": 7.48
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Stephanus Adriaan Bruwer",
+          "votes": 82,
+          "percent": 5.34
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Crich Jouse Visagie",
+          "votes": 49,
+          "percent": 3.19
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Cordny Aaliyah Wylbach",
+          "votes": 25,
+          "percent": 1.63
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "John Pear Hanse",
+          "votes": 4,
+          "percent": 0.26
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ruben Daries",
+          "votes": 2,
+          "percent": 0.13
+        },
+        {
+          "party": "AFRICAN TRANSFORMATION MOVEMENT",
+          "candidate": "Sipho Jabulane Lubisi",
+          "votes": 1,
+          "percent": 0.07
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Yolanda Bester",
+          "votes": 1,
+          "percent": 0.07
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Kagisho Peace Katong",
+          "votes": 1,
+          "percent": 0.07
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30802002": {
+      "wardId": "30802002",
+      "wardNo": 2,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 1851,
+      "registered": 3835,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Wendell Mark Magerman",
+          "votes": 945,
+          "percent": 51.05
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Challot Anna April",
+          "votes": 417,
+          "percent": 22.53
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Theatrunut Lossinda Luther",
+          "votes": 319,
+          "percent": 17.23
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Stephanus Adriaan Bruwer",
+          "votes": 58,
+          "percent": 3.13
+        },
+        {
+          "party": "HOPE FOR THE FUTURE",
+          "candidate": "Jan Jacobus Jansen",
+          "votes": 52,
+          "percent": 2.81
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "John Pear Hanse",
+          "votes": 24,
+          "percent": 1.3
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Senobia Williamé Kentania Booysen",
+          "votes": 17,
+          "percent": 0.92
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Ontekanye Sarah Boikanyo",
+          "votes": 14,
+          "percent": 0.76
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Shereldene Ezaneo Brand",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Yolanda Bester",
+          "votes": 2,
+          "percent": 0.11
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ruben Daries",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30802003": {
+      "wardId": "30802003",
+      "wardNo": 3,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 2310,
+      "registered": 4282,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Marius Basson",
+          "votes": 881,
+          "percent": 38.14
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Jesica Sarah White",
+          "votes": 661,
+          "percent": 28.61
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Stephanus Adriaan Bruwer",
+          "votes": 233,
+          "percent": 10.09
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Sergio Francios Olivier",
+          "votes": 223,
+          "percent": 9.65
+        },
+        {
+          "party": "HOPE FOR THE FUTURE",
+          "candidate": "Bonita Bernice Scheepers",
+          "votes": 148,
+          "percent": 6.41
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Nico David Matthys",
+          "votes": 129,
+          "percent": 5.58
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Elzaan Veronique Elvie Yster",
+          "votes": 25,
+          "percent": 1.08
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ruben Daries",
+          "votes": 4,
+          "percent": 0.17
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Terence Mc Clelland Brink",
+          "votes": 3,
+          "percent": 0.13
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Randall Francisco Tanga",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Yolanda Bester",
+          "votes": 1,
+          "percent": 0.04
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30802004": {
+      "wardId": "30802004",
+      "wardNo": 4,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1792,
+      "registered": 2967,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Ryaan Giggs Saal",
+          "votes": 725,
+          "percent": 40.46
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Ernestine Nicole Isaaks",
+          "votes": 517,
+          "percent": 28.85
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Marchwin Elroy Joseph",
+          "votes": 283,
+          "percent": 15.79
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Luzaan Tracy Pietersen",
+          "votes": 103,
+          "percent": 5.75
+        },
+        {
+          "party": "HOPE FOR THE FUTURE",
+          "candidate": "Mary Swartz",
+          "votes": 71,
+          "percent": 3.96
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Stephanus Adriaan Bruwer",
+          "votes": 67,
+          "percent": 3.74
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Geraldo Demitric Willemse",
+          "votes": 18,
+          "percent": 1
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Nicolaas Jacobus April",
+          "votes": 8,
+          "percent": 0.45
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ruben Daries",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Yolanda Bester",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Terence Mc Clelland Brink",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30802005": {
+      "wardId": "30802005",
+      "wardNo": 5,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 2125,
+      "registered": 3415,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Magriete Elizabeth Faroa",
+          "votes": 699,
+          "percent": 32.89
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Anna Adonija Smith",
+          "votes": 623,
+          "percent": 29.32
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Elizabeth Magdelene Visagie",
+          "votes": 503,
+          "percent": 23.67
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Maria Jaar",
+          "votes": 144,
+          "percent": 6.78
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Bürnadene Vos",
+          "votes": 124,
+          "percent": 5.84
+        },
+        {
+          "party": "HOPE FOR THE FUTURE",
+          "candidate": "Jeramy Donald de Wee",
+          "votes": 18,
+          "percent": 0.85
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Geoffrey Nelville Adams",
+          "votes": 11,
+          "percent": 0.52
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "John Pear Hanse",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ruben Daries",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Yolanda Bester",
+          "votes": 0,
+          "percent": 0
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Judean Louw",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30802006": {
+      "wardId": "30802006",
+      "wardNo": 6,
+      "vdsCounted": 2,
+      "vdsTotal": 2,
+      "votesCast": 2253,
+      "registered": 3910,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Mervin Andrew Willemse",
+          "votes": 1205,
+          "percent": 53.48
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Randall Edward Pieters",
+          "votes": 426,
+          "percent": 18.91
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Anna Theresa Vries",
+          "votes": 300,
+          "percent": 13.32
+        },
+        {
+          "party": "HOPE FOR THE FUTURE",
+          "candidate": "Kabienta Papier",
+          "votes": 289,
+          "percent": 12.83
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Bürnadene Vos",
+          "votes": 14,
+          "percent": 0.62
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Mina Mouers",
+          "votes": 7,
+          "percent": 0.31
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": null,
+          "votes": 5,
+          "percent": 0.22
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Yolanda Bester",
+          "votes": 3,
+          "percent": 0.13
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Maria Magdalena Jacobs",
+          "votes": 2,
+          "percent": 0.09
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ruben Daries",
+          "votes": 1,
+          "percent": 0.04
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Mareshall Mercia Natalia Filander",
+          "votes": 1,
+          "percent": 0.04
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30802007": {
+      "wardId": "30802007",
+      "wardNo": 7,
+      "vdsCounted": 5,
+      "vdsTotal": 5,
+      "votesCast": 2082,
+      "registered": 3488,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Aron Johnson",
+          "votes": 699,
+          "percent": 33.57
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Luvelen Rodnie du Plessis",
+          "votes": 651,
+          "percent": 31.27
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Lofty Selopyane",
+          "votes": 301,
+          "percent": 14.46
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Nonceba du Plessies",
+          "votes": 266,
+          "percent": 12.78
+        },
+        {
+          "party": "HOPE FOR THE FUTURE",
+          "candidate": "Anthony Mario Macheal du Plessis",
+          "votes": 112,
+          "percent": 5.38
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Bürnadene Vos",
+          "votes": 23,
+          "percent": 1.1
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Jyleen Chanel Cloete",
+          "votes": 11,
+          "percent": 0.53
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Elizabeth Pofadder",
+          "votes": 8,
+          "percent": 0.38
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Yolanda Bester",
+          "votes": 5,
+          "percent": 0.24
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ruben Daries",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Mareshall Mercia Natalia Filander",
+          "votes": 3,
+          "percent": 0.14
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30802008": {
+      "wardId": "30802008",
+      "wardNo": 8,
+      "vdsCounted": 8,
+      "vdsTotal": 8,
+      "votesCast": 2118,
+      "registered": 3865,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Charntell Frances Priscilla Bezuidenhout",
+          "votes": 893,
+          "percent": 42.16
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Larry Alwyn Hamner",
+          "votes": 692,
+          "percent": 32.67
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Kenneth Elvanzo Kooper",
+          "votes": 206,
+          "percent": 9.73
+        },
+        {
+          "party": "HOPE FOR THE FUTURE",
+          "candidate": "Vita-Lee Brink",
+          "votes": 112,
+          "percent": 5.29
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Elizabeth Oewies",
+          "votes": 88,
+          "percent": 4.15
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Bürnadene Vos",
+          "votes": 66,
+          "percent": 3.12
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Bohutsana Floria Sefate",
+          "votes": 44,
+          "percent": 2.08
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Yolanda Bester",
+          "votes": 7,
+          "percent": 0.33
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Samuel George Adams",
+          "votes": 6,
+          "percent": 0.28
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Gerald Gerrit Voster",
+          "votes": 3,
+          "percent": 0.14
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ruben Daries",
+          "votes": 1,
+          "percent": 0.05
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30802009": {
+      "wardId": "30802009",
+      "wardNo": 9,
+      "vdsCounted": 3,
+      "vdsTotal": 3,
+      "votesCast": 1872,
+      "registered": 3255,
+      "rows": [
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Chrisjan Markgraaff",
+          "votes": 610,
+          "percent": 32.59
+        },
+        {
+          "party": "HOPE FOR THE FUTURE",
+          "candidate": "Johannes Jacobus Willemse",
+          "votes": 570,
+          "percent": 30.45
+        },
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Hendriena Groenewaldt",
+          "votes": 512,
+          "percent": 27.35
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Eljean Leonora van Schalkwyk",
+          "votes": 88,
+          "percent": 4.7
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Grethell Stephanie van Wyk",
+          "votes": 44,
+          "percent": 2.35
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Bürnadene Vos",
+          "votes": 36,
+          "percent": 1.92
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Mareshall Mercia Natalia Filander",
+          "votes": 4,
+          "percent": 0.21
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ruben Daries",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Rosaria Basson",
+          "votes": 3,
+          "percent": 0.16
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Yolanda Bester",
+          "votes": 2,
+          "percent": 0.11
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Jan Minnies",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    },
+    "30802010": {
+      "wardId": "30802010",
+      "wardNo": 10,
+      "vdsCounted": 9,
+      "vdsTotal": 9,
+      "votesCast": 1376,
+      "registered": 2800,
+      "rows": [
+        {
+          "party": "AFRICAN NATIONAL CONGRESS",
+          "candidate": "Micheal Joey Basson",
+          "votes": 690,
+          "percent": 50.15
+        },
+        {
+          "party": "SOUTH AFRICAN COMMUNIST PARTY",
+          "candidate": "Romano Deodat Rhyn",
+          "votes": 309,
+          "percent": 22.46
+        },
+        {
+          "party": "DEMOCRATIC ALLIANCE",
+          "candidate": "Dominic Xavier Thomas",
+          "votes": 178,
+          "percent": 12.94
+        },
+        {
+          "party": "VRYHEIDSFRONT PLUS | FREEDOM FRONT PLUS",
+          "candidate": "Stephanus Adriaan Bruwer",
+          "votes": 78,
+          "percent": 5.67
+        },
+        {
+          "party": "PATRIOTIC ALLIANCE",
+          "candidate": "Dennis Vaas",
+          "votes": 62,
+          "percent": 4.51
+        },
+        {
+          "party": "ECONOMIC FREEDOM FIGHTERS",
+          "candidate": "Christo van Wyk",
+          "votes": 38,
+          "percent": 2.76
+        },
+        {
+          "party": "HOPE FOR THE FUTURE",
+          "candidate": "Ennie Mompe",
+          "votes": 17,
+          "percent": 1.24
+        },
+        {
+          "party": "ORGANIC HUMANITY MOVEMENT",
+          "candidate": "Yolanda Bester",
+          "votes": 2,
+          "percent": 0.15
+        },
+        {
+          "party": "PEOPLE'S MOVEMENT FOR CHANGE",
+          "candidate": "Mareshall Mercia Natalia Filander",
+          "votes": 1,
+          "percent": 0.07
+        },
+        {
+          "party": "RESTORATION SA",
+          "candidate": "Getro Titus",
+          "votes": 1,
+          "percent": 0.07
+        },
+        {
+          "party": "AFRIKA MAYIBUYE MOVEMENT",
+          "candidate": "Ruben Daries",
+          "votes": 0,
+          "percent": 0
+        }
+      ],
+      "wardBallotOnly": true,
+      "independentsCombined": false,
+      "seatWinner": null
+    }
+  }
+}
