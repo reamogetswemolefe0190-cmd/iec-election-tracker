@@ -21,6 +21,21 @@ The application ingests live public results from the **Electoral Commission of S
 
 ---
 
+## Interface & Responsive Showcase
+
+### Desktop Dashboard & Geographic Drill-Down
+![Desktop Dashboard Overview](./docs/screenshots/desktop-dashboard.png)
+
+### Party War Room & Civic Intelligence
+![Party War Room View](./docs/screenshots/desktop-war-room.png)
+
+### Leaderboard & Provincial Matrix vs. Mobile Responsive Layout
+| Desktop Standings & Map Matrix | Mobile Viewport (iPhone 16 Pro Max) |
+| :---: | :---: |
+| ![Desktop Analytics](./docs/screenshots/desktop-analytics.png) | <img src="./docs/screenshots/mobile-dashboard.png" width="320" alt="Mobile Dashboard" /> |
+
+---
+
 ## System Architecture
 
 ```mermaid
