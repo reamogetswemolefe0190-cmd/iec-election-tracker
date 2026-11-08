@@ -13,11 +13,11 @@
 
 ---
 
-## Overview
+## About the Project
 
-The **Mzansi Civic Election Tracker** is a production-grade full-stack web application designed to handle high-concurrency election-night traffic while providing clean, real-time civic insights for all 257 South African municipal councils and the National Assembly.
+**Mzansi Civic Election Tracker** is a production-grade, full-stack web application built to deliver real-time election results, interactive geographic ward drill-downs, and coalition modeling across all **257 South African municipalities**, **9 provinces**, and the **400-seat National Assembly**.
 
-The application ingests live public results from the **Electoral Commission of South Africa (IEC)**, shields upstream services through serverless edge caching, and renders responsive data visualizations, interactive council maps, and coalition simulations with sub-second page transitions.
+Engineered for election-night traffic spikes, the platform pairs a **Next.js 16 (App Router)** serverless edge proxy with **SWR** client-side state synchronization and pre-compiled local **GeoJSON** vector maps—ensuring sub-50ms map interactions and uninterrupted availability even when upstream Electoral Commission (IEC) feeds experience heavy load.
 
 ---
 
